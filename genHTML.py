@@ -17,7 +17,8 @@ def genPageHeader(title):
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
     </head>
     <body>
 """ % {'title': title}
