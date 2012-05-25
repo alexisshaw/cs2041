@@ -1,0 +1,25 @@
+username:                jun_34
+password:                stroveyelled
+name:                    Jun Williams
+DOB:                     04/04/1991
+email:                   Jun.Williams@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.6, max: 1.77 }
+    me:                      1.78
+weight:
+    me:                      60
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { linux }
+programming_languages:
+    me:                      { Ruby, C++ }
+editor:
+    looking_for:             vi
+    me:                      NEdit

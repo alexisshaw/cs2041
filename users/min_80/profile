@@ -1,0 +1,24 @@
+username:                min_80
+password:                stanchAngel
+name:                    Min Zhuang
+DOB:                     03/10/1983
+email:                   Min.Zhuang@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    me:                      74
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { ios }
+programming_languages:
+    me:                      { PHP, C++ }
+editor:
+    me:                      vi

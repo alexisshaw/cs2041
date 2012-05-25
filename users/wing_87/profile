@@ -1,0 +1,26 @@
+username:                wing_87
+password:                LornaHalie
+name:                    Wing Bell
+DOB:                     08/10/1977
+email:                   Wing.Bell@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.83 }
+    me:                      1.81
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

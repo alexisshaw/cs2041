@@ -1,0 +1,27 @@
+username:                amanda_22
+password:                Ceressprung
+name:                    Amanda Nam
+DOB:                     22/11/1991
+email:                   Amanda.Nam@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.64, max: 1.86 }
+    me:                      1.80
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android }
+    me:                      { android }
+programming_languages:
+    looking_for:             { Python }
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,26 @@
+username:                jessica_50
+password:                WyatDicky
+name:                    Jessica Fan
+DOB:                     25/02/1978
+email:                   Jessica.Fan@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.87 }
+    me:                      1.80
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      mechanical
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Python }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             II: Attack of the Clones
+    me:                      V: The Empire Strikes Back

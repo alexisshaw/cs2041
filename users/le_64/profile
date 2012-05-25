@@ -1,0 +1,28 @@
+username:                le_64
+password:                pixieshating
+name:                    Le Kwon
+DOB:                     01/02/1975
+email:                   Le.Kwon@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.66
+weight:
+    looking_for:             { min: 40, max: 94 }
+    me:                      61
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      V: The Empire Strikes Back

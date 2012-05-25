@@ -1,0 +1,28 @@
+username:                lucy_51
+password:                nektonshred
+name:                    Lucy Duan
+DOB:                     21/03/1977
+email:                   Lucy.Duan@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.67, max: 1.84 }
+    me:                      1.85
+weight:
+    me:                      56
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    looking_for:             { Python, C++, JavaScript }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             NEdit
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

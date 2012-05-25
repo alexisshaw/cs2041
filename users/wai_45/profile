@@ -1,0 +1,27 @@
+username:                wai_45
+password:                shtoomWeibel
+name:                    Wai Lu
+DOB:                     08/08/1974
+email:                   Wai.Lu@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.87
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript }
+    me:                      { Perl, Python, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      III: Revenge of the Sith

@@ -1,0 +1,25 @@
+username:                chung_26
+password:                skegsbludge
+name:                    Chung Ly
+DOB:                     03/10/1972
+email:                   Chung.Ly@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 57, max: 68 }
+    me:                      71
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs

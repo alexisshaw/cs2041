@@ -1,0 +1,28 @@
+username:                barry_44
+password:                ErickaPelee
+name:                    Barry Song
+DOB:                     26/03/1972
+email:                   Barry.Song@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 35, max: 67 }
+    me:                      64
+engineering_discipline:
+    looking_for:             software
+    me:                      aerospace
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             notepad++
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

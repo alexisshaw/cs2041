@@ -1,0 +1,28 @@
+username:                richard_27
+password:                TanhyaOscoda
+name:                    Richard Park
+DOB:                     25/09/1973
+email:                   Richard.Park@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 57, max: 83 }
+    me:                      70
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      petroleum
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Perl, PHP }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

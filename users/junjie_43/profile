@@ -1,0 +1,27 @@
+username:                junjie_43
+password:                Nadabadoitit
+name:                    Junjie McGrath
+DOB:                     04/04/1974
+email:                   Junjie.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 36, max: 78 }
+    me:                      70
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C, JavaScript }
+    me:                      { Haskell, Perl, Python, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

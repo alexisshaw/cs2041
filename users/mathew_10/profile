@@ -1,0 +1,26 @@
+username:                mathew_10
+password:                jessesSanta
+name:                    Mathew Wright
+DOB:                     13/12/1977
+email:                   Mathew.Wright@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.93
+weight:
+    looking_for:             { min: 45, max: 69 }
+    me:                      67
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { windows, android, linux, osx }
+editor:
+    looking_for:             vi
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

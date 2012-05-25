@@ -1,0 +1,25 @@
+username:                matthew_91
+password:                luxuryLandan
+name:                    Matthew Chow
+DOB:                     14/12/1978
+email:                   Matthew.Chow@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    looking_for:             { min: 56, max: 92 }
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, Perl, Python, C++ }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

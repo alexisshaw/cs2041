@@ -1,0 +1,27 @@
+username:                kelly_88
+password:                tapisrebit
+name:                    Kelly Deng
+DOB:                     24/09/1981
+email:                   Kelly.Deng@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.78
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

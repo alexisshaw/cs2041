@@ -1,0 +1,28 @@
+username:                jennifer_64
+password:                livedmanic
+name:                    Jennifer Jiang
+DOB:                     24/06/1979
+email:                   Jennifer.Jiang@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.72, max: 1.83 }
+    me:                      1.89
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             software
+    me:                      aerospace
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             vi
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,24 @@
+username:                shirley_91
+password:                Ailinacitrin
+name:                    Shirley You
+DOB:                     15/01/1973
+email:                   Shirley.You@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.77
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript, Java }
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,28 @@
+username:                jennifer_17
+password:                outcrypotts
+name:                    Jennifer Ong
+DOB:                     13/04/1979
+email:                   Jennifer.Ong@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.49, max: 1.68 }
+    me:                      1.69
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    looking_for:             { Perl, C++ }
+    me:                      { Perl, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

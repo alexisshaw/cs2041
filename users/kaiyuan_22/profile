@@ -1,0 +1,23 @@
+username:                kaiyuan_22
+password:                oileryzimbi
+name:                    Kaiyuan Kong
+DOB:                     14/11/1974
+email:                   Kaiyuan.Kong@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 55, max: 59 }
+    me:                      66
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, PHP, C, JavaScript }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

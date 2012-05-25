@@ -1,0 +1,28 @@
+username:                ying_24
+password:                tuskedOech
+name:                    Ying De Silva
+DOB:                     09/09/1991
+email:                   Ying.De Silva@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.77 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 66, max: 97 }
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    looking_for:             { android, ios }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, C, JavaScript, Java }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

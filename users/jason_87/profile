@@ -1,0 +1,27 @@
+username:                jason_87
+password:                parvoHoople
+name:                    Jason Vu
+DOB:                     12/12/1976
+email:                   Jason.Vu@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 8, max: 89 }
+    me:                      67
+engineering_discipline:
+    looking_for:             electrical
+    me:                      software
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows }
+programming_languages:
+    me:                      { Ruby, JavaScript }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

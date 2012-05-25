@@ -1,0 +1,27 @@
+username:                kelly_91
+password:                convoyDetta
+name:                    Kelly Coleman
+DOB:                     26/09/1985
+email:                   Kelly.Coleman@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.61 }
+    me:                      1.64
+weight:
+    me:                      56
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

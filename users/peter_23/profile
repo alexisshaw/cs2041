@@ -1,0 +1,26 @@
+username:                peter_23
+password:                Lismuling
+name:                    Peter Russell
+DOB:                     09/05/1976
+email:                   Peter.Russell@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 62, max: 85 }
+    me:                      79
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, android, ios, osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

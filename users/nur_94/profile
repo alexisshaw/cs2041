@@ -1,0 +1,27 @@
+username:                nur_94
+password:                umbelsReinke
+name:                    Nur He
+DOB:                     26/03/1991
+email:                   Nur.He@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 1.74 }
+    me:                      1.79
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             electrical
+    me:                      biomedical
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, PHP, C++ }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

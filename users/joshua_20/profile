@@ -1,0 +1,27 @@
+username:                joshua_20
+password:                arfswoundy
+name:                    Joshua Wei
+DOB:                     21/05/1992
+email:                   Joshua.Wei@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.99
+weight:
+    me:                      73
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, ios }
+programming_languages:
+    looking_for:             { Perl, PHP, C++ }
+    me:                      { Ruby, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

@@ -1,0 +1,29 @@
+username:                esther_57
+password:                Louannsupe
+name:                    Esther Williams
+DOB:                     13/12/1971
+email:                   Esther.Williams@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.76 }
+    me:                      1.77
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             electrical
+    me:                      chemical
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, linux, ios }
+programming_languages:
+    looking_for:             { Perl, C++, C }
+    me:                      { Python }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

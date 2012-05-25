@@ -1,0 +1,26 @@
+username:                adrian_96
+password:                Waafswhich
+name:                    Adrian Hong
+DOB:                     22/05/1988
+email:                   Adrian.Hong@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 49, max: 75 }
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

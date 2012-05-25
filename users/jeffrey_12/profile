@@ -1,0 +1,25 @@
+username:                jeffrey_12
+password:                jollyOrd
+name:                    Jeffrey Zhou
+DOB:                     19/05/1984
+email:                   Jeffrey.Zhou@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.53, max: 1.81 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 51, max: 76 }
+    me:                      76
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Python, JavaScript }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

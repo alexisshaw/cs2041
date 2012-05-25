@@ -1,0 +1,29 @@
+username:                zi_29
+password:                searsridge
+name:                    Zi Widjaja
+DOB:                     26/02/1984
+email:                   Zi.Widjaja@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.45, max: 1.9 }
+    me:                      1.86
+weight:
+    looking_for:             { min: 62, max: 85 }
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, ios, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { C++, JavaScript, Java }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

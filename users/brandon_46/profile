@@ -1,0 +1,24 @@
+username:                brandon_46
+password:                hokegamer
+name:                    Brandon Huynh
+DOB:                     19/12/1978
+email:                   Brandon.Huynh@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    looking_for:             { min: 51, max: 68 }
+    me:                      69
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+programming_languages:
+    looking_for:             { Python }
+    me:                      { Ruby, Haskell, Perl, PHP, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit

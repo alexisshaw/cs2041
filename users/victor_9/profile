@@ -1,0 +1,27 @@
+username:                victor_9
+password:                tastypointy
+name:                    Victor McGrath
+DOB:                     04/05/1984
+email:                   Victor.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 65, max: 89 }
+    me:                      78
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C++, Java }
+    me:                      { Perl, Python, JavaScript, Java }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

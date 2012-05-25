@@ -1,0 +1,23 @@
+username:                amy_60
+password:                SinbadPablum
+name:                    Amy Smith
+DOB:                     22/05/1973
+email:                   Amy.Smith@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.47, max: 1.69 }
+    me:                      1.78
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      V: The Empire Strikes Back

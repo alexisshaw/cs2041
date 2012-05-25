@@ -1,0 +1,28 @@
+username:                jae_74
+password:                doublyZohars
+name:                    Jae Dong
+DOB:                     27/07/1990
+email:                   Jae.Dong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 61, max: 107 }
+    me:                      76
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

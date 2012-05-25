@@ -1,0 +1,27 @@
+username:                hanna_16
+password:                tastesLapaz
+name:                    Hanna Choi
+DOB:                     13/12/1977
+email:                   Hanna.Choi@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.82 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 55, max: 87 }
+    me:                      63
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, C++, C, JavaScript }
+    me:                      { Perl, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs

@@ -1,0 +1,27 @@
+username:                zhe_85
+password:                amidomeith
+name:                    Zhe Fu
+DOB:                     13/11/1984
+email:                   Zhe.Fu@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.62, max: 1.77 }
+    me:                      1.77
+weight:
+    me:                      79
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

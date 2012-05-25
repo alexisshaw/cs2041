@@ -1,0 +1,23 @@
+username:                duc_50
+password:                Punchadults
+name:                    Duc Xue
+DOB:                     02/12/1972
+email:                   Duc.Xue@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.5, max: 1.75 }
+    me:                      1.81
+weight:
+    looking_for:             { min: 44, max: 79 }
+    me:                      66
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+programming_languages:
+    me:                      { Perl, C }
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

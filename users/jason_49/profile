@@ -1,0 +1,29 @@
+username:                jason_49
+password:                showbiont
+name:                    Jason Deng
+DOB:                     12/02/1971
+email:                   Jason.Deng@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    looking_for:             { min: 47, max: 67 }
+    me:                      68
+engineering_discipline:
+    looking_for:             software
+    me:                      aerospace
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Ruby, JavaScript }
+    me:                      { Python, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

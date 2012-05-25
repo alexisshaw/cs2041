@@ -1,0 +1,29 @@
+username:                jessica_15
+password:                Teveretimbal
+name:                    Jessica Wong
+DOB:                     24/12/1979
+email:                   Jessica.Wong@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.47, max: 1.65 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 64, max: 81 }
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Python, Java }
+    me:                      { Ruby, Perl }
+editor:
+    looking_for:             jEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

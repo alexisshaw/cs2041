@@ -1,0 +1,28 @@
+username:                charles_67
+password:                Oliyappeal
+name:                    Charles Vo
+DOB:                     13/06/1978
+email:                   Charles.Vo@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 43, max: 74 }
+    me:                      68
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      aerospace
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, C++, C, JavaScript, Java }
+    me:                      { Perl, PHP, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

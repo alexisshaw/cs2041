@@ -1,0 +1,28 @@
+username:                jonathon_44
+password:                filljaspe
+name:                    Jonathon Phan
+DOB:                     28/11/1974
+email:                   Jonathon.Phan@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 61, max: 94 }
+    me:                      76
+engineering_discipline:
+    looking_for:             software
+    me:                      mechanical
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { C }
+    me:                      { Python, PHP, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,28 @@
+username:                laura_7
+password:                beatsArabia
+name:                    Laura Ng
+DOB:                     02/05/1987
+email:                   Laura.Ng@example.com
+age:
+    looking_for:             { min: 18, max: 33 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.78
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    looking_for:             { Perl, Python }
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

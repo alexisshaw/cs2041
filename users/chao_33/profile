@@ -1,0 +1,25 @@
+username:                chao_33
+password:                nachedits
+name:                    Chao Duong
+DOB:                     24/05/1984
+email:                   Duong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 57, max: 72 }
+    me:                      74
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Ruby, JavaScript }
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

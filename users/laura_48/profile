@@ -1,0 +1,27 @@
+username:                laura_48
+password:                mayosRurik
+name:                    Laura Luo
+DOB:                     25/10/1970
+email:                   Laura.Luo@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.49, max: 1.87 }
+    me:                      1.82
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    looking_for:             { Ruby, C, JavaScript }
+    me:                      { Ruby, Python }
+editor:
+    looking_for:             vi
+    me:                      vi

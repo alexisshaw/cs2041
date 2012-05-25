@@ -1,0 +1,25 @@
+username:                emily_20
+password:                ekkaLashoh
+name:                    Emily Fan
+DOB:                     01/10/1983
+email:                   Emily.Fan@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    me:                      55
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Python, C }
+    me:                      { Haskell, Perl, Python, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

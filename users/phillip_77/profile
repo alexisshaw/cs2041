@@ -1,0 +1,28 @@
+username:                phillip_77
+password:                Zappabunns
+name:                    Phillip Huang
+DOB:                     07/02/1978
+email:                   Phillip.Huang@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 48, max: 69 }
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      chemical
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Haskell, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

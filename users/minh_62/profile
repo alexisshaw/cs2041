@@ -1,0 +1,25 @@
+username:                minh_62
+password:                AusQuesta
+name:                    Minh Pham
+DOB:                     02/09/1987
+email:                   Minh.Pham@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    me:                      74
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      petroleum
+operating_systems:
+    looking_for:             { osx }
+    me:                      { android, linux, osx }
+programming_languages:
+    looking_for:             { Python, PHP, Java }
+    me:                      { C }
+editor:
+    me:                      notepad++

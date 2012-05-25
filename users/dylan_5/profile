@@ -1,0 +1,23 @@
+username:                dylan_5
+password:                novahaars
+name:                    Dylan You
+DOB:                     25/10/1980
+email:                   Dylan.You@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    me:                      75
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      emacs

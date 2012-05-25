@@ -1,0 +1,28 @@
+username:                feng_33
+password:                CzechsEyre
+name:                    Feng Zhuang
+DOB:                     03/02/1976
+email:                   Feng.Zhuang@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 59, max: 80 }
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Haskell, Perl, PHP, C }
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

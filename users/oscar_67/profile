@@ -1,0 +1,26 @@
+username:                oscar_67
+password:                EgegikNebiim
+name:                    Oscar Choi
+DOB:                     15/11/1972
+email:                   Oscar.Choi@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      85
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Haskell, Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

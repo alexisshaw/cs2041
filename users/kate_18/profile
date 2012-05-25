@@ -1,0 +1,27 @@
+username:                kate_18
+password:                PegmaNucla
+name:                    Kate Williams
+DOB:                     12/07/1974
+email:                   Kate.Williams@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.83
+weight:
+    looking_for:             { min: 56, max: 71 }
+    me:                      54
+engineering_discipline:
+    looking_for:             mining
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Perl, C++, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

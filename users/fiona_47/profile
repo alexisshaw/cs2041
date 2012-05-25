@@ -1,0 +1,25 @@
+username:                fiona_47
+password:                pheonBrynne
+name:                    Fiona Chau
+DOB:                     20/06/1986
+email:                   Fiona.Chau@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.71 }
+    me:                      1.76
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C++, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

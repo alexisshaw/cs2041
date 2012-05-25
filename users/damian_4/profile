@@ -1,0 +1,24 @@
+username:                damian_4
+password:                FinziSy
+name:                    Damian Chung
+DOB:                     24/09/1978
+email:                   Damian.Chung@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 42, max: 74 }
+    me:                      74
+engineering_discipline:
+    looking_for:             chemical
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Python, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

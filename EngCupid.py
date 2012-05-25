@@ -9,4 +9,6 @@ print genHTML.geNHTTPHeader()
 print genHTML.genPageHeader("EngCupid")
 
 print genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', active=True)])
+
+
 print genHTML.genPageFooter()

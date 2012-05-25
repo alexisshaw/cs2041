@@ -1,0 +1,28 @@
+username:                wai_74
+password:                DriceJarrid
+name:                    Wai Qi
+DOB:                     22/02/1975
+email:                   Wai.Qi@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.75 }
+    me:                      1.72
+weight:
+    looking_for:             { min: 49, max: 77 }
+    me:                      61
+engineering_discipline:
+    looking_for:             civil
+    me:                      biomedical
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { ios }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      TextMate

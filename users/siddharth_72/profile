@@ -1,0 +1,28 @@
+username:                siddharth_72
+password:                PaverUrissa
+name:                    Siddharth Shi
+DOB:                     04/11/1972
+email:                   Siddharth.Shi@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 43, max: 66 }
+    me:                      68
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { linux, ios }
+programming_languages:
+    looking_for:             { Python, C, JavaScript, Java }
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

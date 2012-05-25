@@ -1,0 +1,25 @@
+username:                ngoc_0
+password:                growlsTerese
+name:                    Ngoc Chau
+DOB:                     13/11/1987
+email:                   Ngoc.Chau@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.64
+weight:
+    me:                      58
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    me:                      { PHP, C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

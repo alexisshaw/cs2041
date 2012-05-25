@@ -1,0 +1,27 @@
+username:                kenneth_35
+password:                thioTrask
+name:                    Kenneth Robinson
+DOB:                     18/03/1989
+email:                   Kenneth.Robinson@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             computer
+    me:                      electrical
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C++ }
+    me:                      { Perl }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

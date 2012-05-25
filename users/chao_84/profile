@@ -1,0 +1,25 @@
+username:                chao_84
+password:                druseancome
+name:                    Chao Duong
+DOB:                     26/07/1975
+email:                   Chao.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 39, max: 56 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, PHP, C }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

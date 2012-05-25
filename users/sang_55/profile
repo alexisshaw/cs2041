@@ -1,0 +1,23 @@
+username:                sang_55
+password:                justlespauld
+name:                    Sang You
+DOB:                     27/10/1972
+email:                   Sang.You@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, Python, Java }
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

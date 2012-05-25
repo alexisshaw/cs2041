@@ -1,0 +1,27 @@
+username:                ying_56
+password:                exultOstrea
+name:                    Ying Luk
+DOB:                     18/10/1976
+email:                   Ying.Luk@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.69
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python, C++ }
+editor:
+    looking_for:             TextMate
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

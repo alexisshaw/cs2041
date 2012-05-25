@@ -1,0 +1,25 @@
+username:                shaun_24
+password:                daredNikola
+name:                    Shaun Gao
+DOB:                     21/02/1976
+email:                   Shaun.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 66, max: 77 }
+    me:                      76
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      computer
+operating_systems:
+    me:                      { linux }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

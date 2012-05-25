@@ -1,0 +1,27 @@
+username:                felicia_7
+password:                gowdRondon
+name:                    Felicia Wright
+DOB:                     10/12/1991
+email:                   Felicia.Wright@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.62 }
+    me:                      1.65
+weight:
+    looking_for:             { min: 58, max: 78 }
+    me:                      57
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

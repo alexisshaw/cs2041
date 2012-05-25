@@ -1,0 +1,25 @@
+username:                nur_35
+password:                Rafedwined
+name:                    Nur Mak
+DOB:                     11/07/1976
+email:                   Nur.Mak@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.61, max: 1.74 }
+    me:                      1.79
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { linux }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    me:                      TextMate

@@ -1,0 +1,27 @@
+username:                emma_84
+password:                behalfL
+name:                    Emma Brown
+DOB:                     12/10/1989
+email:                   Emma.Brown@example.com
+age:
+    looking_for:             { min: 18, max: 33 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.66 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 72, max: 79 }
+    me:                      64
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, C++, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

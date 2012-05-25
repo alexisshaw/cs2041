@@ -1,0 +1,23 @@
+username:                hoi_97
+password:                Citaergots
+name:                    Hoi Fan
+DOB:                     01/08/1971
+email:                   Hoi.Fan@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.79
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    me:                      emacs

@@ -1,0 +1,25 @@
+username:                wai_5
+password:                tingsAlba
+name:                    Wai Ho
+DOB:                     10/06/1979
+email:                   Wai.Ho@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.64 }
+    me:                      1.72
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      non_engineer
+programming_languages:
+    me:                      { Haskell, Perl, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

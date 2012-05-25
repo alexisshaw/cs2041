@@ -1,0 +1,27 @@
+username:                fan_52
+password:                HutusMiwoks
+name:                    Fan Cho
+DOB:                     17/07/1983
+email:                   Fan.Cho@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.48, max: 1.76 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 69, max: 83 }
+    me:                      82
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { linux }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

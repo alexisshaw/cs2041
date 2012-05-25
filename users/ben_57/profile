@@ -1,0 +1,26 @@
+username:                ben_57
+password:                MalchyAm
+name:                    Ben Ma
+DOB:                     25/02/1971
+email:                   Ben.Ma@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    me:                      80
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Haskell, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

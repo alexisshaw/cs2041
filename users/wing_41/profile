@@ -1,0 +1,29 @@
+username:                wing_41
+password:                hometzgnu
+name:                    Wing Yan
+DOB:                     15/06/1986
+email:                   Wing.Yan@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.59, max: 1.79 }
+    me:                      1.78
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             mining
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { linux }
+programming_languages:
+    looking_for:             { PHP }
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

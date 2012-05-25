@@ -1,0 +1,26 @@
+username:                hanna_53
+password:                Pueblamuzhik
+name:                    Hanna De Silva
+DOB:                     16/07/1978
+email:                   Hanna.De Silva@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.44, max: 1.75 }
+    me:                      1.72
+weight:
+    me:                      67
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Python, C++ }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

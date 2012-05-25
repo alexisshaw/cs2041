@@ -1,0 +1,29 @@
+username:                samantha_82
+password:                dhoolyKeck
+name:                    Samantha Lu
+DOB:                     17/04/1983
+email:                   Samantha.Lu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 64, max: 81 }
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, ios }
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Haskell, Perl, C++ }
+    me:                      { Perl, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

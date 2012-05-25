@@ -1,0 +1,27 @@
+username:                laura_25
+password:                Forsanobelus
+name:                    Laura Ong
+DOB:                     04/03/1982
+email:                   Laura.Ong@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.76
+weight:
+    me:                      56
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

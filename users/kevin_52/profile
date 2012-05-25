@@ -1,0 +1,22 @@
+username:                kevin_52
+password:                oodlesKryska
+name:                    Kevin Hossain
+DOB:                     24/08/1980
+email:                   Kevin.Hossain@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.91
+weight:
+    me:                      76
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Perl, C++, JavaScript, Java }
+    me:                      { C, JavaScript }

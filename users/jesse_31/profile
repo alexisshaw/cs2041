@@ -1,0 +1,28 @@
+username:                jesse_31
+password:                curialrebuff
+name:                    Jesse Ly
+DOB:                     19/04/1992
+email:                   Jesse.Ly@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 49, max: 96 }
+    me:                      81
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { C++, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      VI: Return of the Jedi

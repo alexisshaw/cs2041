@@ -1,0 +1,28 @@
+username:                ye_44
+password:                lareesgleys
+name:                    Ye Qin
+DOB:                     13/04/1972
+email:                   Ye.Qin@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.76 }
+    me:                      1.89
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, PHP }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

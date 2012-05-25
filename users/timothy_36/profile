@@ -1,0 +1,26 @@
+username:                timothy_36
+password:                DietCarne
+name:                    Timothy Liang
+DOB:                     11/03/1984
+email:                   Timothy.Liang@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

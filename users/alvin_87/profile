@@ -1,0 +1,24 @@
+username:                alvin_87
+password:                attritnihil
+name:                    Alvin Kumar
+DOB:                     06/10/1992
+email:                   Alvin.Kumar@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 33, max: 59 }
+    me:                      60
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      software
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Python, PHP }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

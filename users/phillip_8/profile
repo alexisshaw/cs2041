@@ -1,0 +1,25 @@
+username:                phillip_8
+password:                zoppaarval
+name:                    Phillip Lu
+DOB:                     10/10/1990
+email:                   Phillip.Lu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    looking_for:             { min: 37, max: 72 }
+    me:                      64
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    me:                      vi

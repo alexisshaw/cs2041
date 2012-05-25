@@ -1,0 +1,25 @@
+username:                fiona_12
+password:                Gerdaboho
+name:                    Fiona Dixon
+DOB:                     19/11/1976
+email:                   Fiona.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.71 }
+    me:                      1.71
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, PHP, C++, Java }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

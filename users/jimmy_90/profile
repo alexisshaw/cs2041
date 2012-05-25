@@ -1,0 +1,28 @@
+username:                jimmy_90
+password:                BozuwaLinis
+name:                    Jimmy Ong
+DOB:                     19/10/1976
+email:                   Jimmy.Ong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.90
+weight:
+    looking_for:             { min: 56, max: 68 }
+    me:                      71
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Haskell }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      V: The Empire Strikes Back

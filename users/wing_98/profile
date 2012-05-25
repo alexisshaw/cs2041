@@ -1,0 +1,27 @@
+username:                wing_98
+password:                avantsuni
+name:                    Wing Ong
+DOB:                     10/08/1992
+email:                   Wing@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 38, max: 62 }
+    me:                      58
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, Python, C++, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

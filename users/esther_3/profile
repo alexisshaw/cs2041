@@ -1,0 +1,25 @@
+username:                esther_3
+password:                henslame
+name:                    Esther Liang
+DOB:                     24/02/1977
+email:                   Esther.Liang@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.61, max: 1.76 }
+    me:                      1.80
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      software
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { C, JavaScript }
+    me:                      { Perl, Python, C++ }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

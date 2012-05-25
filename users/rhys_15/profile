@@ -1,0 +1,25 @@
+username:                rhys_15
+password:                roistsilen
+name:                    Rhys Zhong
+DOB:                     14/04/1975
+email:                   Rhys.Zhong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 47, max: 74 }
+    me:                      69
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

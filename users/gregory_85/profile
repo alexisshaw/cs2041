@@ -1,0 +1,28 @@
+username:                gregory_85
+password:                tarotsbated
+name:                    Gregory Kwok
+DOB:                     25/06/1976
+email:                   Gregory.Kwok@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 43, max: 64 }
+    me:                      53
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Python, C, JavaScript }
+    me:                      { C, Java }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

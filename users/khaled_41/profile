@@ -1,0 +1,25 @@
+username:                khaled_41
+password:                Tercesenwrap
+name:                    Khaled Chung
+DOB:                     27/01/1983
+email:                   Khaled.Chung@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 40, max: 69 }
+    me:                      66
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Haskell, JavaScript }
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             jEdit
+    me:                      emacs

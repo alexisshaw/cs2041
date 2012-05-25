@@ -1,0 +1,27 @@
+username:                wei_72
+password:                editsstuds
+name:                    Wei Vo
+DOB:                     21/12/1970
+email:                   Wei.Vo@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.70
+weight:
+    looking_for:             { min: 50, max: 72 }
+    me:                      71
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

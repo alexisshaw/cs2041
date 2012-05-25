@@ -1,0 +1,25 @@
+username:                ke_34
+password:                menusoases
+name:                    Ke Jung
+DOB:                     04/06/1988
+email:                   Ke.Jung@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 42, max: 89 }
+    me:                      73
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

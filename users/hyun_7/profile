@@ -1,0 +1,29 @@
+username:                hyun_7
+password:                asheryJez
+name:                    Hyun Yeung
+DOB:                     05/01/1977
+email:                   Hyun.Yeung@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 2.02 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 39, max: 53 }
+    me:                      61
+engineering_discipline:
+    looking_for:             electrical
+    me:                      mining
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Haskell, Perl, Python }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

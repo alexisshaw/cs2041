@@ -1,0 +1,27 @@
+username:                mark_9
+password:                TupaiaZanuck
+name:                    Mark Shi
+DOB:                     26/10/1989
+email:                   Mark.Shi@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 48, max: 61 }
+    me:                      65
+engineering_discipline:
+    looking_for:             civil
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

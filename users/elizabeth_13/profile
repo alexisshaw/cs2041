@@ -1,0 +1,26 @@
+username:                elizabeth_13
+password:                Finnoffish
+name:                    Elizabeth Ali
+DOB:                     21/08/1984
+email:                   Elizabeth.Ali@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.91
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

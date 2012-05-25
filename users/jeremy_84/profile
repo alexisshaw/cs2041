@@ -1,0 +1,25 @@
+username:                jeremy_84
+password:                amomumkindie
+name:                    Jeremy Xiao
+DOB:                     12/04/1982
+email:                   Jeremy.Xiao@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 37, max: 73 }
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+programming_languages:
+    me:                      { C++, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,28 @@
+username:                jessica_90
+password:                hallooyob
+name:                    Jessica Dixon
+DOB:                     25/02/1973
+email:                   Jessica.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.81 }
+    me:                      1.78
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             chemical
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C++ }
+    me:                      { Haskell, Perl, Python, C }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

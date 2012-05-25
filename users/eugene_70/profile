@@ -1,0 +1,24 @@
+username:                eugene_70
+password:                poyoubathe
+name:                    Eugene Parker
+DOB:                     23/01/1974
+email:                   Eugene.Parker@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 59, max: 93 }
+    me:                      70
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Java }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      VI: Return of the Jedi

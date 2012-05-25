@@ -1,0 +1,24 @@
+username:                sean_46
+password:                Suryaeighth
+name:                    Sean Chung
+DOB:                     10/07/1974
+email:                   Sean.Chung@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 58, max: 61 }
+    me:                      69
+engineering_discipline:
+    me:                      civil
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, C++ }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

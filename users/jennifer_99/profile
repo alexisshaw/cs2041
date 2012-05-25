@@ -1,0 +1,24 @@
+username:                jennifer_99
+password:                Mvmomma
+name:                    Jennifer Zhang
+DOB:                     10/08/1971
+email:                   Jennifer.Zhang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.84
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      mechanical
+operating_systems:
+    me:                      { ios, osx }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

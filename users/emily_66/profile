@@ -1,0 +1,25 @@
+username:                emily_66
+password:                fantansexfid
+name:                    Emily Lai
+DOB:                     16/07/1989
+email:                   Emily.Lai@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.37, max: 1.81 }
+    me:                      1.71
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { android }
+programming_languages:
+    me:                      { C++, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs

@@ -1,0 +1,22 @@
+username:                caroline_97
+password:                Nillagrided
+name:                    Caroline Chen
+DOB:                     23/08/1988
+email:                   Caroline.Chen@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 60, max: 78 }
+    me:                      61
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { android, linux, ios }
+programming_languages:
+    looking_for:             { Perl, Java }
+    me:                      { Perl, C++, C, JavaScript, Java }

@@ -1,0 +1,29 @@
+username:                anna_70
+password:                pedderNetti
+name:                    Anna Cheung
+DOB:                     12/11/1976
+email:                   Anna.Cheung@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.89 }
+    me:                      1.84
+weight:
+    looking_for:             { min: 56, max: 74 }
+    me:                      55
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, android }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

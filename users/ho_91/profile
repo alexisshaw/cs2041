@@ -1,0 +1,26 @@
+username:                ho_91
+password:                maaedancile
+name:                    Ho Noh
+DOB:                     24/10/1976
+email:                   Ho.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.99
+weight:
+    looking_for:             { min: 37, max: 65 }
+    me:                      62
+engineering_discipline:
+    me:                      electrical
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { C++, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

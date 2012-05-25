@@ -1,0 +1,24 @@
+username:                wing_37
+password:                adzesAalst
+name:                    Wing Morris
+DOB:                     18/01/1989
+email:                   Wing.Morris@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.71
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++

@@ -1,0 +1,26 @@
+username:                si_25
+password:                DustPlata
+name:                    Si Nguyen
+DOB:                     08/04/1981
+email:                   Si.Nguyen@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 46, max: 63 }
+    me:                      72
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

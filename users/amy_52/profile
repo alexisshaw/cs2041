@@ -1,0 +1,24 @@
+username:                amy_52
+password:                Vernasexer
+name:                    Amy Pan
+DOB:                     10/04/1980
+email:                   Amy.Pan@example.com
+age:
+    looking_for:             { min: 18, max: 35 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

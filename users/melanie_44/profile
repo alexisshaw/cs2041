@@ -1,0 +1,24 @@
+username:                melanie_44
+password:                stapslags
+name:                    Melanie Alam
+DOB:                     20/09/1978
+email:                   Melanie.Alam@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.85 }
+    me:                      1.78
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+programming_languages:
+    me:                      { Python, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

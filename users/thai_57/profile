@@ -1,0 +1,25 @@
+username:                thai_57
+password:                CoatsEal
+name:                    Thai Xiao
+DOB:                     11/05/1981
+email:                   Thai.Xiao@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.76
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             jEdit
+    me:                      vi

@@ -1,0 +1,23 @@
+username:                raymond_54
+password:                warmupSybyl
+name:                    Raymond Chiu
+DOB:                     24/10/1984
+email:                   Raymond.Chiu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 69, max: 79 }
+    me:                      82
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { osx }
+editor:
+    looking_for:             TextMate
+    me:                      NEdit

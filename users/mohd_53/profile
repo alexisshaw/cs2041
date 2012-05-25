@@ -1,0 +1,27 @@
+username:                mohd_53
+password:                Frayadashed
+name:                    Mohd Han
+DOB:                     23/04/1991
+email:                   Mohd.Han@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    me:                      74
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

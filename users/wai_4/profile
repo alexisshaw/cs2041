@@ -1,0 +1,27 @@
+username:                wai_4
+password:                AntoneShiro
+name:                    Wai Ngo
+DOB:                     15/06/1988
+email:                   Wai.Ngo@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.43, max: 1.64 }
+    me:                      1.69
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             mining
+    me:                      computer
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Python, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

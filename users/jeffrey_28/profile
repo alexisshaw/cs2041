@@ -1,0 +1,25 @@
+username:                jeffrey_28
+password:                Noranuric
+name:                    Jeffrey Tran
+DOB:                     24/05/1992
+email:                   Jeffrey.Tran@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.64
+weight:
+    me:                      76
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             emacs
+    me:                      emacs

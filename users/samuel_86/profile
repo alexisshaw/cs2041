@@ -1,0 +1,25 @@
+username:                samuel_86
+password:                xystussulfo
+name:                    Samuel Mai
+DOB:                     08/03/1992
+email:                   Samuel.Mai@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 47, max: 60 }
+    me:                      70
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { C, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

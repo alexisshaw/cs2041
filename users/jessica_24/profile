@@ -1,0 +1,26 @@
+username:                jessica_24
+password:                DorseySusann
+name:                    Jessica Jiang
+DOB:                     28/04/1990
+email:                   Jessica.Jiang@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.45, max: 1.93 }
+    me:                      1.80
+weight:
+    me:                      54
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      jEdit
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      IV: A New Hope

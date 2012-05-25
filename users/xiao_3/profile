@@ -1,0 +1,21 @@
+username:                xiao_3
+password:                twasAtman
+name:                    Xiao Johnson
+DOB:                     10/01/1985
+email:                   Xiao.Johnson@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.85
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Perl, C }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,27 @@
+username:                robyn_50
+password:                feaseWilla
+name:                    Robyn Dong
+DOB:                     20/08/1991
+email:                   Robyn.Dong@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.32, max: 1.79 }
+    me:                      1.78
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      mining
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

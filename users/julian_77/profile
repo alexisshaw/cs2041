@@ -1,0 +1,27 @@
+username:                julian_77
+password:                Alaskareais
+name:                    Julian McGrath
+DOB:                     04/01/1979
+email:                   Julian.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 68, max: 93 }
+    me:                      83
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mechanical
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { Haskell, C }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

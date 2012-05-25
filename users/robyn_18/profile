@@ -1,0 +1,28 @@
+username:                robyn_18
+password:                whirrsbelow
+name:                    Robyn Xue
+DOB:                     17/05/1982
+email:                   Robyn.Xue@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 1.78 }
+    me:                      1.81
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

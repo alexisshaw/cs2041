@@ -1,0 +1,28 @@
+username:                wen_67
+password:                topedposed
+name:                    Wen Gao
+DOB:                     13/02/1978
+email:                   Wen.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.76 }
+    me:                      1.82
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             notepad++
+    me:                      NEdit
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,27 @@
+username:                wen_24
+password:                HebronSee
+name:                    Wen Kwok
+DOB:                     13/11/1973
+email:                   Wen.Kwok@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.81 }
+    me:                      1.78
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             mining
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Python, C++ }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

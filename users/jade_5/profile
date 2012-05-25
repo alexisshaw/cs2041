@@ -1,0 +1,27 @@
+username:                jade_5
+password:                RhetaOnia
+name:                    Jade Bell
+DOB:                     15/03/1986
+email:                   Jade.Bell@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.73 }
+    me:                      1.77
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Ruby, C++ }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

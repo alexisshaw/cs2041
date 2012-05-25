@@ -1,0 +1,26 @@
+username:                wing_32
+password:                AbelAltmar
+name:                    Wing Chang
+DOB:                     02/12/1975
+email:                   Wing.Chang@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.71, max: 2.09 }
+    me:                      1.96
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             mining
+    me:                      telecommunications
+operating_systems:
+    me:                      { android }
+programming_languages:
+    me:                      { C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

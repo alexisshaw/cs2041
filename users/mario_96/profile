@@ -1,0 +1,26 @@
+username:                mario_96
+password:                Imrayshoo
+name:                    Mario Ho
+DOB:                     23/08/1985
+email:                   Mario.Ho@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

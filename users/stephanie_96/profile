@@ -1,0 +1,22 @@
+username:                stephanie_96
+password:                vintedOswego
+name:                    Stephanie Chin
+DOB:                     25/06/1975
+email:                   Stephanie.Chin@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.83
+weight:
+    me:                      55
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

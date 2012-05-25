@@ -1,0 +1,24 @@
+username:                callum_45
+password:                rebelstenour
+name:                    Callum Kapoor
+DOB:                     24/02/1983
+email:                   Callum.Kapoor@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 44, max: 73 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Python, C++, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

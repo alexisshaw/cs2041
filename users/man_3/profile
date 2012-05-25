@@ -1,0 +1,27 @@
+username:                man_3
+password:                Orallesee
+name:                    Man Yin
+DOB:                     04/03/1974
+email:                   Man.Yin@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.46, max: 1.76 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 41, max: 54 }
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { C++ }
+    me:                      { Perl, Java }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

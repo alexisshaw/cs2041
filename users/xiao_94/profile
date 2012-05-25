@@ -1,0 +1,28 @@
+username:                xiao_94
+password:                doopee
+name:                    Xiao Jiang
+DOB:                     07/11/1978
+email:                   Xiao.Jiang@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.8 }
+    me:                      1.71
+weight:
+    looking_for:             { min: 51, max: 80 }
+    me:                      63
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { C++, C, Java }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,27 @@
+username:                melanie_54
+password:                gaveinapt
+name:                    Melanie Chong
+DOB:                     23/01/1984
+email:                   Melanie.Chong@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 1.84 }
+    me:                      1.83
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      computer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Perl, C++, C }
+    me:                      { Perl, Python, PHP, Java }
+editor:
+    looking_for:             TextMate
+    me:                      emacs

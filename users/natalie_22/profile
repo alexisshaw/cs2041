@@ -1,0 +1,23 @@
+username:                natalie_22
+password:                FaheyRoxi
+name:                    Natalie Ong
+DOB:                     02/01/1982
+email:                   Natalie.Ong@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.47, max: 1.67 }
+    me:                      1.62
+weight:
+    looking_for:             { min: 66, max: 76 }
+    me:                      56
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+editor:
+    me:                      vi

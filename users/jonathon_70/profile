@@ -1,0 +1,23 @@
+username:                jonathon_70
+password:                iglubutles
+name:                    Jonathon Singh
+DOB:                     26/03/1977
+email:                   Jonathon.Singh@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.5, max: 1.92 }
+    me:                      1.65
+weight:
+    looking_for:             { min: 39, max: 74 }
+    me:                      63
+engineering_discipline:
+    looking_for:             civil
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { JavaScript }

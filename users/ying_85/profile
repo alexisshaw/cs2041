@@ -1,0 +1,26 @@
+username:                ying_85
+password:                rindskets
+name:                    Ying Duan
+DOB:                     19/09/1982
+email:                   Ying.Duan@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.83
+weight:
+    me:                      51
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C, JavaScript, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

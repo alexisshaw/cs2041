@@ -1,0 +1,25 @@
+username:                sarah_24
+password:                foraSheeb
+name:                    Sarah Choi
+DOB:                     19/05/1985
+email:                   Sarah.Choi@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 2.02 }
+    me:                      1.94
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi

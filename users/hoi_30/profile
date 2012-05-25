@@ -1,0 +1,27 @@
+username:                hoi_30
+password:                weightmastic
+name:                    Hoi Shi
+DOB:                     01/09/1978
+email:                   Hoi.Shi@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 59, max: 67 }
+    me:                      55
+engineering_discipline:
+    me:                      mining
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             jEdit
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

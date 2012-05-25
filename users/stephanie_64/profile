@@ -1,0 +1,27 @@
+username:                stephanie_64
+password:                vestrycymlin
+name:                    Stephanie Qiu
+DOB:                     03/02/1989
+email:                   Stephanie.Qiu@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 2.05 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 66, max: 80 }
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      petroleum
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

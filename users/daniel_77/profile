@@ -1,0 +1,28 @@
+username:                daniel_77
+password:                BändeLucy
+name:                    Daniel Ye
+DOB:                     24/04/1980
+email:                   Daniel.Ye@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.61
+weight:
+    looking_for:             { min: 42, max: 58 }
+    me:                      67
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      chemical
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Ruby, Java }
+editor:
+    looking_for:             jEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

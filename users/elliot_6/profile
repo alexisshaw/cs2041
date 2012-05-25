@@ -1,0 +1,25 @@
+username:                elliot_6
+password:                HornieRavid
+name:                    Elliot Yao
+DOB:                     08/03/1979
+email:                   Elliot.Yao@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    me:                      80
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { osx }
+programming_languages:
+    me:                      { Python, C++, C }
+editor:
+    looking_for:             TextMate
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

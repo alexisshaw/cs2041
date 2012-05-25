@@ -1,0 +1,26 @@
+username:                charbel_64
+password:                BielJody
+name:                    Charbel Ma
+DOB:                     09/11/1971
+email:                   Charbel.Ma@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 42, max: 68 }
+    me:                      68
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      telecommunications
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Ruby, Haskell, Perl, C++ }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

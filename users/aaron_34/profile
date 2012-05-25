@@ -1,0 +1,28 @@
+username:                aaron_34
+password:                osculaloads
+name:                    Aaron Fung
+DOB:                     09/11/1992
+email:                   Aaron.Fung@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 25, max: 70 }
+    me:                      76
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C, JavaScript, Java }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      VI: Return of the Jedi

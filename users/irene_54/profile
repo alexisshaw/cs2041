@@ -1,0 +1,24 @@
+username:                irene_54
+password:                claretwaft
+name:                    Irene Lai
+DOB:                     15/07/1982
+email:                   Irene.Lai@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 62, max: 75 }
+    me:                      59
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++

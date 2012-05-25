@@ -1,0 +1,27 @@
+username:                nathan_15
+password:                woodsyToft
+name:                    Nathan Yuan
+DOB:                     15/06/1985
+email:                   Nathan.Yuan@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.54, max: 2.03 }
+    me:                      1.86
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, Python, C++ }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

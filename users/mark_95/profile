@@ -1,0 +1,26 @@
+username:                mark_95
+password:                buyersraca
+name:                    Mark Mao
+DOB:                     06/02/1987
+email:                   Mark.Mao@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 51, max: 65 }
+    me:                      70
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, Python, PHP }
+    me:                      { Perl, Java }
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,26 @@
+username:                alex_6
+password:                Krollduchy
+name:                    Alex Luo
+DOB:                     28/07/1980
+email:                   Alex.Luo@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { PHP, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

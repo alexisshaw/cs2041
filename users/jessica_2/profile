@@ -1,0 +1,27 @@
+username:                jessica_2
+password:                unarmsDeva
+name:                    Jessica Gong
+DOB:                     02/09/1990
+email:                   Jessica.Gong@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.83
+weight:
+    me:                      69
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      TextMate
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,28 @@
+username:                hanna_94
+password:                rhoBoff
+name:                    Hanna Shao
+DOB:                     28/03/1970
+email:                   Hanna.Shao@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.79 }
+    me:                      1.81
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, Python }
+    me:                      { Python, PHP, C++, C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

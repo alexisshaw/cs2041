@@ -1,0 +1,27 @@
+username:                wai_38
+password:                widesinches
+name:                    Wai Liang
+DOB:                     04/08/1978
+email:                   Wai.Liang@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.58, max: 1.7 }
+    me:                      1.76
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

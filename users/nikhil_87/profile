@@ -1,0 +1,26 @@
+username:                nikhil_87
+password:                skreenHoople
+name:                    Nikhil Vu
+DOB:                     05/03/1981
+email:                   Nikhil.Vu@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android, linux, ios }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { PHP, C, Java }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

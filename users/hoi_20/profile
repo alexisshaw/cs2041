@@ -1,0 +1,28 @@
+username:                hoi_20
+password:                PetreyOsric
+name:                    Hoi Zhong
+DOB:                     18/11/1973
+email:                   Hoi.Zhong@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 54, max: 80 }
+    me:                      58
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    looking_for:             { Ruby, Haskell, Python, C }
+    me:                      { Perl, Python, C++, Java }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

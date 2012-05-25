@@ -1,0 +1,25 @@
+username:                peng_52
+password:                redoxChon
+name:                    Peng Smith
+DOB:                     20/10/1972
+email:                   Peng.Smith@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.34, max: 1.67 }
+    me:                      1.74
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    looking_for:             { Ruby, Python, C, JavaScript }
+    me:                      { Haskell, PHP, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

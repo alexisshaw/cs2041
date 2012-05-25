@@ -1,0 +1,27 @@
+username:                chloe_52
+password:                theirshutias
+name:                    Chloe Smith
+DOB:                     19/10/1985
+email:                   Chloe.Smith@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.89 }
+    me:                      1.83
+weight:
+    looking_for:             { min: 52, max: 77 }
+    me:                      56
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      electrical
+operating_systems:
+    looking_for:             { windows, android, linux, osx }
+    me:                      { windows, android, ios }
+programming_languages:
+    me:                      { Haskell, Python, PHP, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs

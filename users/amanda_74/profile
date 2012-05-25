@@ -1,0 +1,27 @@
+username:                amanda_74
+password:                arowslaws
+name:                    Amanda Xie
+DOB:                     24/01/1971
+email:                   Amanda.Xie@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.85
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             NEdit
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      IV: A New Hope

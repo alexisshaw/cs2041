@@ -1,0 +1,25 @@
+username:                hung_58
+password:                sonnetUzbegs
+name:                    Hung Ye
+DOB:                     17/09/1984
+email:                   Hung.Ye@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    looking_for:             { min: 49, max: 72 }
+    me:                      66
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Perl, C++, C, JavaScript }
+    me:                      { Python }
+editor:
+    looking_for:             TextMate
+    me:                      jEdit

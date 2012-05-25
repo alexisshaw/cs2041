@@ -1,0 +1,29 @@
+username:                clinton_61
+password:                kenafsfane
+name:                    Clinton Ryan
+DOB:                     20/11/1980
+email:                   Clinton.Ryan@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.24, max: 1.54 }
+    me:                      1.61
+weight:
+    me:                      77
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,25 @@
+username:                ahmad_17
+password:                brieswidgie
+name:                    Ahmad Hughes
+DOB:                     24/01/1991
+email:                   Ahmad.Hughes@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 54, max: 72 }
+    me:                      69
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { osx }
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

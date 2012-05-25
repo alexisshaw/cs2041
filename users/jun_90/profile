@@ -1,0 +1,29 @@
+username:                jun_90
+password:                Gloveralmeh
+name:                    Jun Fang
+DOB:                     03/07/1992
+email:                   Jun.Fang@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.33, max: 1.85 }
+    me:                      1.77
+weight:
+    me:                      77
+engineering_discipline:
+    looking_for:             chemical
+    me:                      petroleum
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, JavaScript }
+    me:                      { Perl, Python, PHP, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      IV: A New Hope

@@ -1,0 +1,25 @@
+username:                chun_30
+password:                Andinemarcel
+name:                    Chun Ding
+DOB:                     12/03/1986
+email:                   Chun.Ding@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 54, max: 86 }
+    me:                      72
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, ios }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             emacs
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

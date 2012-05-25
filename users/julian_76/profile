@@ -1,0 +1,27 @@
+username:                julian_76
+password:                sclaffranted
+name:                    Julian Cao
+DOB:                     04/04/1981
+email:                   Julian.Cao@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    me:                      70
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    looking_for:             { Perl, Python, JavaScript }
+    me:                      { Ruby, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

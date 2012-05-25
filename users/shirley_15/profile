@@ -1,0 +1,28 @@
+username:                shirley_15
+password:                Cedellhither
+name:                    Shirley Khan
+DOB:                     27/05/1972
+email:                   Shirley.Khan@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.81 }
+    me:                      1.77
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    looking_for:             { Perl, Python, C, Java }
+    me:                      { Python, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,26 @@
+username:                lucy_6
+password:                powerMendy
+name:                    Lucy Lin
+DOB:                     01/09/1972
+email:                   Lucy.Lin@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.5, max: 1.94 }
+    me:                      1.73
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             chemical
+    me:                      telecommunications
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { C++ }
+    me:                      { Perl }
+editor:
+    looking_for:             vi
+    me:                      NEdit

@@ -1,0 +1,22 @@
+username:                cheng_37
+password:                Morrowsorgos
+name:                    Cheng Shi
+DOB:                     23/10/1985
+email:                   Cheng.Shi@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.86
+weight:
+    me:                      66
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+programming_languages:
+    me:                      { Perl, C++, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      V: The Empire Strikes Back

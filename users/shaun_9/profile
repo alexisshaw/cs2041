@@ -1,0 +1,28 @@
+username:                shaun_9
+password:                petitConnie
+name:                    Shaun Guo
+DOB:                     13/05/1973
+email:                   Shaun.Guo@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.68
+weight:
+    looking_for:             { min: 59, max: 76 }
+    me:                      70
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      software
+operating_systems:
+    looking_for:             { android }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

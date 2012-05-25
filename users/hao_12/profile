@@ -1,0 +1,22 @@
+username:                hao_12
+password:                milderBealle
+name:                    Hao Choi
+DOB:                     06/11/1990
+email:                   Hao.Choi@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+editor:
+    looking_for:             vi
+    me:                      vi

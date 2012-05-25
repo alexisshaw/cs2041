@@ -1,0 +1,28 @@
+username:                caroline_2
+password:                revilebeldam
+name:                    Caroline Hung
+DOB:                     25/02/1970
+email:                   Caroline.Hung@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.61, max: 1.75 }
+    me:                      1.83
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

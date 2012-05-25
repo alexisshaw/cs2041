@@ -1,0 +1,26 @@
+username:                anna_66
+password:                LavaboCoburg
+name:                    Anna Pan
+DOB:                     24/03/1980
+email:                   Anna.Pan@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.3, max: 1.48 }
+    me:                      1.56
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mining
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, C, Java }
+editor:
+    looking_for:             jEdit
+    me:                      notepad++

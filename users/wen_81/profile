@@ -1,0 +1,29 @@
+username:                wen_81
+password:                moatclay
+name:                    Wen Roy
+DOB:                     28/10/1970
+email:                   Wen.Roy@example.com
+age:
+    looking_for:             { min: 18, max: 41 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.5, max: 1.72 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 54, max: 82 }
+    me:                      50
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             vi
+    me:                      TextMate
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      VI: Return of the Jedi

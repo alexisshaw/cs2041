@@ -1,0 +1,24 @@
+username:                nur_34
+password:                Astrakeir
+name:                    Nur Kim
+DOB:                     04/09/1973
+email:                   Nur.Kim@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.62 }
+    me:                      1.71
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             computer
+    me:                      computer
+operating_systems:
+    me:                      { android, linux, ios }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

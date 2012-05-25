@@ -1,0 +1,24 @@
+username:                thai_98
+password:                buffosarsis
+name:                    Thai Lau
+DOB:                     03/02/1971
+email:                   Thai.Lau@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.59, max: 1.96 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 72, max: 82 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { android, ios }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { Ruby, Perl, C }
+editor:
+    me:                      vi

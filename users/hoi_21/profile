@@ -1,0 +1,26 @@
+username:                hoi_21
+password:                neatsdap
+name:                    Hoi Kwon
+DOB:                     21/02/1979
+email:                   Hoi.Kwon@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.7 }
+    me:                      1.72
+weight:
+    me:                      70
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    me:                      { android, ios }
+programming_languages:
+    me:                      { Ruby, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

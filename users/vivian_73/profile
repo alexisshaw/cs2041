@@ -1,0 +1,24 @@
+username:                vivian_73
+password:                serrsget
+name:                    Vivian Xue
+DOB:                     20/11/1987
+email:                   Vivian.Xue@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.52, max: 1.78 }
+    me:                      1.66
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios, osx }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

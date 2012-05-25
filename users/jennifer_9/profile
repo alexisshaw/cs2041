@@ -1,0 +1,24 @@
+username:                jennifer_9
+password:                gismosrancid
+name:                    Jennifer Xue
+DOB:                     01/08/1977
+email:                   Jennifer.Xue@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.82
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    me:                      emacs

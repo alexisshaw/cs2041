@@ -1,0 +1,28 @@
+username:                wei_24
+password:                AgadaIbsen
+name:                    Wei Cao
+DOB:                     04/11/1978
+email:                   Wei.Cao@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.48, max: 1.72 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 41, max: 71 }
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

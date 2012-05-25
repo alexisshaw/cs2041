@@ -1,0 +1,26 @@
+username:                alfred_55
+password:                roomedMalkin
+name:                    Alfred Kaur
+DOB:                     06/01/1977
+email:                   Alfred.Kaur@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 47, max: 73 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs

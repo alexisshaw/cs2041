@@ -1,0 +1,25 @@
+username:                jiajun_25
+password:                dingosBrena
+name:                    Jiajun McGrath
+DOB:                     15/12/1986
+email:                   Jiajun.McGrath@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.70
+weight:
+    looking_for:             { min: 48, max: 62 }
+    me:                      63
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    looking_for:             { Perl, C, Java }
+    me:                      { Python, C++, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,26 @@
+username:                hanna_12
+password:                oxygenEpis
+name:                    Hanna Cheng
+DOB:                     12/09/1985
+email:                   Hanna.Cheng@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.26, max: 1.79 }
+    me:                      1.69
+weight:
+    looking_for:             { min: 73, max: 86 }
+    me:                      66
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    me:                      notepad++

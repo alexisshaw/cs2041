@@ -1,0 +1,24 @@
+username:                bradley_7
+password:                Purdycrack
+name:                    Bradley Leung
+DOB:                     03/09/1987
+email:                   Bradley.Leung@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.92
+weight:
+    me:                      80
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      chemical
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             vi
+    me:                      NEdit

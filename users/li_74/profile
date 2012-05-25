@@ -1,0 +1,24 @@
+username:                li_74
+password:                yumpiemawrs
+name:                    Li Kapoor
+DOB:                     26/04/1982
+email:                   Li.Kapoor@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 52, max: 86 }
+    me:                      64
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { android }
+programming_languages:
+    looking_for:             { Haskell, Perl, C, JavaScript }
+    me:                      { Perl, Python, JavaScript }
+editor:
+    me:                      vi

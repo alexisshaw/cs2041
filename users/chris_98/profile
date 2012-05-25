@@ -1,0 +1,26 @@
+username:                chris_98
+password:                bookspaving
+name:                    Chris Ward
+DOB:                     13/11/1970
+email:                   Chris.Ward@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      mining
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

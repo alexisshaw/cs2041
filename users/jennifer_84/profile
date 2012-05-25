@@ -1,0 +1,27 @@
+username:                jennifer_84
+password:                manesaikei
+name:                    Jennifer Xu
+DOB:                     17/08/1987
+email:                   Jennifer.Xu@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.85 }
+    me:                      1.79
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      telecommunications
+operating_systems:
+    me:                      { windows, android, ios }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,24 @@
+username:                joseph_88
+password:                ChiakiWaddy
+name:                    Joseph Cai
+DOB:                     24/02/1985
+email:                   Joseph.Cai@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 62, max: 79 }
+    me:                      74
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    me:                      { android, linux }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

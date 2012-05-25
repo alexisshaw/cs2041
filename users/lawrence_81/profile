@@ -1,0 +1,26 @@
+username:                lawrence_81
+password:                rufflylunks
+name:                    Lawrence Nam
+DOB:                     27/12/1989
+email:                   Lawrence.Nam@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 53, max: 72 }
+    me:                      68
+engineering_discipline:
+    looking_for:             electrical
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Python, C, JavaScript, Java }
+editor:
+    looking_for:             vi
+    me:                      vi

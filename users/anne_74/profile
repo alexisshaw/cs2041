@@ -1,0 +1,25 @@
+username:                anne_74
+password:                MarcelErica
+name:                    Anne Tam
+DOB:                     25/11/1988
+email:                   Anne.Tam@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.67
+weight:
+    looking_for:             { min: 59, max: 70 }
+    me:                      58
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

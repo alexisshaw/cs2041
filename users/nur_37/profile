@@ -1,0 +1,25 @@
+username:                nur_37
+password:                gaySwede
+name:                    Nur Pan
+DOB:                     09/06/1976
+email:                   Nur.Pan@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.99 }
+    me:                      1.85
+weight:
+    looking_for:             { min: 62, max: 84 }
+    me:                      58
+engineering_discipline:
+    looking_for:             computer
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { osx }
+    me:                      { android }
+programming_languages:
+    me:                      { Perl, C++, C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs

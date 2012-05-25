@@ -1,0 +1,28 @@
+username:                shaun_2
+password:                patenseorls
+name:                    Shaun Ali
+DOB:                     14/09/1970
+email:                   Shaun.Ali@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 44, max: 70 }
+    me:                      70
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Haskell, Perl, Python, PHP, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

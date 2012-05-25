@@ -1,0 +1,28 @@
+username:                amanda_75
+password:                daalzapper
+name:                    Amanda Luo
+DOB:                     10/06/1986
+email:                   Amanda.Luo@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.52, max: 1.78 }
+    me:                      1.79
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { windows }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,23 @@
+username:                kelly_18
+password:                fieldsGalla
+name:                    Kelly Chen
+DOB:                     20/03/1986
+email:                   Kelly.Chen@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.74
+weight:
+    me:                      60
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs

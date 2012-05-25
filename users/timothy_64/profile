@@ -1,0 +1,26 @@
+username:                timothy_64
+password:                Hamnetgalop
+name:                    Timothy Gong
+DOB:                     24/12/1977
+email:                   Timothy.Gong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.64, max: 1.83 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 25, max: 65 }
+    me:                      70
+engineering_discipline:
+    looking_for:             civil
+    me:                      mining
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

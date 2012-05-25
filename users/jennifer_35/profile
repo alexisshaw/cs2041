@@ -1,0 +1,21 @@
+username:                jennifer_35
+password:                Colandyer
+name:                    Jennifer Huang
+DOB:                     05/09/1990
+email:                   Jennifer.Huang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.71
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      non_engineer
+programming_languages:
+    looking_for:             { JavaScript }
+    me:                      { Perl, Python, PHP, C, JavaScript }
+editor:
+    me:                      notepad++

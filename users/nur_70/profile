@@ -1,0 +1,27 @@
+username:                nur_70
+password:                PettaKahl
+name:                    Nur Robinson
+DOB:                     05/04/1987
+email:                   Nur.Robinson@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 44, max: 72 }
+    me:                      49
+engineering_discipline:
+    looking_for:             computer
+    me:                      electrical
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, Python, Java }
+editor:
+    looking_for:             NEdit
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

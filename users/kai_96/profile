@@ -1,0 +1,29 @@
+username:                kai_96
+password:                MeadowTibbie
+name:                    Kai Hung
+DOB:                     05/02/1989
+email:                   Kai.Hung@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 51, max: 67 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mining
+operating_systems:
+    looking_for:             { windows, android, linux, ios }
+    me:                      { android, linux, osx }
+programming_languages:
+    looking_for:             { Haskell, Python, C }
+    me:                      { Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

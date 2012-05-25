@@ -1,0 +1,26 @@
+username:                nur_47
+password:                ticesguide
+name:                    Nur Gong
+DOB:                     28/03/1980
+email:                   Nur.Gong@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.73
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             electrical
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

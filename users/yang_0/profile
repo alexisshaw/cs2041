@@ -1,0 +1,27 @@
+username:                yang_0
+password:                cwiodism
+name:                    Yang Shao
+DOB:                     02/06/1989
+email:                   Yang.Shao@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             computer
+    me:                      electrical
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C++, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

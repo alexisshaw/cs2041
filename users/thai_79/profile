@@ -1,0 +1,28 @@
+username:                thai_79
+password:                Giemsamna
+name:                    Thai Luk
+DOB:                     04/12/1992
+email:                   Thai.Luk@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.72 }
+    me:                      1.76
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             electrical
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

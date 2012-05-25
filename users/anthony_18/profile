@@ -1,0 +1,24 @@
+username:                anthony_18
+password:                mucateprivy
+name:                    Anthony Sharma
+DOB:                     19/02/1991
+email:                   Anthony.Sharma@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Haskell, Perl, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

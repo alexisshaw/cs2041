@@ -1,0 +1,26 @@
+username:                jennifer_19
+password:                hurrahallots
+name:                    Jennifer Chan
+DOB:                     10/09/1988
+email:                   Jennifer.Chan@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.66
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      computer
+operating_systems:
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

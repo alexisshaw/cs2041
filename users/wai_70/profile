@@ -1,0 +1,25 @@
+username:                wai_70
+password:                KahokaLogoi
+name:                    Wai Chow
+DOB:                     19/02/1972
+email:                   Wai.Chow@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      65
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Ruby, Perl, PHP, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

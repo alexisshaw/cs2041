@@ -1,0 +1,24 @@
+username:                felix_74
+password:                urColby
+name:                    Felix Xu
+DOB:                     08/08/1974
+email:                   Felix.Xu@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      telecommunications
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,26 @@
+username:                ngoc_62
+password:                NoelDugway
+name:                    Ngoc Noh
+DOB:                     05/07/1988
+email:                   Ngoc.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.73, max: 1.87 }
+    me:                      1.90
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Perl, JavaScript }
+    me:                      { Python, C++, Java }
+editor:
+    looking_for:             jEdit
+    me:                      emacs

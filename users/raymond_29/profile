@@ -1,0 +1,24 @@
+username:                raymond_29
+password:                waddydumky
+name:                    Raymond Chung
+DOB:                     22/10/1974
+email:                   Raymond.Chung@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 57, max: 84 }
+    me:                      70
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      computer
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Perl }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

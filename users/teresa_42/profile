@@ -1,0 +1,22 @@
+username:                teresa_42
+password:                Felskeholks
+name:                    Teresa Morris
+DOB:                     22/03/1977
+email:                   Teresa.Morris@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 62, max: 79 }
+    me:                      55
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { android, linux, ios, osx }
+editor:
+    me:                      vi

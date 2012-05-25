@@ -1,0 +1,24 @@
+username:                jonathan_98
+password:                skatolMiseno
+name:                    Jonathan Yi
+DOB:                     06/11/1982
+email:                   Jonathan.Yi@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+programming_languages:
+    looking_for:             { Perl, C++, C }
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

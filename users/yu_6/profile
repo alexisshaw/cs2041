@@ -1,0 +1,24 @@
+username:                yu_6
+password:                luxatepontes
+name:                    Yu Hughes
+DOB:                     22/05/1982
+email:                   Yu.Hughes@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 54, max: 85 }
+    me:                      78
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mechanical
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    me:                      emacs

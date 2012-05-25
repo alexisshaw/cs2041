@@ -1,0 +1,24 @@
+username:                hanna_43
+password:                wakerarms
+name:                    Hanna Zhu
+DOB:                     17/09/1987
+email:                   Hanna.Zhu@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.67, max: 1.83 }
+    me:                      1.84
+weight:
+    me:                      69
+engineering_discipline:
+    me:                      computer
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

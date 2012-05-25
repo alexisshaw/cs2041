@@ -1,0 +1,25 @@
+username:                wen_63
+password:                scrabMayes
+name:                    Wen Min
+DOB:                     08/10/1970
+email:                   Wen.Min@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.88 }
+    me:                      1.73
+weight:
+    looking_for:             { min: 72, max: 88 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { android, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             TextMate
+    me:                      vi

@@ -1,0 +1,25 @@
+username:                elizabeth_14
+password:                RioTobit
+name:                    Elizabeth Chau
+DOB:                     13/02/1988
+email:                   Elizabeth.Chau@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      70
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { linux, ios }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Perl, PHP, JavaScript }
+editor:
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

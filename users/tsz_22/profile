@@ -1,0 +1,26 @@
+username:                tsz_22
+password:                Olvandoonas
+name:                    Tsz Qian
+DOB:                     07/09/1987
+email:                   Tsz.Qian@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    looking_for:             { min: 68, max: 89 }
+    me:                      81
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { JavaScript }
+editor:
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

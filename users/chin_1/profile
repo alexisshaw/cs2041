@@ -1,0 +1,30 @@
+username:                chin_1
+password:                rawerOdelia
+name:                    Chin Park
+DOB:                     28/12/1973
+email:                   Chin.Park@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.41, max: 1.79 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 52, max: 97 }
+    me:                      73
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+operating_systems:
+    looking_for:             { windows, android, linux, osx }
+    me:                      { ios, osx }
+programming_languages:
+    looking_for:             { Perl, Python }
+    me:                      { Perl, C }
+editor:
+    looking_for:             TextMate
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

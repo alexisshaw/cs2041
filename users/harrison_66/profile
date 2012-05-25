@@ -1,0 +1,25 @@
+username:                harrison_66
+password:                Gayasext
+name:                    Harrison Truong
+DOB:                     08/12/1972
+email:                   Harrison.Truong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 38, max: 55 }
+    me:                      62
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C++, JavaScript }
+    me:                      { Perl, Python, C++, C }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

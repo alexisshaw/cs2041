@@ -1,0 +1,29 @@
+username:                natalie_36
+password:                phooeymuni
+name:                    Natalie Dixon
+DOB:                     11/08/1982
+email:                   Natalie.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.91 }
+    me:                      1.68
+weight:
+    looking_for:             { min: 62, max: 78 }
+    me:                      60
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             vi
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

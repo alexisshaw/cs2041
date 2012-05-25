@@ -1,0 +1,27 @@
+username:                hao_67
+password:                ovibosump
+name:                    Hao Vu
+DOB:                     25/04/1982
+email:                   Hao.Vu@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             mining
+    me:                      computer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Ruby, Perl, Python, C++, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      III: Revenge of the Sith

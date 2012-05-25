@@ -1,0 +1,28 @@
+username:                mitchell_1
+password:                tairasprove
+name:                    Mitchell Choi
+DOB:                     01/10/1974
+email:                   Mitchell.Choi@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.64, max: 1.78 }
+    me:                      1.85
+weight:
+    looking_for:             { min: 44, max: 80 }
+    me:                      69
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { android }
+programming_languages:
+    looking_for:             { C }
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

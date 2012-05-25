@@ -1,0 +1,25 @@
+username:                anna_20
+password:                attireKymric
+name:                    Anna Jones
+DOB:                     10/10/1982
+email:                   Anna.Jones@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 53, max: 80 }
+    me:                      54
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, Python }
+editor:
+    me:                      notepad++

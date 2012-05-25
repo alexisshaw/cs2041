@@ -1,0 +1,27 @@
+username:                amanda_1
+password:                deucedmamees
+name:                    Amanda You
+DOB:                     21/05/1975
+email:                   Amanda.You@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.49, max: 1.66 }
+    me:                      1.76
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    looking_for:             { Haskell, C++ }
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

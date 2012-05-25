@@ -1,0 +1,29 @@
+username:                jennifer_47
+password:                alkyselect
+name:                    Jennifer Islam
+DOB:                     03/01/1988
+email:                   Jennifer.Islam@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.77 }
+    me:                      1.76
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, ios }
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, PHP, C }
+    me:                      { Ruby, Perl, Python, C }
+editor:
+    looking_for:             TextMate
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

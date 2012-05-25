@@ -1,0 +1,27 @@
+username:                han_86
+password:                bivvyags
+name:                    Han So
+DOB:                     17/01/1972
+email:                   Han.So@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.64
+weight:
+    looking_for:             { min: 36, max: 65 }
+    me:                      67
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { C++, JavaScript, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,27 @@
+username:                nurul_8
+password:                WanyenOrigen
+name:                    Nurul Cheung
+DOB:                     04/05/1985
+email:                   Nurul.Cheung@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.91
+weight:
+    looking_for:             { min: 53, max: 81 }
+    me:                      54
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

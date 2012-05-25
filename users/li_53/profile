@@ -1,0 +1,25 @@
+username:                li_53
+password:                furnaevi
+name:                    Li Chin
+DOB:                     20/11/1984
+email:                   Li.Chin@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.65
+weight:
+    me:                      54
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { C++ }
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      VI: Return of the Jedi

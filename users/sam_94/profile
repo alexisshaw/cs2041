@@ -1,0 +1,23 @@
+username:                sam_94
+password:                lootaglow
+name:                    Sam Russell
+DOB:                     12/02/1976
+email:                   Sam.Russell@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 42, max: 80 }
+    me:                      70
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Perl, Java }
+    me:                      { C }

@@ -1,0 +1,27 @@
+username:                harry_99
+password:                BacovaJekyll
+name:                    Harry Shao
+DOB:                     11/09/1974
+email:                   Harry.Shao@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 29, max: 69 }
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    looking_for:             { Java }
+    me:                      { Perl, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

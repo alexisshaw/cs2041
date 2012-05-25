@@ -1,0 +1,26 @@
+username:                catherine_1
+password:                Boulevainer
+name:                    Catherine Duong
+DOB:                     10/10/1973
+email:                   Catherine.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.7 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 67, max: 85 }
+    me:                      57
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { android, linux }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

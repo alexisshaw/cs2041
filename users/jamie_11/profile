@@ -1,0 +1,27 @@
+username:                jamie_11
+password:                Joeliecomer
+name:                    Jamie Kong
+DOB:                     05/01/1977
+email:                   Jamie.Kong@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.92
+weight:
+    looking_for:             { min: 55, max: 65 }
+    me:                      71
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      biomedical
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Perl, PHP, C++, JavaScript, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

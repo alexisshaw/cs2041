@@ -1,0 +1,26 @@
+username:                junjie_66
+password:                biaseslend
+name:                    Junjie Kelly
+DOB:                     16/02/1981
+email:                   Junjie.Kelly@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 46, max: 57 }
+    me:                      67
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      software
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { Perl, Python, C++, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

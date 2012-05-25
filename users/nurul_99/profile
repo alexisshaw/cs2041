@@ -1,0 +1,25 @@
+username:                nurul_99
+password:                EifelHelse
+name:                    Nurul Yang
+DOB:                     14/12/1987
+email:                   Nurul.Yang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.9 }
+    me:                      1.75
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+programming_languages:
+    me:                      { C++, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,28 @@
+username:                dylan_67
+password:                buckedreef
+name:                    Dylan Noh
+DOB:                     15/03/1990
+email:                   Dylan.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.41, max: 1.93 }
+    me:                      1.85
+weight:
+    looking_for:             { min: 56, max: 60 }
+    me:                      68
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

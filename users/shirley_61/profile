@@ -1,0 +1,25 @@
+username:                shirley_61
+password:                EbnerMallen
+name:                    Shirley Bui
+DOB:                     02/05/1989
+email:                   Shirley.Bui@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.74
+weight:
+    me:                      60
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

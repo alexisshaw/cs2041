@@ -1,0 +1,25 @@
+username:                caroline_98
+password:                ZengerEwing
+name:                    Caroline Cai
+DOB:                     12/02/1990
+email:                   Caroline.Cai@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.65 }
+    me:                      1.72
+weight:
+    looking_for:             { min: 73, max: 75 }
+    me:                      63
+engineering_discipline:
+    looking_for:             electrical
+    me:                      software
+operating_systems:
+    me:                      { android, ios, osx }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

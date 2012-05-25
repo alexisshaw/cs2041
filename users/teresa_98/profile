@@ -1,0 +1,27 @@
+username:                teresa_98
+password:                penestrepan
+name:                    Teresa Vu
+DOB:                     14/06/1979
+email:                   Teresa.Vu@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.94 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 50, max: 76 }
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      petroleum
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C++, C, Java }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

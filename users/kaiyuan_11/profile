@@ -1,0 +1,24 @@
+username:                kaiyuan_11
+password:                happenBravar
+name:                    Kaiyuan Roy
+DOB:                     25/08/1977
+email:                   Kaiyuan.Roy@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { C++, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs

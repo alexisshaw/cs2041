@@ -1,0 +1,27 @@
+username:                shirley_30
+password:                tawersacari
+name:                    Shirley Li
+DOB:                     11/09/1971
+email:                   Shirley.Li@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.78
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      civil
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

@@ -1,0 +1,28 @@
+username:                robyn_39
+password:                ductedawarns
+name:                    Robyn Min
+DOB:                     28/10/1989
+email:                   Robyn.Min@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.61, max: 1.76 }
+    me:                      1.82
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { windows }
+    me:                      { android, ios }
+programming_languages:
+    looking_for:             { Perl, Python }
+    me:                      { Perl, C }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

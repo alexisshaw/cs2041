@@ -1,0 +1,26 @@
+username:                jeremy_36
+password:                agapaejibes
+name:                    Jeremy Fan
+DOB:                     20/02/1977
+email:                   Jeremy.Fan@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 62, max: 85 }
+    me:                      79
+engineering_discipline:
+    me:                      telecommunications
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

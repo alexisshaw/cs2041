@@ -1,0 +1,26 @@
+username:                amy_84
+password:                shrewsloord
+name:                    Amy Jia
+DOB:                     16/01/1976
+email:                   Amy.Jia@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.86
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

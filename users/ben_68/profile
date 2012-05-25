@@ -1,0 +1,28 @@
+username:                ben_68
+password:                reweldDwight
+name:                    Ben Kapoor
+DOB:                     13/06/1981
+email:                   Ben.Kapoor@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.58, max: 1.81 }
+    me:                      1.81
+weight:
+    looking_for:             { min: 49, max: 68 }
+    me:                      68
+engineering_discipline:
+    looking_for:             electrical
+    me:                      software
+operating_systems:
+    me:                      { windows, android, ios }
+programming_languages:
+    me:                      { Ruby, Python, C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,26 @@
+username:                jimmy_4
+password:                loftedpadmas
+name:                    Jimmy So
+DOB:                     17/05/1987
+email:                   Jimmy.So@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    looking_for:             { min: 59, max: 83 }
+    me:                      74
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

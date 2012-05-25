@@ -1,0 +1,28 @@
+username:                li_67
+password:                skibobanoles
+name:                    Li McGrath
+DOB:                     08/12/1988
+email:                   Li.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.76 }
+    me:                      1.84
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { C, JavaScript }
+editor:
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

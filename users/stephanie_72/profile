@@ -1,0 +1,22 @@
+username:                stephanie_72
+password:                rokesdecoy
+name:                    Stephanie Ge
+DOB:                     19/06/1973
+email:                   Stephanie.Ge@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             computer
+    me:                      chemical
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, C }

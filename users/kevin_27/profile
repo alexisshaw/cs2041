@@ -1,0 +1,28 @@
+username:                kevin_27
+password:                DenaJudson
+name:                    Kevin Park
+DOB:                     26/03/1976
+email:                   Kevin.Park@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.58, max: 1.69 }
+    me:                      1.82
+weight:
+    me:                      73
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { JavaScript }
+    me:                      { PHP }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      VI: Return of the Jedi

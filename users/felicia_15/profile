@@ -1,0 +1,27 @@
+username:                felicia_15
+password:                ArtexAlboin
+name:                    Felicia Su
+DOB:                     21/10/1982
+email:                   Felicia.Su@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.66, max: 1.79 }
+    me:                      1.84
+weight:
+    looking_for:             { min: 55, max: 73 }
+    me:                      55
+engineering_discipline:
+    looking_for:             civil
+    me:                      electrical
+operating_systems:
+    me:                      { android }
+programming_languages:
+    me:                      { Haskell }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

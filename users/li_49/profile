@@ -1,0 +1,25 @@
+username:                li_49
+password:                Monzaflat
+name:                    Li Hughes
+DOB:                     20/09/1981
+email:                   Li.Hughes@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 63, max: 82 }
+    me:                      60
+engineering_discipline:
+    looking_for:             computer
+    me:                      chemical
+operating_systems:
+    looking_for:             { android, ios }
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    me:                      emacs

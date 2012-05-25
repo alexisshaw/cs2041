@@ -1,0 +1,26 @@
+username:                wai_8
+password:                appalsLavena
+name:                    Wai Qi
+DOB:                     24/05/1979
+email:                   wq@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.7 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 65, max: 80 }
+    me:                      64
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, JavaScript }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

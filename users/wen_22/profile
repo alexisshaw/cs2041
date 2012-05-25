@@ -1,0 +1,26 @@
+username:                wen_22
+password:                tufterMerrie
+name:                    Wen Zeng
+DOB:                     10/01/1984
+email:                   Wen.Zeng@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.6, max: 1.88 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 50, max: 66 }
+    me:                      70
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { C }
+editor:
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

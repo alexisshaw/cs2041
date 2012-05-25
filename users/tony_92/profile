@@ -1,0 +1,27 @@
+username:                tony_92
+password:                ambersTri
+name:                    Tony Ng
+DOB:                     13/07/1988
+email:                   Tony.Ng@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 54, max: 89 }
+    me:                      73
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

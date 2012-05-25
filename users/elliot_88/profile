@@ -1,0 +1,27 @@
+username:                elliot_88
+password:                gammylande
+name:                    Elliot Chau
+DOB:                     19/04/1988
+email:                   Elliot.Chau@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mechanical
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Haskell, Python }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

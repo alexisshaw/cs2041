@@ -1,0 +1,25 @@
+username:                muhammad_49
+password:                podzolSalk
+name:                    Muhammad Wen
+DOB:                     18/01/1975
+email:                   Muhammad.Wen@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { Python }
+editor:
+    looking_for:             vi
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

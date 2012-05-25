@@ -1,0 +1,29 @@
+username:                wing_12
+password:                Perlaleese
+name:                    Wing Pan
+DOB:                     19/11/1974
+email:                   Wing.Pan@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.28, max: 1.61 }
+    me:                      1.73
+weight:
+    looking_for:             { min: 69, max: 87 }
+    me:                      64
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      mining
+operating_systems:
+    looking_for:             { windows }
+    me:                      { android, linux }
+programming_languages:
+    looking_for:             { Perl, C++, JavaScript }
+    me:                      { Perl, C }
+editor:
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

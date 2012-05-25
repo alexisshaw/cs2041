@@ -1,0 +1,26 @@
+username:                melanie_93
+password:                ClyveLibia
+name:                    Melanie McGrath
+DOB:                     25/12/1985
+email:                   Melanie.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.77
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows, linux, ios }
+programming_languages:
+    looking_for:             { Python, Java }
+    me:                      { Perl, Python, C++, C }
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      VI: Return of the Jedi

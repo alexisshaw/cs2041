@@ -1,0 +1,28 @@
+username:                ngoc_6
+password:                dowelmohur
+name:                    Ngoc Wu
+DOB:                     05/07/1989
+email:                   Ngoc.Wu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.64, max: 1.81 }
+    me:                      1.85
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows, android, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

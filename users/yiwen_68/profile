@@ -1,0 +1,27 @@
+username:                yiwen_68
+password:                withesramp
+name:                    Yiwen Ren
+DOB:                     05/04/1984
+email:                   Yiwen.Ren@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.54, max: 1.72 }
+    me:                      1.73
+weight:
+    looking_for:             { min: 52, max: 73 }
+    me:                      74
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    looking_for:             { Haskell, Perl, C, Java }
+    me:                      { Python, C }
+editor:
+    looking_for:             emacs
+    me:                      vi

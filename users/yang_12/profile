@@ -1,0 +1,27 @@
+username:                yang_12
+password:                repswisen
+name:                    Yang Tam
+DOB:                     23/06/1981
+email:                   Yang.Tam@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.42, max: 1.7 }
+    me:                      1.73
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      civil
+operating_systems:
+    looking_for:             { linux }
+    me:                      { linux }
+programming_languages:
+    me:                      { C++, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

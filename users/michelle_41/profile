@@ -1,0 +1,25 @@
+username:                michelle_41
+password:                PietasRech
+name:                    Michelle Cheung
+DOB:                     03/09/1976
+email:                   Michelle.Cheung@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.76 }
+    me:                      1.81
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, PHP }
+editor:
+    me:                      vi

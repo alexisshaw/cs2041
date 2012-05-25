@@ -1,0 +1,27 @@
+username:                xiao_43
+password:                goofyrete
+name:                    Xiao Tran
+DOB:                     02/11/1990
+email:                   Xiao.Tran@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.92 }
+    me:                      1.75
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { PHP, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

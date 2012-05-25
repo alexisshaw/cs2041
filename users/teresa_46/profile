@@ -1,0 +1,28 @@
+username:                teresa_46
+password:                RomansKobi
+name:                    Teresa Lo
+DOB:                     14/02/1976
+email:                   Teresa.Lo@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.27, max: 1.69 }
+    me:                      1.69
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Perl, Python, C, Java }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,27 @@
+username:                ken_86
+password:                shtupBrinna
+name:                    Ken Ly
+DOB:                     26/05/1973
+email:                   Ken.Ly@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.65
+weight:
+    me:                      53
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux, ios }
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Python, JavaScript }
+    me:                      { Haskell, PHP }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

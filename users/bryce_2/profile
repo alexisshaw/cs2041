@@ -1,0 +1,23 @@
+username:                bryce_2
+password:                dinarLeiser
+name:                    Bryce Zhao
+DOB:                     23/07/1987
+email:                   Bryce.Zhao@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    me:                      65
+engineering_discipline:
+    me:                      mechanical
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             emacs
+    me:                      notepad++

@@ -1,0 +1,22 @@
+username:                jesse_2
+password:                toetoehoar
+name:                    Jesse Dai
+DOB:                     05/12/1982
+email:                   Jesse.Dai@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.6, max: 1.77 }
+    me:                      1.82
+weight:
+    me:                      81
+engineering_discipline:
+    looking_for:             civil
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, osx }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

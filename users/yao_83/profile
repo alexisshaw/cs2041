@@ -1,0 +1,26 @@
+username:                yao_83
+password:                pepoaba
+name:                    Yao Fang
+DOB:                     20/10/1983
+email:                   Yao.Fang@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 53, max: 74 }
+    me:                      72
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { android }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl, Python, PHP, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

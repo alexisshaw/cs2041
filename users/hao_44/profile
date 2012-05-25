@@ -1,0 +1,25 @@
+username:                hao_44
+password:                DuBoisreives
+name:                    Hao Hu
+DOB:                     16/09/1984
+email:                   Hao.Hu@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 40, max: 67 }
+    me:                      63
+engineering_discipline:
+    me:                      electrical
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi

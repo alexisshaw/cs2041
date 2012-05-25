@@ -1,0 +1,28 @@
+username:                irene_61
+password:                narasLysite
+name:                    Irene Hung
+DOB:                     21/04/1992
+email:                   Irene.Hung@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.89 }
+    me:                      1.86
+weight:
+    me:                      41
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

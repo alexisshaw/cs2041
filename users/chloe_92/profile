@@ -1,0 +1,26 @@
+username:                chloe_92
+password:                Baxleylebens
+name:                    Chloe Jung
+DOB:                     01/09/1983
+email:                   Chloe.Jung@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.73 }
+    me:                      1.79
+weight:
+    me:                      59
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, android, linux, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { JavaScript }
+    me:                      { Perl }
+editor:
+    looking_for:             emacs
+    me:                      emacs

@@ -1,0 +1,27 @@
+username:                joseph_97
+password:                WidorRumney
+name:                    Joseph Lau
+DOB:                     18/07/1978
+email:                   Joseph.Lau@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.5, max: 1.86 }
+    me:                      1.88
+weight:
+    looking_for:             { min: 47, max: 77 }
+    me:                      72
+engineering_discipline:
+    looking_for:             computer
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++

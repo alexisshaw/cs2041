@@ -1,0 +1,26 @@
+username:                nurul_25
+password:                malvasbawn
+name:                    Nurul Zhou
+DOB:                     22/12/1974
+email:                   Nurul.Zhou@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.73
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Ruby, Haskell, Perl, Python }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

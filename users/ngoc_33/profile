@@ -1,0 +1,23 @@
+username:                ngoc_33
+password:                Angieenrace
+name:                    Ngoc Chau
+DOB:                     07/03/1970
+email:                   Chau@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.87 }
+    me:                      1.73
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { linux, ios }
+programming_languages:
+    looking_for:             { Haskell, Perl, C++, C, JavaScript }
+    me:                      { Perl, Python, C }

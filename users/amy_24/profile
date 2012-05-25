@@ -1,0 +1,29 @@
+username:                amy_24
+password:                LlanoJelm
+name:                    Amy Zhuang
+DOB:                     18/02/1991
+email:                   Amy.Zhuang@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.68 }
+    me:                      1.68
+weight:
+    looking_for:             { min: 68, max: 77 }
+    me:                      58
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Haskell, Python, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

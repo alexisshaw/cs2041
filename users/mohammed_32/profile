@@ -1,0 +1,27 @@
+username:                mohammed_32
+password:                ribaudMaury
+name:                    Mohammed Chau
+DOB:                     06/07/1981
+email:                   Mohammed.Chau@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.57, max: 1.84 }
+    me:                      1.83
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

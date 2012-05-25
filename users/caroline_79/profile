@@ -1,0 +1,28 @@
+username:                caroline_79
+password:                BogieHoes
+name:                    Caroline Murray
+DOB:                     28/02/1987
+email:                   Caroline.Murray@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.52, max: 1.68 }
+    me:                      1.73
+weight:
+    me:                      40
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      electrical
+operating_systems:
+    looking_for:             { osx }
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      VI: Return of the Jedi

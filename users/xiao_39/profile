@@ -1,0 +1,26 @@
+username:                xiao_39
+password:                Stagedify
+name:                    Xiao Kaur
+DOB:                     13/06/1971
+email:                   Xiao.Kaur@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.49, max: 1.71 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 67, max: 80 }
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mining
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { C++, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

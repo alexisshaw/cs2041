@@ -1,0 +1,24 @@
+username:                anne_47
+password:                tenuesDamar
+name:                    Anne Han
+DOB:                     21/04/1982
+email:                   Anne.Han@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.8 }
+    me:                      1.74
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      civil
+operating_systems:
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Python }
+editor:
+    me:                      emacs

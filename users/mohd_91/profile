@@ -1,0 +1,24 @@
+username:                mohd_91
+password:                SoonerJoice
+name:                    Mohd Ong
+DOB:                     18/10/1971
+email:                   Mohd.Ong@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    me:                      66
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript }
+    me:                      { Haskell, C++ }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

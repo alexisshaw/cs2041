@@ -1,0 +1,28 @@
+username:                jennifer_42
+password:                cairnskiey
+name:                    Jennifer Patel
+DOB:                     24/03/1987
+email:                   Jennifer.Patel@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.76 }
+    me:                      1.84
+weight:
+    looking_for:             { min: 63, max: 91 }
+    me:                      64
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    looking_for:             { Haskell, Perl, PHP, C++, C }
+    me:                      { Perl }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,27 @@
+username:                zi_49
+password:                desistoof
+name:                    Zi Yin
+DOB:                     16/12/1984
+email:                   Zi.Yin@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 63, max: 96 }
+    me:                      59
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

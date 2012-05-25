@@ -1,0 +1,24 @@
+username:                eugene_72
+password:                SproulSoc
+name:                    Eugene Chow
+DOB:                     26/07/1974
+email:                   Eugene.Chow@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 60, max: 81 }
+    me:                      76
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { Perl }
+editor:
+    me:                      emacs

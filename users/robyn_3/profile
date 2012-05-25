@@ -1,0 +1,27 @@
+username:                robyn_3
+password:                EytiesSpence
+name:                    Robyn Xiao
+DOB:                     05/06/1972
+email:                   Robyn.Xiao@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 70, max: 84 }
+    me:                      70
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      non_engineer
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

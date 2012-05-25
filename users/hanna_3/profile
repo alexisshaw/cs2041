@@ -1,0 +1,26 @@
+username:                hanna_3
+password:                sawloggrove
+name:                    Hanna Zhao
+DOB:                     14/06/1974
+email:                   Hanna.Zhao@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.66, max: 2.09 }
+    me:                      1.87
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, Python, Java }
+editor:
+    looking_for:             emacs
+    me:                      jEdit

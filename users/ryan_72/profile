@@ -1,0 +1,26 @@
+username:                ryan_72
+password:                KosseGoltz
+name:                    Ryan Huynh
+DOB:                     04/01/1975
+email:                   Ryan.Huynh@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.61
+weight:
+    me:                      70
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

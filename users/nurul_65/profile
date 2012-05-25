@@ -1,0 +1,25 @@
+username:                nurul_65
+password:                durbarJamila
+name:                    Nurul Xu
+DOB:                     11/07/1974
+email:                   Nurul.Xu@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.82 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 68, max: 87 }
+    me:                      64
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C, Java }
+editor:
+    me:                      emacs

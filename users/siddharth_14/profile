@@ -1,0 +1,29 @@
+username:                siddharth_14
+password:                Lipseyvison
+name:                    Siddharth Xue
+DOB:                     08/10/1972
+email:                   Siddharth.Xue@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.59, max: 1.8 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 66, max: 85 }
+    me:                      76
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Ruby, Perl, Python, PHP, C, JavaScript, Java }
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

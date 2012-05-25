@@ -1,0 +1,26 @@
+username:                natalie_97
+password:                brinyAndrus
+name:                    Natalie Cheung
+DOB:                     22/10/1983
+email:                   Natalie.Cheung@example.com
+age:
+    looking_for:             { min: 18, max: 33 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.8 }
+    me:                      1.78
+weight:
+    me:                      72
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    me:                      { C++, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

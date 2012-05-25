@@ -1,0 +1,24 @@
+username:                nicholas_65
+password:                minutebruits
+name:                    Nicholas Sun
+DOB:                     28/10/1980
+email:                   Nicholas.Sun@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    me:                      73
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      computer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Python, Java }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

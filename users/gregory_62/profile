@@ -1,0 +1,26 @@
+username:                gregory_62
+password:                investshchi
+name:                    Gregory Shen
+DOB:                     06/03/1979
+email:                   Gregory.Shen@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    me:                      73
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, PHP }
+editor:
+    looking_for:             vi
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

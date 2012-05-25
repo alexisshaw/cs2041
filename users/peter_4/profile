@@ -1,0 +1,27 @@
+username:                peter_4
+password:                mulleyluff
+name:                    Peter Wright
+DOB:                     13/09/1987
+email:                   Peter.Wright@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 58, max: 71 }
+    me:                      78
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { osx, android, linux }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Python, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

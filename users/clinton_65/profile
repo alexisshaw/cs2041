@@ -1,0 +1,27 @@
+username:                clinton_65
+password:                BroderKesia
+name:                    Clinton Tam
+DOB:                     02/04/1978
+email:                   Clinton.Tam@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 1.93 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 55, max: 76 }
+    me:                      69
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      computer
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { Ruby, Perl, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

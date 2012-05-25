@@ -1,0 +1,26 @@
+username:                shaun_50
+password:                Sartoochres
+name:                    Shaun Chiu
+DOB:                     13/05/1990
+email:                   Shaun.Chiu@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      68
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { android }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

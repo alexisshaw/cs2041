@@ -1,0 +1,26 @@
+username:                benjamin_8
+password:                guckyZurkow
+name:                    Benjamin Ge
+DOB:                     08/09/1981
+email:                   Benjamin.Ge@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.70
+weight:
+    looking_for:             { min: 43, max: 63 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

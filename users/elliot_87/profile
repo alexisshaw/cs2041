@@ -1,0 +1,29 @@
+username:                elliot_87
+password:                unwovegilgie
+name:                    Elliot Sun
+DOB:                     22/07/1975
+email:                   Elliot.Sun@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 1.72 }
+    me:                      1.70
+weight:
+    looking_for:             { min: 48, max: 77 }
+    me:                      78
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, android, ios }
+programming_languages:
+    me:                      { PHP }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

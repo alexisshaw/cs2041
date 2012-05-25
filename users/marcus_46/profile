@@ -1,0 +1,29 @@
+username:                marcus_46
+password:                Limbolug
+name:                    Marcus To
+DOB:                     22/12/1986
+email:                   Marcus.To@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    looking_for:             { min: 62, max: 79 }
+    me:                      79
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      computer
+operating_systems:
+    looking_for:             { android }
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript }
+    me:                      { Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

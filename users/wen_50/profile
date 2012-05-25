@@ -1,0 +1,23 @@
+username:                wen_50
+password:                manitorepure
+name:                    Wen Zhu
+DOB:                     02/09/1972
+email:                   Wen.Zhu@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.54, max: 2.01 }
+    me:                      1.78
+weight:
+    me:                      68
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             emacs
+    me:                      vi

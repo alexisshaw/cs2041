@@ -1,0 +1,24 @@
+username:                nurul_0
+password:                nanurena
+name:                    Nurul Ly
+DOB:                     02/11/1987
+email:                   Nurul.Ly@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.67
+weight:
+    looking_for:             { min: 66, max: 120 }
+    me:                      68
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      computer
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { C }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

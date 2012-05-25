@@ -1,0 +1,28 @@
+username:                ying_91
+password:                Johnnyatabal
+name:                    Ying Lee
+DOB:                     03/06/1977
+email:                   Ying.Lee@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.66, max: 1.91 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 55, max: 72 }
+    me:                      56
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Python, PHP, C++, C }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

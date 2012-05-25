@@ -1,0 +1,28 @@
+username:                tian_55
+password:                phloemsnick
+name:                    Tian Wong
+DOB:                     08/05/1971
+email:                   Tian.Wong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 33, max: 64 }
+    me:                      69
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,26 @@
+username:                nur_56
+password:                hewedkente
+name:                    Nur Yan
+DOB:                     15/11/1987
+email:                   Nur.Yan@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.37, max: 1.69 }
+    me:                      1.75
+weight:
+    me:                      54
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, JavaScript, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

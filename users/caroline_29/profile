@@ -1,0 +1,26 @@
+username:                caroline_29
+password:                Ruthyzebu
+name:                    Caroline Halim
+DOB:                     18/04/1984
+email:                   Caroline.Halim@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.79 }
+    me:                      1.77
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C++ }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

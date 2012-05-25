@@ -1,0 +1,28 @@
+username:                laura_17
+password:                arrayodyles
+name:                    Laura Gu
+DOB:                     02/10/1974
+email:                   Laura.Gu@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.64, max: 1.91 }
+    me:                      1.87
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      aerospace
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C++ }
+editor:
+    looking_for:             NEdit
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      V: The Empire Strikes Back

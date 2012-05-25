@@ -1,0 +1,28 @@
+username:                rebecca_68
+password:                acinarRenell
+name:                    Rebecca Chau
+DOB:                     02/04/1976
+email:                   Rebecca.Chau@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.97 }
+    me:                      1.66
+weight:
+    looking_for:             { min: 52, max: 72 }
+    me:                      55
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      software
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Ruby, Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      IV: A New Hope

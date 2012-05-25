@@ -1,0 +1,26 @@
+username:                lawrence_26
+password:                deliIonia
+name:                    Lawrence Singh
+DOB:                     25/12/1983
+email:                   Lawrence.Singh@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.4, max: 1.72 }
+    me:                      1.76
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      vi

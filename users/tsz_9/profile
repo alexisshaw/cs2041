@@ -1,0 +1,22 @@
+username:                tsz_9
+password:                smousekipuka
+name:                    Tsz Zhong
+DOB:                     20/09/1986
+email:                   Tsz.Zhong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+programming_languages:
+    me:                      { Perl, C++ }
+editor:
+    looking_for:             emacs
+    me:                      emacs

@@ -1,0 +1,26 @@
+username:                kelly_63
+password:                flyschfurors
+name:                    Kelly Nguyen
+DOB:                     21/05/1974
+email:                   Kelly.Nguyen@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    me:                      49
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Python, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

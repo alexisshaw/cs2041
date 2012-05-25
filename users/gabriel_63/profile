@@ -1,0 +1,27 @@
+username:                gabriel_63
+password:                feintHonors
+name:                    Gabriel Huynh
+DOB:                     02/10/1970
+email:                   Gabriel.Huynh@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 56, max: 85 }
+    me:                      75
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    looking_for:             { Haskell, C, JavaScript }
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

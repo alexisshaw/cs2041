@@ -1,0 +1,25 @@
+username:                min_74
+password:                Jarradploats
+name:                    Min Truong
+DOB:                     08/05/1991
+email:                   Min.Truong@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 1.78 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 47, max: 65 }
+    me:                      61
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      vi

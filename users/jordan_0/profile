@@ -1,0 +1,25 @@
+username:                jordan_0
+password:                jadedchider
+name:                    Jordan Shen
+DOB:                     10/09/1982
+email:                   Jordan.Shen@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 28, max: 77 }
+    me:                      73
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Perl, C++, JavaScript, Java }
+editor:
+    looking_for:             NEdit
+    me:                      TextMate

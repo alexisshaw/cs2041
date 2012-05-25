@@ -1,0 +1,25 @@
+username:                laura_9
+password:                suraBovary
+name:                    Laura Wan
+DOB:                     06/11/1992
+email:                   Laura.Wan@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.33, max: 1.7 }
+    me:                      1.70
+weight:
+    me:                      61
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Python, JavaScript }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

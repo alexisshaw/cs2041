@@ -1,0 +1,26 @@
+username:                stephanie_55
+password:                laogaisolves
+name:                    Stephanie Tsang
+DOB:                     04/06/1974
+email:                   Stephanie.Tsang@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.45, max: 1.62 }
+    me:                      1.70
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { C++, Java }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

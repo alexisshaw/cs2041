@@ -1,0 +1,25 @@
+username:                mark_13
+password:                echtpause
+name:                    Mark Mak
+DOB:                     22/10/1986
+email:                   Mark.Mak@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.32, max: 1.56 }
+    me:                      1.61
+weight:
+    looking_for:             { min: 48, max: 86 }
+    me:                      65
+engineering_discipline:
+    me:                      chemical
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

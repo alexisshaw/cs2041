@@ -1,0 +1,23 @@
+username:                tony_19
+password:                Cyrillnewsy
+name:                    Tony Huang
+DOB:                     26/01/1976
+email:                   Tony.Huang@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 27, max: 58 }
+    me:                      66
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl }

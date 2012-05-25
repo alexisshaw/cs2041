@@ -1,0 +1,24 @@
+username:                wai_44
+password:                maidedSinger
+name:                    Wai Rahman
+DOB:                     19/12/1981
+email:                   Wai.Rahman@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 59, max: 72 }
+    me:                      60
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      computer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Java }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

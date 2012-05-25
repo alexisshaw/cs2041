@@ -1,0 +1,26 @@
+username:                yong_65
+password:                melilt
+name:                    Yong Ward
+DOB:                     10/04/1981
+email:                   Yong.Ward@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.61, max: 1.88 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 40, max: 82 }
+    me:                      66
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      mining
+operating_systems:
+    looking_for:             { windows, ios }
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { C, JavaScript }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

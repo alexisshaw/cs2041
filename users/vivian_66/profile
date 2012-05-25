@@ -1,0 +1,27 @@
+username:                vivian_66
+password:                daffyperdu
+name:                    Vivian Ge
+DOB:                     21/01/1989
+email:                   Vivian.Ge@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.46, max: 1.83 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 54, max: 74 }
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, C, JavaScript, Java }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

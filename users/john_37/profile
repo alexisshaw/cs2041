@@ -1,0 +1,26 @@
+username:                john_37
+password:                gemotscomae
+name:                    John Liao
+DOB:                     28/04/1984
+email:                   John.Liao@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 39, max: 66 }
+    me:                      67
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Python, PHP }
+editor:
+    looking_for:             TextMate
+    me:                      vi

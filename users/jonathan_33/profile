@@ -1,0 +1,27 @@
+username:                jonathan_33
+password:                Leesegenu
+name:                    Jonathan Jin
+DOB:                     13/08/1990
+email:                   Jonathan.Jin@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 38, max: 69 }
+    me:                      67
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    looking_for:             { C, JavaScript }
+    me:                      { Perl, Python, PHP, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

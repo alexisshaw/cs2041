@@ -1,0 +1,24 @@
+username:                jennifer_45
+password:                Hoshaha
+name:                    Jennifer Ge
+DOB:                     11/11/1985
+email:                   Jennifer.Ge@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.64, max: 1.78 }
+    me:                      1.80
+weight:
+    me:                      49
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, PHP, C++, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

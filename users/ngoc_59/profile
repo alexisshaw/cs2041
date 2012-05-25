@@ -1,0 +1,27 @@
+username:                ngoc_59
+password:                Bahaisreeds
+name:                    Ngoc Robinson
+DOB:                     06/08/1978
+email:                   Ngoc.Robinson@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.75 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 70, max: 90 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Python }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

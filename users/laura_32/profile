@@ -1,0 +1,22 @@
+username:                laura_32
+password:                Valeramebas
+name:                    Laura Pan
+DOB:                     20/10/1992
+email:                   Laura.Pan@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    me:                      67
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, linux, osx }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

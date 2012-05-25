@@ -1,0 +1,27 @@
+username:                yi_0
+password:                nidstrade
+name:                    Yi Cai
+DOB:                     26/07/1992
+email:                   Yi.Cai@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 35, max: 66 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    looking_for:             { Python, C }
+    me:                      { Perl, Python }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

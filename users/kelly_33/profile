@@ -1,0 +1,28 @@
+username:                kelly_33
+password:                gloamchital
+name:                    Kelly Sun
+DOB:                     03/09/1987
+email:                   Kelly.Sun@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.79 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 62, max: 77 }
+    me:                      54
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript }
+    me:                      { Perl, Python, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

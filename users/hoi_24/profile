@@ -1,0 +1,26 @@
+username:                hoi_24
+password:                creptMaag
+name:                    Hoi Yan
+DOB:                     12/09/1971
+email:                   Hoi.Yan@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.38, max: 1.78 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 63, max: 80 }
+    me:                      57
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { android, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,27 @@
+username:                michelle_31
+password:                weanJenn
+name:                    Michelle Tan
+DOB:                     02/08/1985
+email:                   Michelle.Tan@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 1.97 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 50, max: 70 }
+    me:                      53
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      computer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

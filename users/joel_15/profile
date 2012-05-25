@@ -1,0 +1,25 @@
+username:                joel_15
+password:                DonallTownes
+name:                    Joel White
+DOB:                     16/02/1984
+email:                   Joel.White@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    me:                      62
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             jEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

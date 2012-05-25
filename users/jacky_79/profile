@@ -1,0 +1,24 @@
+username:                jacky_79
+password:                enuftopped
+name:                    Jacky Tong
+DOB:                     01/10/1989
+email:                   Jacky.Tong@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 47, max: 85 }
+    me:                      70
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, JavaScript }
+editor:
+    me:                      emacs

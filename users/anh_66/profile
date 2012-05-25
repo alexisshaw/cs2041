@@ -1,0 +1,28 @@
+username:                anh_66
+password:                hametzJudah
+name:                    Anh Wang
+DOB:                     23/11/1977
+email:                   Anh.Wang@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 40, max: 64 }
+    me:                      70
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Python, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

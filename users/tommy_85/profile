@@ -1,0 +1,28 @@
+username:                tommy_85
+password:                BlairsPaddy
+name:                    Tommy Chow
+DOB:                     22/09/1992
+email:                   Tommy.Chow@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.69, max: 1.84 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 50, max: 65 }
+    me:                      69
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,29 @@
+username:                jeremy_98
+password:                Bagdadbauera
+name:                    Jeremy Duan
+DOB:                     03/04/1989
+email:                   Jeremy.Duan@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 60, max: 75 }
+    me:                      73
+engineering_discipline:
+    looking_for:             electrical
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    looking_for:             jEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      VI: Return of the Jedi

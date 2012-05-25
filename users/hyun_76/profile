@@ -1,0 +1,28 @@
+username:                hyun_76
+password:                balsasorgasm
+name:                    Hyun Bui
+DOB:                     23/12/1988
+email:                   Hyun.Bui@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 50, max: 62 }
+    me:                      66
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Python }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      IV: A New Hope

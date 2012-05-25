@@ -1,0 +1,23 @@
+username:                vivian_89
+password:                bluishflench
+name:                    Vivian Dang
+DOB:                     28/05/1985
+email:                   Vivian.Dang@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.58, max: 1.81 }
+    me:                      1.79
+weight:
+    me:                      67
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { windows }
+editor:
+    looking_for:             emacs
+    me:                      emacs

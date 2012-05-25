@@ -1,0 +1,26 @@
+username:                kate_39
+password:                SolRayner
+name:                    Kate Lo
+DOB:                     08/03/1986
+email:                   Kate.Lo@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.75 }
+    me:                      1.72
+weight:
+    looking_for:             { min: 66, max: 79 }
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    me:                      { Perl, C, Java }
+editor:
+    looking_for:             TextMate
+    me:                      emacs

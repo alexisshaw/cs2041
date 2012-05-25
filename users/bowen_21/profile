@@ -1,0 +1,27 @@
+username:                bowen_21
+password:                dutchCobham
+name:                    Bowen Han
+DOB:                     04/09/1974
+email:                   Bowen.Han@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.95
+weight:
+    looking_for:             { min: 44, max: 72 }
+    me:                      62
+engineering_discipline:
+    me:                      telecommunications
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { PHP }
+editor:
+    looking_for:             notepad++
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

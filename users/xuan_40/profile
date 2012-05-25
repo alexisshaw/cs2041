@@ -1,0 +1,26 @@
+username:                xuan_40
+password:                Intyreloral
+name:                    Xuan Dixon
+DOB:                     05/10/1972
+email:                   Xuan.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.91
+weight:
+    me:                      77
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { android, ios }
+programming_languages:
+    me:                      { Ruby, C++ }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

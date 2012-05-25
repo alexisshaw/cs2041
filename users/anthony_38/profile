@@ -1,0 +1,23 @@
+username:                anthony_38
+password:                choptorose
+name:                    Anthony Duong
+DOB:                     19/01/1980
+email:                   Anthony.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, Python }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

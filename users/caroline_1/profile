@@ -1,0 +1,28 @@
+username:                caroline_1
+password:                setulaGentry
+name:                    Caroline Lau
+DOB:                     06/02/1971
+email:                   Caroline.Lau@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 60, max: 87 }
+    me:                      63
+engineering_discipline:
+    looking_for:             mining
+    me:                      biomedical
+operating_systems:
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Python, C++, Java }
+    me:                      { Python, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

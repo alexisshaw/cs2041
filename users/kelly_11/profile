@@ -1,0 +1,28 @@
+username:                kelly_11
+password:                WellsSava
+name:                    Kelly Hung
+DOB:                     27/05/1973
+email:                   Kelly.Hung@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.86
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { ios, osx }
+programming_languages:
+    looking_for:             { Haskell, Perl, JavaScript }
+    me:                      { Haskell, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

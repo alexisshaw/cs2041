@@ -1,0 +1,26 @@
+username:                hanna_47
+password:                trèsrugby
+name:                    Hanna Ye
+DOB:                     20/03/1981
+email:                   Hanna.Ye@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.67, max: 2.09 }
+    me:                      1.84
+weight:
+    me:                      64
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Perl, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,25 @@
+username:                dylan_14
+password:                Callbody
+name:                    Dylan De Silva
+DOB:                     03/07/1975
+email:                   Dylan.De Silva@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.59
+weight:
+    looking_for:             { min: 57, max: 70 }
+    me:                      69
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C, Java }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

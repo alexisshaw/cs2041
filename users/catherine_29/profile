@@ -1,0 +1,25 @@
+username:                catherine_29
+password:                playsBronte
+name:                    Catherine Zhou
+DOB:                     10/11/1974
+email:                   Catherine.Zhou@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.83 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 60, max: 75 }
+    me:                      57
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      biomedical
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Haskell, Python, C }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,25 @@
+username:                melanie_66
+password:                joephoh
+name:                    Melanie Khan
+DOB:                     05/01/1986
+email:                   Melanie.Khan@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.86
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             chemical
+    me:                      software
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { windows, android }
+programming_languages:
+    me:                      { C++ }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,29 @@
+username:                melanie_9
+password:                datedud
+name:                    Melanie Vo
+DOB:                     13/04/1977
+email:                   Melanie.Vo@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.37, max: 1.71 }
+    me:                      1.68
+weight:
+    looking_for:             { min: 67, max: 70 }
+    me:                      58
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Python, JavaScript, Java }
+editor:
+    looking_for:             notepad++
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

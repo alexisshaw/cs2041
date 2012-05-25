@@ -1,0 +1,26 @@
+username:                andy_63
+password:                satyrsvillus
+name:                    Andy Qiu
+DOB:                     05/01/1980
+email:                   Andy.Qiu@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.42, max: 1.75 }
+    me:                      1.67
+weight:
+    looking_for:             { min: 38, max: 65 }
+    me:                      57
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios }
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      jEdit

@@ -1,0 +1,29 @@
+username:                jessica_16
+password:                recantpalate
+name:                    Jessica Tang
+DOB:                     17/11/1970
+email:                   Jessica.Tang@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.7 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 38, max: 63 }
+    me:                      43
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

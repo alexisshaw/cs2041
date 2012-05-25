@@ -1,0 +1,26 @@
+username:                emily_15
+password:                KrystaSev
+name:                    Emily Gong
+DOB:                     24/06/1988
+email:                   Emily.Gong@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.31, max: 1.67 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 66, max: 106 }
+    me:                      61
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Perl, C++, Java }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

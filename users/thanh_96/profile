@@ -1,0 +1,28 @@
+username:                thanh_96
+password:                Illenebored
+name:                    Thanh Ngo
+DOB:                     12/07/1991
+email:                   Thanh.Ngo@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 40, max: 78 }
+    me:                      70
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Ruby, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

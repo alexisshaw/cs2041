@@ -1,0 +1,25 @@
+username:                jade_85
+password:                GazoGerius
+name:                    Jade Xu
+DOB:                     26/07/1970
+email:                   Jade.Xu@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      52
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Haskell, Perl, C }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

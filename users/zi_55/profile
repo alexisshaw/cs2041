@@ -1,0 +1,29 @@
+username:                zi_55
+password:                Tarrellingua
+name:                    Zi Mak
+DOB:                     03/12/1984
+email:                   Zi.Mak@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.58, max: 1.88 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 65, max: 94 }
+    me:                      63
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { linux }
+programming_languages:
+    me:                      { C++, C, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      IV: A New Hope

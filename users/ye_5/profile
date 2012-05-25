@@ -1,0 +1,26 @@
+username:                ye_5
+password:                mereljak
+name:                    Ye Feng
+DOB:                     23/02/1975
+email:                   Ye.Feng@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.44, max: 1.68 }
+    me:                      1.73
+weight:
+    me:                      60
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl, PHP, Java }
+editor:
+    looking_for:             vi
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

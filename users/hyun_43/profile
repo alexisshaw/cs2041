@@ -1,0 +1,27 @@
+username:                hyun_43
+password:                stroamWoden
+name:                    Hyun Vu
+DOB:                     28/01/1975
+email:                   Hyun.Vu@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 1.7 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 58, max: 88 }
+    me:                      78
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { ios }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

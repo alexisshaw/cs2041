@@ -1,0 +1,27 @@
+username:                lawrence_67
+password:                aldersHoli
+name:                    Lawrence Ho
+DOB:                     05/01/1988
+email:                   Lawrence.Ho@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    me:                      73
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Ruby, Haskell, Perl, Python, C++, Java }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      IV: A New Hope

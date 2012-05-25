@@ -1,0 +1,29 @@
+username:                sarah_34
+password:                abacaJaps
+name:                    Sarah Cao
+DOB:                     26/09/1976
+email:                   Sarah.Cao@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 56, max: 77 }
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    looking_for:             { PHP, C }
+    me:                      { Perl, C }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

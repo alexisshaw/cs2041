@@ -1,0 +1,25 @@
+username:                jimmy_41
+password:                Ulmancheeks
+name:                    Jimmy Morris
+DOB:                     14/09/1985
+email:                   Jimmy.Morris@example.com
+age:
+    looking_for:             { min: 18, max: 34 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.70
+weight:
+    looking_for:             { min: 45, max: 58 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Ruby, C++, C, JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      vi

@@ -1,0 +1,25 @@
+username:                anna_81
+password:                rusherripply
+name:                    Anna Murray
+DOB:                     14/03/1973
+email:                   Anna.Murray@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.45, max: 1.97 }
+    me:                      1.73
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { PHP, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

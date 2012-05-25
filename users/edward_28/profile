@@ -1,0 +1,27 @@
+username:                edward_28
+password:                rhodyendpin
+name:                    Edward Duong
+DOB:                     11/09/1986
+email:                   Edward.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 49, max: 54 }
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

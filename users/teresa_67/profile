@@ -1,0 +1,28 @@
+username:                teresa_67
+password:                Wyanozorros
+name:                    Teresa Phan
+DOB:                     20/09/1978
+email:                   Teresa.Phan@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.71, max: 1.81 }
+    me:                      1.85
+weight:
+    looking_for:             { min: 71, max: 92 }
+    me:                      63
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

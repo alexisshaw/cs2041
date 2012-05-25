@@ -1,0 +1,24 @@
+username:                xiao_35
+password:                soddedadorns
+name:                    Xiao Zhang
+DOB:                     05/12/1970
+email:                   Xiao.Zhang@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.94 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 55, max: 70 }
+    me:                      56
+engineering_discipline:
+    me:                      computer
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

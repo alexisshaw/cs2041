@@ -1,0 +1,28 @@
+username:                amanda_83
+password:                widthsshayas
+name:                    Amanda Duan
+DOB:                     22/09/1991
+email:                   Amanda@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.38, max: 1.73 }
+    me:                      1.69
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             electrical
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows, android, ios, osx }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

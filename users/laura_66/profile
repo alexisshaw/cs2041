@@ -1,0 +1,27 @@
+username:                laura_66
+password:                drouksvells
+name:                    Laura Brown
+DOB:                     26/02/1989
+email:                   Laura.Brown@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.52, max: 1.85 }
+    me:                      1.67
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { linux }
+programming_languages:
+    looking_for:             { PHP, C, Java }
+    me:                      { Perl, C++ }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

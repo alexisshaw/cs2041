@@ -1,0 +1,28 @@
+username:                amanda_21
+password:                Uniatsdunder
+name:                    Amanda Shen
+DOB:                     01/12/1976
+email:                   Amanda.Shen@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.79
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { osx }
+programming_languages:
+    looking_for:             { Ruby, Python, C, JavaScript }
+    me:                      { Haskell, Python, C++, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

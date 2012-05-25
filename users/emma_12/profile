@@ -1,0 +1,28 @@
+username:                emma_12
+password:                Ravelgleis
+name:                    Emma Yeung
+DOB:                     05/03/1970
+email:                   Emma.Yeung@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.99 }
+    me:                      1.80
+weight:
+    looking_for:             { min: 66, max: 92 }
+    me:                      62
+engineering_discipline:
+    me:                      electrical
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    looking_for:             { C++ }
+    me:                      { C++, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

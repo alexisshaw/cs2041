@@ -1,0 +1,28 @@
+username:                natalie_96
+password:                leastsYuma
+name:                    Natalie Ngo
+DOB:                     26/12/1978
+email:                   Natalie.Ngo@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.69, max: 1.82 }
+    me:                      1.91
+weight:
+    looking_for:             { min: 66, max: 108 }
+    me:                      63
+engineering_discipline:
+    looking_for:             mining
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

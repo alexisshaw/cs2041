@@ -1,0 +1,29 @@
+username:                stephen_86
+password:                haramsSavaii
+name:                    Stephen Chung
+DOB:                     25/07/1974
+email:                   Stephen.Chung@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 71, max: 91 }
+    me:                      83
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { Python, C++, Java }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

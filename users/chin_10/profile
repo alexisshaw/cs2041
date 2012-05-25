@@ -1,0 +1,25 @@
+username:                chin_10
+password:                whompsDorita
+name:                    Chin Dang
+DOB:                     26/06/1981
+email:                   Chin.Dang@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 43, max: 90 }
+    me:                      74
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, PHP, C++ }
+editor:
+    looking_for:             emacs
+    me:                      vi

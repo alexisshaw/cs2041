@@ -1,0 +1,27 @@
+username:                thai_5
+password:                redefyuprate
+name:                    Thai Ahmed
+DOB:                     28/08/1985
+email:                   Thai.Ahmed@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.42, max: 1.58 }
+    me:                      1.69
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { windows }
+programming_languages:
+    me:                      { JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

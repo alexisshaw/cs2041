@@ -1,0 +1,23 @@
+username:                george_72
+password:                filedadmins
+name:                    George Wong
+DOB:                     25/12/1970
+email:                   George.Wong@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    me:                      58
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, C++, C }
+    me:                      { C }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

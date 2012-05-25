@@ -1,0 +1,27 @@
+username:                julian_1
+password:                Helenavav
+name:                    Julian Jung
+DOB:                     27/08/1991
+email:                   Julian.Jung@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.86
+weight:
+    looking_for:             { min: 38, max: 60 }
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Haskell, Perl, C++, C, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

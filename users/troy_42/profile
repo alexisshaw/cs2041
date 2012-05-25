@@ -1,0 +1,28 @@
+username:                troy_42
+password:                yukeskerned
+name:                    Troy Kelly
+DOB:                     10/10/1992
+email:                   Troy.Kelly@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.58, max: 2.03 }
+    me:                      1.73
+weight:
+    looking_for:             { min: 51, max: 61 }
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Ruby, Perl, Python, PHP }
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs

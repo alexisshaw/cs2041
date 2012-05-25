@@ -1,0 +1,28 @@
+username:                kenneth_29
+password:                argusAndris
+name:                    Kenneth Ward
+DOB:                     22/12/1977
+email:                   Kenneth.Ward@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.88
+weight:
+    looking_for:             { min: 47, max: 67 }
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, Perl, PHP }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

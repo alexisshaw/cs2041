@@ -1,0 +1,24 @@
+username:                harrison_45
+password:                juponlumper
+name:                    Harrison Shi
+DOB:                     28/02/1976
+email:                   Harrison.Shi@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.61, max: 1.75 }
+    me:                      1.85
+weight:
+    looking_for:             { min: 35, max: 85 }
+    me:                      68
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Java }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

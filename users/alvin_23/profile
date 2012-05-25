@@ -1,0 +1,27 @@
+username:                alvin_23
+password:                Frayagyron
+name:                    Alvin Jia
+DOB:                     01/08/1992
+email:                   Alvin.Jia@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.94
+weight:
+    looking_for:             { min: 75, max: 80 }
+    me:                      87
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Python, C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

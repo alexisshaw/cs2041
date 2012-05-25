@@ -1,0 +1,27 @@
+username:                esther_15
+password:                slidestropes
+name:                    Esther Liang
+DOB:                     03/03/1988
+email:                   EstherL@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 55, max: 76 }
+    me:                      58
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { linux }
+programming_languages:
+    me:                      { Ruby, Perl, C++, C, JavaScript }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,27 @@
+username:                esther_35
+password:                clokesengaol
+name:                    Esther Guo
+DOB:                     20/01/1974
+email:                   Esther.Guo@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.58, max: 1.86 }
+    me:                      1.72
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android }
+    me:                      { android, ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl, C++ }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

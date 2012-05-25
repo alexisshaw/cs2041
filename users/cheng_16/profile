@@ -1,0 +1,30 @@
+username:                cheng_16
+password:                EllisGuelph
+name:                    Cheng Mao
+DOB:                     06/11/1986
+email:                   Cheng.Mao@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.59, max: 1.93 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 66, max: 98 }
+    me:                      76
+engineering_discipline:
+    looking_for:             civil
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, android, linux, osx }
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { C++, C }
+    me:                      { Ruby, Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

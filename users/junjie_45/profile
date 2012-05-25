@@ -1,0 +1,24 @@
+username:                junjie_45
+password:                auspexataman
+name:                    Junjie Fu
+DOB:                     18/05/1975
+email:                   Junjie.Fu@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    me:                      74
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C++, Java }
+    me:                      { Perl, JavaScript }
+editor:
+    me:                      emacs

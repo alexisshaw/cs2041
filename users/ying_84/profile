@@ -1,0 +1,26 @@
+username:                ying_84
+password:                fourappro
+name:                    Ying Lam
+DOB:                     18/12/1987
+email:                   Ying.Lam@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.67, max: 1.83 }
+    me:                      1.83
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             software
+    me:                      telecommunications
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Ruby, Perl, Python, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

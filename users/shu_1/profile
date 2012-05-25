@@ -1,0 +1,28 @@
+username:                shu_1
+password:                truesLabor
+name:                    Shu Ji
+DOB:                     12/07/1992
+email:                   Shu.Ji@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.61, max: 1.95 }
+    me:                      1.83
+weight:
+    looking_for:             { min: 54, max: 67 }
+    me:                      65
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    me:                      jEdit
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      VI: Return of the Jedi

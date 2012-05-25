@@ -1,0 +1,28 @@
+username:                stephanie_12
+password:                wengefuzees
+name:                    Stephanie Shao
+DOB:                     26/06/1981
+email:                   Stephanie.Shao@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 75, max: 101 }
+    me:                      67
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { C, JavaScript }
+    me:                      { Ruby }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,25 @@
+username:                simon_35
+password:                severskyars
+name:                    Simon Yau
+DOB:                     08/08/1970
+email:                   Simon.Yau@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.49, max: 1.71 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 41, max: 74 }
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { JavaScript }
+editor:
+    me:                      TextMate

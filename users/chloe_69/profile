@@ -1,0 +1,28 @@
+username:                chloe_69
+password:                Orelieswads
+name:                    Chloe Han
+DOB:                     08/03/1987
+email:                   Chloe.Han@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.79 }
+    me:                      1.75
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,27 @@
+username:                teresa_16
+password:                Dottycuspal
+name:                    Teresa Shen
+DOB:                     13/01/1978
+email:                   Teresa.Shen@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

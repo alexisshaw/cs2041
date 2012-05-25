@@ -1,0 +1,24 @@
+username:                chang_82
+password:                playOdem
+name:                    Chang Khan
+DOB:                     15/11/1991
+email:                   Chang.Khan@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.73, max: 1.88 }
+    me:                      1.87
+weight:
+    looking_for:             { min: 57, max: 71 }
+    me:                      69
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Ruby, Perl, C++ }
+editor:
+    looking_for:             notepad++
+    me:                      vi

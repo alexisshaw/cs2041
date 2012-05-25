@@ -1,0 +1,26 @@
+username:                wing_21
+password:                risersmars
+name:                    Wing Chong
+DOB:                     03/09/1977
+email:                   Wing.Chong@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.64, max: 2.08 }
+    me:                      1.83
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

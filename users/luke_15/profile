@@ -1,0 +1,25 @@
+username:                luke_15
+password:                soutarenserf
+name:                    Luke Taylor
+DOB:                     21/04/1990
+email:                   Luke.Taylor@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.68
+weight:
+    looking_for:             { min: 58, max: 98 }
+    me:                      78
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    looking_for:             { osx }
+    me:                      { android, linux }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

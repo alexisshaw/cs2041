@@ -1,0 +1,25 @@
+username:                shirley_81
+password:                childwaxer
+name:                    Shirley He
+DOB:                     06/02/1980
+email:                   Shirley.He@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.72
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Ruby }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

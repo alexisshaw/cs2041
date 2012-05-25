@@ -1,0 +1,26 @@
+username:                elizabeth_49
+password:                Minoaunto
+name:                    Elizabeth Ding
+DOB:                     03/11/1988
+email:                   Elizabeth.Ding@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.41, max: 1.82 }
+    me:                      1.92
+weight:
+    looking_for:             { min: 43, max: 75 }
+    me:                      53
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { Python, C++, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

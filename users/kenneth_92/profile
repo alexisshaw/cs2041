@@ -1,0 +1,20 @@
+username:                kenneth_92
+password:                verdetstages
+name:                    Kenneth Widjaja
+DOB:                     20/08/1988
+email:                   Kenneth.Widjaja@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    me:                      72
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Haskell }

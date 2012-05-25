@@ -1,0 +1,28 @@
+username:                natalie_65
+password:                hollyyears
+name:                    Natalie Nam
+DOB:                     13/09/1982
+email:                   Natalie.Nam@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.85 }
+    me:                      1.86
+weight:
+    looking_for:             { min: 57, max: 81 }
+    me:                      57
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Ruby, C, JavaScript }
+    me:                      { Ruby, Perl, Python, PHP, C }
+editor:
+    looking_for:             TextMate
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,26 @@
+username:                stephanie_69
+password:                nareschocho
+name:                    Stephanie Cai
+DOB:                     11/10/1982
+email:                   Stephanie.Cai@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 64, max: 85 }
+    me:                      55
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { osx }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,28 @@
+username:                wen_23
+password:                Sinkcypris
+name:                    Wen To
+DOB:                     25/12/1979
+email:                   Wen.To@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.91 }
+    me:                      1.79
+weight:
+    me:                      56
+engineering_discipline:
+    looking_for:             chemical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { osx }
+programming_languages:
+    me:                      { Python, C++, JavaScript, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

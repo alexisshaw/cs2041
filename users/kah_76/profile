@@ -1,0 +1,27 @@
+username:                kah_76
+password:                barmendesand
+name:                    Kah Sharma
+DOB:                     24/01/1991
+email:                   Kah.Sharma@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 48, max: 57 }
+    me:                      66
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { C }
+    me:                      { Ruby, C }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

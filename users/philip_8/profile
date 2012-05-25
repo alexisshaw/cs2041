@@ -1,0 +1,26 @@
+username:                philip_8
+password:                goaledAgneta
+name:                    Philip Dixon
+DOB:                     04/02/1979
+email:                   Philip.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Ruby, Haskell, Python, C++, C, JavaScript }
+    me:                      { Haskell, Perl, C++, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

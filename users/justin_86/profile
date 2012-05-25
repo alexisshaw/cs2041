@@ -1,0 +1,25 @@
+username:                justin_86
+password:                Peppimacer
+name:                    Justin Ng
+DOB:                     24/11/1988
+email:                   Justin.Ng@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 52, max: 87 }
+    me:                      70
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+programming_languages:
+    looking_for:             { Perl, C++ }
+    me:                      { Perl, C++, JavaScript, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

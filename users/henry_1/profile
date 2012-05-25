@@ -1,0 +1,26 @@
+username:                henry_1
+password:                Maytagsedate
+name:                    Henry Zhang
+DOB:                     24/08/1983
+email:                   Henry.Zhang@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 60, max: 89 }
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      telecommunications
+operating_systems:
+    me:                      { android, ios }
+programming_languages:
+    looking_for:             { Ruby, Perl, C, JavaScript }
+    me:                      { Python, C }
+editor:
+    looking_for:             jEdit
+    me:                      vi

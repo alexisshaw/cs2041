@@ -1,0 +1,26 @@
+username:                hanna_92
+password:                createIpava
+name:                    Hanna Smith
+DOB:                     14/04/1992
+email:                   Hanna.Smith@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.77
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { C++ }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

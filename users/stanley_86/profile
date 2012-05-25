@@ -1,0 +1,27 @@
+username:                stanley_86
+password:                hastychided
+name:                    Stanley Hu
+DOB:                     15/06/1984
+email:                   Stanley.Hu@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 42, max: 52 }
+    me:                      62
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, ios }
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

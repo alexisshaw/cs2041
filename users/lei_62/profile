@@ -1,0 +1,27 @@
+username:                lei_62
+password:                deludeRomain
+name:                    Lei Phillips
+DOB:                     18/09/1982
+email:                   Lei.Phillips@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Perl, C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

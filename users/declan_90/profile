@@ -1,0 +1,28 @@
+username:                declan_90
+password:                urnfulmanent
+name:                    Declan Kong
+DOB:                     04/08/1982
+email:                   Declan.Kong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 53, max: 78 }
+    me:                      65
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

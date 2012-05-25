@@ -1,0 +1,27 @@
+username:                thai_29
+password:                slitrecord
+name:                    Thai Deng
+DOB:                     16/10/1987
+email:                   Thai.Deng@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.72, max: 1.79 }
+    me:                      1.89
+weight:
+    looking_for:             { min: 66, max: 83 }
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mining
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             emacs
+    me:                      emacs

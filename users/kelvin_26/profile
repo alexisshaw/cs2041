@@ -1,0 +1,24 @@
+username:                kelvin_26
+password:                ajwansobiing
+name:                    Kelvin Singh
+DOB:                     10/12/1987
+email:                   Kelvin.Singh@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 55, max: 69 }
+    me:                      70
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript, Java }
+editor:
+    me:                      TextMate

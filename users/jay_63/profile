@@ -1,0 +1,28 @@
+username:                jay_63
+password:                oxeyetires
+name:                    Jay Duong
+DOB:                     19/01/1991
+email:                   Jay.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 44, max: 85 }
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Ruby, Python, JavaScript }
+    me:                      { Perl, C }
+editor:
+    looking_for:             notepad++
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

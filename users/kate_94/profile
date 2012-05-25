@@ -1,0 +1,28 @@
+username:                kate_94
+password:                Dawnwinces
+name:                    Kate Qiu
+DOB:                     08/09/1982
+email:                   Kate.Qiu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.67 }
+    me:                      1.72
+weight:
+    me:                      50
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Ruby, Perl, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

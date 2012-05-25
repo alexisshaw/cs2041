@@ -1,0 +1,27 @@
+username:                michelle_77
+password:                annuliblast
+name:                    Michelle Shen
+DOB:                     04/11/1984
+email:                   Michelle.Shen@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.34, max: 1.65 }
+    me:                      1.65
+weight:
+    looking_for:             { min: 57, max: 68 }
+    me:                      56
+engineering_discipline:
+    looking_for:             electrical
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows, linux, ios }
+programming_languages:
+    looking_for:             { Perl, PHP, C, Java }
+    me:                      { Python, C }
+editor:
+    me:                      vi

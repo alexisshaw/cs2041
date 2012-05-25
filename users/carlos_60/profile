@@ -1,0 +1,29 @@
+username:                carlos_60
+password:                Derektromps
+name:                    Carlos Tang
+DOB:                     09/11/1982
+email:                   Carlos.Tang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.47, max: 1.67 }
+    me:                      1.67
+weight:
+    looking_for:             { min: 49, max: 73 }
+    me:                      61
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Ruby, Perl, C++, C, JavaScript }
+    me:                      { Python, C++, C }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,27 @@
+username:                christian_74
+password:                Dexkelter
+name:                    Christian Coleman
+DOB:                     10/03/1980
+email:                   Christian.Coleman@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 59, max: 85 }
+    me:                      74
+engineering_discipline:
+    looking_for:             electrical
+    me:                      software
+operating_systems:
+    me:                      { windows, android, ios }
+programming_languages:
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,25 @@
+username:                peng_24
+password:                moundPnyx
+name:                    Peng Cheng
+DOB:                     04/10/1975
+email:                   Peng.Cheng@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.64, max: 1.88 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 45, max: 82 }
+    me:                      67
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C, Java }
+editor:
+    me:                      notepad++

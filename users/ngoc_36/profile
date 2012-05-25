@@ -1,0 +1,28 @@
+username:                ngoc_36
+password:                kulakAldiss
+name:                    Ngoc Hughes
+DOB:                     18/02/1978
+email:                   Ngoc.Hughes@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.85 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 57, max: 72 }
+    me:                      56
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Python, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

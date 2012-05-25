@@ -1,0 +1,26 @@
+username:                yao_75
+password:                ecboletoit
+name:                    Yao Fernando
+DOB:                     28/11/1991
+email:                   Yao.Fernando@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 42, max: 59 }
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

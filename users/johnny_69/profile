@@ -1,0 +1,26 @@
+username:                johnny_69
+password:                dromosRayner
+name:                    Johnny De Silva
+DOB:                     08/02/1988
+email:                   Johnny.De Silva@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.56, max: 1.97 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 62, max: 74 }
+    me:                      74
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      emacs

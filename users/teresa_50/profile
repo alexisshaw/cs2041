@@ -1,0 +1,26 @@
+username:                teresa_50
+password:                Styleswanier
+name:                    Teresa Tran
+DOB:                     13/03/1972
+email:                   Teresa.Tran@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.67 }
+    me:                      1.71
+weight:
+    looking_for:             { min: 65, max: 79 }
+    me:                      65
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, android, linux, ios }
+    me:                      { osx }
+programming_languages:
+    me:                      { Haskell, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

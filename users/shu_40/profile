@@ -1,0 +1,26 @@
+username:                shu_40
+password:                wadgepiths
+name:                    Shu Xie
+DOB:                     03/05/1977
+email:                   Shu.Xie@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 66, max: 83 }
+    me:                      80
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, android }
+editor:
+    looking_for:             vi
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

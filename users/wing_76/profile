@@ -1,0 +1,26 @@
+username:                wing_76
+password:                stelardrear
+name:                    Wing Qin
+DOB:                     19/05/1989
+email:                   Wing.Qin@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.75 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 63, max: 95 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mining
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

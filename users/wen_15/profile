@@ -1,0 +1,28 @@
+username:                wen_15
+password:                refedOcko
+name:                    Wen Yu
+DOB:                     28/08/1970
+email:                   Wen.Yu@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.47, max: 1.83 }
+    me:                      1.75
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    looking_for:             { Perl, Python, C++ }
+    me:                      { Ruby, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

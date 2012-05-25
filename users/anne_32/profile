@@ -1,0 +1,25 @@
+username:                anne_32
+password:                Trinlresty
+name:                    Anne Zhuang
+DOB:                     18/11/1972
+email:                   Anne.Zhuang@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.67
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      aerospace
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Ruby, Python, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

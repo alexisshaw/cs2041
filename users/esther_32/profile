@@ -1,0 +1,25 @@
+username:                esther_32
+password:                Rhodaagency
+name:                    Esther Poon
+DOB:                     11/02/1978
+email:                   Esther.Poon@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.87
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Python, PHP, C++, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

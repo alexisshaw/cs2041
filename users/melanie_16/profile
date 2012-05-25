@@ -1,0 +1,26 @@
+username:                melanie_16
+password:                Lrcamese
+name:                    Melanie Kim
+DOB:                     22/02/1981
+email:                   Melanie.Kim@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 68, max: 92 }
+    me:                      61
+engineering_discipline:
+    looking_for:             chemical
+    me:                      telecommunications
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    looking_for:             { Haskell, Perl, Python }
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      vi

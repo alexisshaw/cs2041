@@ -1,0 +1,25 @@
+username:                nur_65
+password:                rafflejiggle
+name:                    Nur Coleman
+DOB:                     08/07/1985
+email:                   Nur.Coleman@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.72 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 66, max: 75 }
+    me:                      60
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { android, linux, ios }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, C }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

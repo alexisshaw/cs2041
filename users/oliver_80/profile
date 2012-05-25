@@ -1,0 +1,28 @@
+username:                oliver_80
+password:                slyishduenna
+name:                    Oliver Mak
+DOB:                     23/09/1985
+email:                   Oliver.Mak@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 55, max: 64 }
+    me:                      72
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { android, ios }
+programming_languages:
+    me:                      { PHP, Java }
+editor:
+    looking_for:             NEdit
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

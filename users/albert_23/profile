@@ -1,0 +1,25 @@
+username:                albert_23
+password:                FemOrff
+name:                    Albert Gao
+DOB:                     23/07/1985
+email:                   Albert.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.70
+weight:
+    me:                      76
+engineering_discipline:
+    looking_for:             computer
+    me:                      chemical
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit

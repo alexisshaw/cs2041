@@ -1,0 +1,26 @@
+username:                hoi_93
+password:                leppyGrey
+name:                    Hoi Do
+DOB:                     24/12/1992
+email:                   Hoi.Do@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.82
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             civil
+    me:                      chemical
+operating_systems:
+    looking_for:             { windows, android, linux, osx }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      V: The Empire Strikes Back

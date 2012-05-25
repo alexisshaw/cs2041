@@ -1,0 +1,27 @@
+username:                robyn_53
+password:                splatGabbs
+name:                    Robyn Park
+DOB:                     21/04/1985
+email:                   Robyn.Park@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.83 }
+    me:                      1.85
+weight:
+    me:                      66
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Perl, Python, C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

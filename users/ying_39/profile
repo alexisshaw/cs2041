@@ -1,0 +1,27 @@
+username:                ying_39
+password:                humpenHook
+name:                    Ying Dixon
+DOB:                     24/04/1979
+email:                   Ying.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.79
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             software
+    me:                      telecommunications
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    looking_for:             { Perl, C++, C }
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

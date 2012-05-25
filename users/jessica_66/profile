@@ -1,0 +1,25 @@
+username:                jessica_66
+password:                loftedkohls
+name:                    Jessica Choi
+DOB:                     26/10/1985
+email:                   Jessica.Choi@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.93 }
+    me:                      1.86
+weight:
+    me:                      45
+engineering_discipline:
+    looking_for:             civil
+    me:                      software
+operating_systems:
+    me:                      { ios }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,28 @@
+username:                emma_10
+password:                libelfended
+name:                    Emma Ge
+DOB:                     15/06/1986
+email:                   Emma.Ge@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.76
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux }
+    me:                      { osx }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript, Java }
+    me:                      { Perl, PHP, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,27 @@
+username:                aidan_53
+password:                abyesSestos
+name:                    Aidan Hung
+DOB:                     06/12/1991
+email:                   Aidan.Hung@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.56, max: 1.73 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 51, max: 64 }
+    me:                      68
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Haskell, C }
+editor:
+    looking_for:             emacs
+    me:                      vi

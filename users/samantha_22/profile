@@ -1,0 +1,24 @@
+username:                samantha_22
+password:                Amendincest
+name:                    Samantha Nguyen
+DOB:                     22/09/1981
+email:                   Samantha.Nguyen@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.75 }
+    me:                      1.82
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { C, Java }
+editor:
+    me:                      emacs

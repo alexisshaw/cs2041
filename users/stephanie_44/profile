@@ -1,0 +1,27 @@
+username:                stephanie_44
+password:                amideshulas
+name:                    Stephanie Lee
+DOB:                     12/02/1975
+email:                   Stephanie.Lee@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 64, max: 82 }
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

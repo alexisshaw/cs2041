@@ -1,0 +1,25 @@
+username:                yi_89
+password:                BarnumDao
+name:                    Yi Phillips
+DOB:                     03/01/1981
+email:                   Yi.Phillips@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.59, max: 1.85 }
+    me:                      1.77
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    looking_for:             { Ruby, Python, C, Java }
+    me:                      { C }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

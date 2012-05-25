@@ -1,0 +1,25 @@
+username:                ken_88
+password:                spoofsAmbala
+name:                    Ken Ge
+DOB:                     24/05/1991
+email:                   Ken.Ge@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 51, max: 60 }
+    me:                      62
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      electrical
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { C, JavaScript }
+editor:
+    me:                      notepad++

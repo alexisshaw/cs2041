@@ -1,0 +1,25 @@
+username:                chi_77
+password:                broncoCalia
+name:                    Chi Fu
+DOB:                     13/01/1989
+email:                   Chi.Fu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.68
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python, PHP, C++, C, JavaScript }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

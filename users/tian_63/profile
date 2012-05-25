@@ -1,0 +1,26 @@
+username:                tian_63
+password:                moriareduce
+name:                    Tian Qiu
+DOB:                     21/06/1987
+email:                   Tian.Qiu@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 54, max: 65 }
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, Java }
+    me:                      { Haskell, C++ }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

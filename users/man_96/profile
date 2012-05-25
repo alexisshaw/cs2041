@@ -1,0 +1,28 @@
+username:                man_96
+password:                towiebones
+name:                    Man Gao
+DOB:                     12/11/1989
+email:                   Man.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.26, max: 1.55 }
+    me:                      1.61
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Python, PHP, C, JavaScript }
+    me:                      { Perl, Python, C, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

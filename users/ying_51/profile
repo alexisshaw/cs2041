@@ -1,0 +1,23 @@
+username:                ying_51
+password:                brawlsFunk
+name:                    Ying Phillips
+DOB:                     08/03/1991
+email:                   Ying.Phillips@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.72
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      civil
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Python, C }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,26 @@
+username:                wing_17
+password:                damaskalayed
+name:                    Wing Ji
+DOB:                     09/01/1988
+email:                   Wing.Ji@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.75 }
+    me:                      1.82
+weight:
+    me:                      66
+engineering_discipline:
+    looking_for:             software
+    me:                      aerospace
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { windows, android, ios, osx }
+programming_languages:
+    me:                      { Haskell, PHP, Java }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

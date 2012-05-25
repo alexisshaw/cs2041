@@ -1,0 +1,25 @@
+username:                hung_46
+password:                Safiresnathe
+name:                    Hung Khan
+DOB:                     09/01/1975
+email:                   Hung.Khan@example.com
+age:
+    looking_for:             { min: 18, max: 33 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    me:                      70
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      IV: A New Hope

@@ -1,0 +1,28 @@
+username:                matthew_75
+password:                keadashis
+name:                    Matthew Smith
+DOB:                     15/10/1971
+email:                   Matthew.Smith@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 43, max: 71 }
+    me:                      75
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      chemical
+operating_systems:
+    looking_for:             { windows, android, linux, ios, osx }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,28 @@
+username:                thai_33
+password:                Cornieindaba
+name:                    Thai Noh
+DOB:                     17/09/1989
+email:                   Thai.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.64 }
+    me:                      1.74
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

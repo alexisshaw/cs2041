@@ -1,0 +1,25 @@
+username:                young_49
+password:                inlawblinis
+name:                    Young Wen
+DOB:                     15/12/1991
+email:                   Young.Wen@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 57, max: 74 }
+    me:                      77
+engineering_discipline:
+    me:                      chemical
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    looking_for:             { Perl, Python, C, Java }
+    me:                      { Python, PHP, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi

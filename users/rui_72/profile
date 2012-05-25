@@ -1,0 +1,28 @@
+username:                rui_72
+password:                heederunkiss
+name:                    Rui Chow
+DOB:                     26/07/1988
+email:                   Rui.Chow@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 67, max: 89 }
+    me:                      83
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Python }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

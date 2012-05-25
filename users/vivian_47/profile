@@ -1,0 +1,29 @@
+username:                vivian_47
+password:                AustClevie
+name:                    Vivian Dang
+DOB:                     26/05/1987
+email:                   viv@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.68 }
+    me:                      1.77
+weight:
+    me:                      54
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android }
+    me:                      { windows, linux, ios }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Perl }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

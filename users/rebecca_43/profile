@@ -1,0 +1,27 @@
+username:                rebecca_43
+password:                GleichJoelie
+name:                    Rebecca Stewart
+DOB:                     17/07/1989
+email:                   Rebecca.Stewart@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.44, max: 1.83 }
+    me:                      1.71
+weight:
+    me:                      59
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows, android }
+programming_languages:
+    looking_for:             { Haskell, Perl, Python }
+    me:                      { Ruby, PHP, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

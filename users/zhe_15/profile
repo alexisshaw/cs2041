@@ -1,0 +1,27 @@
+username:                zhe_15
+password:                airsblooms
+name:                    Zhe Lo
+DOB:                     25/03/1989
+email:                   Zhe.Lo@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 42, max: 75 }
+    me:                      72
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

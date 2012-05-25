@@ -1,0 +1,23 @@
+username:                chi_83
+password:                PaloczIsaac
+name:                    Chi Williams
+DOB:                     11/07/1983
+email:                   Chi.Williams@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      64
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      notepad++

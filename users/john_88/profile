@@ -1,0 +1,25 @@
+username:                john_88
+password:                squallOnions
+name:                    John Hu
+DOB:                     13/08/1985
+email:                   John.Hu@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.43, max: 1.67 }
+    me:                      1.74
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      computer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, C++, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi

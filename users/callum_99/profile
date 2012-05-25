@@ -1,0 +1,22 @@
+username:                callum_99
+password:                TrinSydel
+name:                    Callum He
+DOB:                     16/06/1988
+email:                   Callum.He@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    me:                      89
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Python, C }

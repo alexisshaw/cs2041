@@ -1,0 +1,27 @@
+username:                rebecca_66
+password:                agoraeneals
+name:                    Rebecca Singh
+DOB:                     24/12/1974
+email:                   Rebecca.Singh@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.31, max: 1.61 }
+    me:                      1.67
+weight:
+    looking_for:             { min: 65, max: 85 }
+    me:                      67
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

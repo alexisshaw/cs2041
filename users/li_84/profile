@@ -1,0 +1,28 @@
+username:                li_84
+password:                picalcroche
+name:                    Li Yau
+DOB:                     07/10/1986
+email:                   Li.Yau@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 1.88 }
+    me:                      1.85
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { windows }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

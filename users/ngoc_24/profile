@@ -1,0 +1,27 @@
+username:                ngoc_24
+password:                ibidemkibeis
+name:                    Ngoc Luk
+DOB:                     08/11/1972
+email:                   Ngoc.Luk@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.59, max: 1.64 }
+    me:                      1.74
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C++ }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

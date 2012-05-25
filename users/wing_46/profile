@@ -1,0 +1,28 @@
+username:                wing_46
+password:                CaciaStormy
+name:                    Wing Tsang
+DOB:                     26/04/1976
+email:                   Wing.Tsang@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.69, max: 2.08 }
+    me:                      1.83
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { android, ios, osx }
+programming_languages:
+    me:                      { Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

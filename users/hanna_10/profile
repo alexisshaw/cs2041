@@ -1,0 +1,25 @@
+username:                hanna_10
+password:                horaSwane
+name:                    Hanna Lin
+DOB:                     01/05/1991
+email:                   Hanna.Lin@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.76
+weight:
+    me:                      64
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, ios }
+programming_languages:
+    me:                      { C, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,24 @@
+username:                wen_97
+password:                cerouspuered
+name:                    Wen Sharma
+DOB:                     26/07/1977
+email:                   Wen.Sharma@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.79 }
+    me:                      1.77
+weight:
+    me:                      50
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             vi
+    me:                      vi

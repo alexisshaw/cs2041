@@ -1,0 +1,25 @@
+username:                yiwen_87
+password:                Bakaglu
+name:                    Yiwen To
+DOB:                     26/09/1988
+email:                   Yiwen.To@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 24, max: 63 }
+    me:                      61
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Haskell, Python, C, Java }
+editor:
+    me:                      NEdit

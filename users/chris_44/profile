@@ -1,0 +1,24 @@
+username:                chris_44
+password:                haidukdryads
+name:                    Chris Li
+DOB:                     21/08/1990
+email:                   Chris.Li@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.92
+weight:
+    looking_for:             { min: 51, max: 76 }
+    me:                      68
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

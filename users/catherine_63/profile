@@ -1,0 +1,23 @@
+username:                catherine_63
+password:                UziShedd
+name:                    Catherine Smith
+DOB:                     22/07/1983
+email:                   Catherine.Smith@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.94
+weight:
+    looking_for:             { min: 66, max: 99 }
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    me:                      notepad++

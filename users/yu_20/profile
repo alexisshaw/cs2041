@@ -1,0 +1,28 @@
+username:                yu_20
+password:                tairadispel
+name:                    Yu Shao
+DOB:                     04/08/1987
+email:                   Yu.Shao@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 63, max: 84 }
+    me:                      55
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

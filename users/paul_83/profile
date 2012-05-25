@@ -1,0 +1,25 @@
+username:                paul_83
+password:                Axelalec
+name:                    Paul Islam
+DOB:                     17/07/1981
+email:                   Paul.Islam@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.52, max: 1.71 }
+    me:                      1.68
+weight:
+    me:                      75
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

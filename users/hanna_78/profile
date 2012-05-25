@@ -1,0 +1,27 @@
+username:                hanna_78
+password:                Wyatanpolis
+name:                    Hanna Gong
+DOB:                     21/05/1973
+email:                   Hanna.Gong@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.82 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 63, max: 72 }
+    me:                      57
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Perl, C++ }
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

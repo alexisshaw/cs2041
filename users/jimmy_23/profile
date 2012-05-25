@@ -1,0 +1,28 @@
+username:                jimmy_23
+password:                caylever
+name:                    Jimmy Lu
+DOB:                     26/02/1974
+email:                   Jimmy.Lu@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.52, max: 1.79 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 21, max: 49 }
+    me:                      59
+engineering_discipline:
+    looking_for:             civil
+    me:                      biomedical
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Python, C++, C, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,26 @@
+username:                isaac_87
+password:                GosneyGordan
+name:                    Isaac Gao
+DOB:                     27/05/1988
+email:                   Isaac.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 46, max: 58 }
+    me:                      66
+engineering_discipline:
+    me:                      electrical
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Perl, Python, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

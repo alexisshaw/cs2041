@@ -1,0 +1,21 @@
+username:                kevin_20
+password:                exudesloot
+name:                    Kevin Taylor
+DOB:                     23/02/1992
+email:                   Kevin.Taylor@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    me:                      78
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    me:                      vi

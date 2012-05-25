@@ -1,0 +1,29 @@
+username:                kenny_53
+password:                BasicPomak
+name:                    Kenny Ge
+DOB:                     09/02/1975
+email:                   Kenny.Ge@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 1.82 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 64, max: 95 }
+    me:                      78
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

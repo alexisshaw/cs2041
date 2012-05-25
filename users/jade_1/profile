@@ -1,0 +1,27 @@
+username:                jade_1
+password:                pogiesOthe
+name:                    Jade Hong
+DOB:                     28/02/1983
+email:                   Jade.Hong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.75 }
+    me:                      1.81
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             civil
+    me:                      biomedical
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             TextMate
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

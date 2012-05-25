@@ -1,0 +1,24 @@
+username:                edward_20
+password:                frumpveduta
+name:                    Edward Mao
+DOB:                     01/09/1982
+email:                   Edward.Mao@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    me:                      emacs

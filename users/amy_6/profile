@@ -1,0 +1,27 @@
+username:                amy_6
+password:                linumTaima
+name:                    Amy Low
+DOB:                     08/12/1973
+email:                   Amy.Low@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.71
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { C++, C }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

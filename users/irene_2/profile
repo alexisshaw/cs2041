@@ -1,0 +1,27 @@
+username:                irene_2
+password:                meanshivs
+name:                    Irene Han
+DOB:                     17/06/1983
+email:                   Irene.Han@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.5, max: 1.74 }
+    me:                      1.83
+weight:
+    looking_for:             { min: 72, max: 102 }
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

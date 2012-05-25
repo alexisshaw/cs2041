@@ -1,0 +1,22 @@
+username:                jay_22
+password:                attapsuaver
+name:                    Jay Fung
+DOB:                     08/03/1988
+email:                   Jay.Fung@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    me:                      84
+engineering_discipline:
+    looking_for:             computer
+    me:                      software
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows, android, osx }
+editor:
+    me:                      notepad++

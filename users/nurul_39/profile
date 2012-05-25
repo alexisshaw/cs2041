@@ -1,0 +1,25 @@
+username:                nurul_39
+password:                runnetenlink
+name:                    Nurul Hughes
+DOB:                     01/04/1981
+email:                   Nurul.Hughes@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.65 }
+    me:                      1.71
+weight:
+    me:                      57
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows }
+programming_languages:
+    me:                      { Ruby, Perl, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi

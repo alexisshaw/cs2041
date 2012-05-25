@@ -1,0 +1,24 @@
+username:                esther_29
+password:                swireschows
+name:                    Esther Kim
+DOB:                     17/03/1975
+email:                   Esther.Kim@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.66
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Python, C++ }
+    me:                      { Haskell, Python, C }
+editor:
+    me:                      emacs

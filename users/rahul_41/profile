@@ -1,0 +1,26 @@
+username:                rahul_41
+password:                TucanaAtkins
+name:                    Rahul McGrath
+DOB:                     10/05/1974
+email:                   Rahul.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

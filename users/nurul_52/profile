@@ -1,0 +1,25 @@
+username:                nurul_52
+password:                bookerProst
+name:                    Nurul Ma
+DOB:                     08/03/1990
+email:                   Nurul.Ma@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.86
+weight:
+    me:                      64
+engineering_discipline:
+    me:                      mining
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Haskell, Perl, Python, C, Java }
+    me:                      { JavaScript }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

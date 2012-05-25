@@ -1,0 +1,25 @@
+username:                ngai_54
+password:                acredhallot
+name:                    Ngai White
+DOB:                     23/04/1991
+email:                   Ngai.White@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Python }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

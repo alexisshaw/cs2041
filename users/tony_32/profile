@@ -1,0 +1,25 @@
+username:                tony_32
+password:                JulineEnsoll
+name:                    Tony Cai
+DOB:                     06/08/1970
+email:                   Tony.Cai@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    me:                      66
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, JavaScript, Java }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

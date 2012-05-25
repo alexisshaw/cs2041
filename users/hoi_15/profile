@@ -1,0 +1,22 @@
+username:                hoi_15
+password:                gallonRuffo
+name:                    Hoi Tao
+DOB:                     28/06/1988
+email:                   Hoi.Tao@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.58
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             notepad++
+    me:                      emacs

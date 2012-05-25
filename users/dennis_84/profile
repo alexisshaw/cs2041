@@ -1,0 +1,28 @@
+username:                dennis_84
+password:                EditheMeno
+name:                    Dennis Tran
+DOB:                     22/12/1982
+email:                   Dennis.Tran@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.93
+weight:
+    looking_for:             { min: 54, max: 68 }
+    me:                      69
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,24 @@
+username:                zi_91
+password:                EssamMolly
+name:                    Zi Lai
+DOB:                     23/09/1977
+email:                   Zi.Lai@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.88
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { android, linux, ios, osx }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

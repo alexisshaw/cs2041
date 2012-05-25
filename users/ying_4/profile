@@ -1,0 +1,24 @@
+username:                ying_4
+password:                Latindesert
+name:                    Ying Min
+DOB:                     02/06/1973
+email:                   Ying.Min@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.44, max: 1.89 }
+    me:                      1.80
+weight:
+    me:                      50
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { C++, Java }
+editor:
+    looking_for:             vi
+    me:                      emacs

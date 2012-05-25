@@ -1,0 +1,27 @@
+username:                marcus_73
+password:                sodicWiley
+name:                    Marcus Pham
+DOB:                     23/10/1976
+email:                   Marcus.Pham@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 58, max: 81 }
+    me:                      75
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Perl, Python, C++, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

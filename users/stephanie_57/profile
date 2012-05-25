@@ -1,0 +1,27 @@
+username:                stephanie_57
+password:                AlmondGolan
+name:                    Stephanie Liu
+DOB:                     16/06/1982
+email:                   StephanieL@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.47, max: 1.65 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 48, max: 70 }
+    me:                      54
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, Perl, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

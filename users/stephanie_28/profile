@@ -1,0 +1,26 @@
+username:                stephanie_28
+password:                tensorfusts
+name:                    Stephanie Kapoor
+DOB:                     18/05/1991
+email:                   Stephanie.Kapoor@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.77 }
+    me:                      1.71
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { ios }
+programming_languages:
+    looking_for:             { Perl, Python, PHP, C++, C }
+    me:                      { C++, C, JavaScript }
+editor:
+    me:                      notepad++

@@ -1,0 +1,27 @@
+username:                jade_94
+password:                jagirsAmery
+name:                    Jade Xie
+DOB:                     11/10/1990
+email:                   Jade.Xie@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.73
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Python }
+editor:
+    looking_for:             vi
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

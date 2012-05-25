@@ -1,0 +1,26 @@
+username:                yong_85
+password:                subfixtone
+name:                    Yong De Silva
+DOB:                     11/11/1973
+email:                   Yong.De Silva@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.63
+weight:
+    looking_for:             { min: 56, max: 85 }
+    me:                      67
+engineering_discipline:
+    me:                      telecommunications
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

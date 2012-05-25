@@ -1,0 +1,26 @@
+username:                andrew_37
+password:                waulsowlish
+name:                    Andrew Yi
+DOB:                     23/10/1980
+email:                   Andrew.Yi@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 44, max: 62 }
+    me:                      67
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, PHP, C++, C, JavaScript }
+editor:
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,28 @@
+username:                siddharth_56
+password:                Rodinspree
+name:                    Siddharth Chow
+DOB:                     26/05/1974
+email:                   Siddharth.Chow@example.com
+age:
+    looking_for:             { min: 18, max: 33 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 63, max: 90 }
+    me:                      74
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C++ }
+    me:                      { Ruby, Perl, Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

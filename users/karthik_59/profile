@@ -1,0 +1,27 @@
+username:                karthik_59
+password:                nurdleBorup
+name:                    Karthik Kang
+DOB:                     06/12/1974
+email:                   Karthik.Kang@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.65, max: 1.95 }
+    me:                      1.87
+weight:
+    looking_for:             { min: 44, max: 73 }
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      aerospace
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, C++, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

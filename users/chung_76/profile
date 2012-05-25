@@ -1,0 +1,28 @@
+username:                chung_76
+password:                fortyloyal
+name:                    Chung Hung
+DOB:                     26/12/1984
+email:                   Chung.Hung@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.41, max: 1.81 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 54, max: 76 }
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      chemical
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Haskell, Python }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

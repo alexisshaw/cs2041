@@ -1,0 +1,27 @@
+username:                nur_63
+password:                cutesMarco
+name:                    Nur Yu
+DOB:                     07/12/1986
+email:                   Nur.Yu@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.46, max: 1.73 }
+    me:                      1.66
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

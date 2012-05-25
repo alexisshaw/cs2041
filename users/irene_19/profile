@@ -1,0 +1,28 @@
+username:                irene_19
+password:                toluolMcFall
+name:                    Irene Williams
+DOB:                     25/06/1974
+email:                   Irene.Williams@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 2.09 }
+    me:                      1.81
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Haskell }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

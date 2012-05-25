@@ -1,0 +1,25 @@
+username:                hoi_48
+password:                Snowjests
+name:                    Hoi Xie
+DOB:                     28/03/1981
+email:                   Hoi.Xie@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.27, max: 1.65 }
+    me:                      1.63
+weight:
+    looking_for:             { min: 67, max: 74 }
+    me:                      58
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

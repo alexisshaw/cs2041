@@ -1,0 +1,25 @@
+username:                yu_16
+password:                Tessverso
+name:                    Yu Qin
+DOB:                     01/06/1984
+email:                   Yu.Qin@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.63, max: 1.72 }
+    me:                      1.82
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Python, JavaScript }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

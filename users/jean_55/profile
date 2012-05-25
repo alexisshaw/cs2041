@@ -1,0 +1,27 @@
+username:                jean_55
+password:                sinesmongos
+name:                    Jean Hossain
+DOB:                     15/12/1987
+email:                   Jean.Hossain@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 50, max: 69 }
+    me:                      73
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Haskell, Python, C++ }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

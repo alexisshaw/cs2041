@@ -1,0 +1,26 @@
+username:                oscar_1
+password:                CominsPattin
+name:                    Oscar Zhang
+DOB:                     18/07/1977
+email:                   Oscar.Zhang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    me:                      71
+engineering_discipline:
+    looking_for:             electrical
+    me:                      computer
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { PHP, C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

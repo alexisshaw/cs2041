@@ -1,0 +1,24 @@
+username:                elizabeth_80
+password:                heckleshewn
+name:                    Elizabeth Vu
+DOB:                     28/08/1980
+email:                   Elizabeth.Vu@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    looking_for:             { min: 73, max: 87 }
+    me:                      67
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      biomedical
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, Python, PHP, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

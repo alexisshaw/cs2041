@@ -1,0 +1,27 @@
+username:                sarah_23
+password:                praysSaba
+name:                    Sarah Poon
+DOB:                     25/11/1981
+email:                   Sarah.Poon@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.69 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 66, max: 76 }
+    me:                      62
+engineering_discipline:
+    looking_for:             chemical
+    me:                      telecommunications
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Python, C++, C }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             TextMate
+    me:                      emacs

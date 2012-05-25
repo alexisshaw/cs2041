@@ -1,0 +1,26 @@
+username:                harry_19
+password:                pluralErik
+name:                    Harry Dong
+DOB:                     22/03/1986
+email:                   Harry.Dong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 29, max: 64 }
+    me:                      62
+engineering_discipline:
+    looking_for:             computer
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, android, linux }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Python }
+editor:
+    me:                      emacs

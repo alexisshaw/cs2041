@@ -1,0 +1,28 @@
+username:                hao_98
+password:                kirkedrent
+name:                    Hao Kang
+DOB:                     26/04/1973
+email:                   Hao.Kang@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    looking_for:             { min: 51, max: 77 }
+    me:                      66
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Haskell, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    looking_for:             II: Attack of the Clones
+    me:                      V: The Empire Strikes Back

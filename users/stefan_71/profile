@@ -1,0 +1,29 @@
+username:                stefan_71
+password:                lagoonagars
+name:                    Stefan Han
+DOB:                     20/09/1984
+email:                   Stefan.Han@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 49, max: 85 }
+    me:                      76
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { ios, osx }
+programming_languages:
+    looking_for:             { PHP, JavaScript }
+    me:                      { Perl, PHP, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

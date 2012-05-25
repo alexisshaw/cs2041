@@ -1,0 +1,28 @@
+username:                chloe_37
+password:                Vannadrowns
+name:                    Chloe Tam
+DOB:                     21/08/1973
+email:                   Chloe.Tam@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.5, max: 1.77 }
+    me:                      1.67
+weight:
+    me:                      58
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl, C++, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

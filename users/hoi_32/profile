@@ -1,0 +1,29 @@
+username:                hoi_32
+password:                ThraceAnanna
+name:                    Hoi Wei
+DOB:                     16/12/1973
+email:                   Hoi.Wei@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.79 }
+    me:                      1.69
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             computer
+    me:                      mining
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, ios, osx }
+programming_languages:
+    looking_for:             { Perl, Python, Java }
+    me:                      { Haskell, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,29 @@
+username:                jessica_91
+password:                calmyfipple
+name:                    Jessica Deng
+DOB:                     02/04/1982
+email:                   Jessica.Deng@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.76, max: 1.94 }
+    me:                      1.89
+weight:
+    looking_for:             { min: 55, max: 64 }
+    me:                      50
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    looking_for:             { Perl, Python, C, Java }
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

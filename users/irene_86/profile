@@ -1,0 +1,26 @@
+username:                irene_86
+password:                japesBannon
+name:                    Irene Huynh
+DOB:                     24/08/1977
+email:                   Irene.Huynh@example.com
+age:
+    looking_for:             { min: 18, max: 31 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.77 }
+    me:                      1.78
+weight:
+    me:                      60
+engineering_discipline:
+    me:                      aerospace
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

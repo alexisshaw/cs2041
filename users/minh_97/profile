@@ -1,0 +1,23 @@
+username:                minh_97
+password:                haeresEvert
+name:                    Minh Sun
+DOB:                     10/12/1975
+email:                   Minh.Sun@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { C }
+    me:                      { Perl, C }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit

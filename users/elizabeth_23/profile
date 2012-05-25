@@ -1,0 +1,25 @@
+username:                elizabeth_23
+password:                moneyequity
+name:                    Elizabeth Kelly
+DOB:                     18/05/1971
+email:                   Elizabeth.Kelly@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.73, max: 1.91 }
+    me:                      1.93
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+programming_languages:
+    looking_for:             { C++ }
+    me:                      { Perl, Python, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

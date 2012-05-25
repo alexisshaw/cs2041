@@ -1,0 +1,24 @@
+username:                natalie_10
+password:                binesMun
+name:                    Natalie Chiu
+DOB:                     08/03/1975
+email:                   Natalie.Chiu@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.84
+weight:
+    me:                      60
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

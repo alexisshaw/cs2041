@@ -1,0 +1,24 @@
+username:                nelson_68
+password:                DulseaElsey
+name:                    Nelson Tam
+DOB:                     27/12/1977
+email:                   Nelson.Tam@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 60, max: 81 }
+    me:                      71
+engineering_discipline:
+    me:                      mining
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Python, C, JavaScript, Java }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

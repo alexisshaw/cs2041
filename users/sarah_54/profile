@@ -1,0 +1,26 @@
+username:                sarah_54
+password:                emceesSudnor
+name:                    Sarah So
+DOB:                     26/04/1976
+email:                   Sarah.So@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.58, max: 2.02 }
+    me:                      1.93
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { PHP, C, JavaScript }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit

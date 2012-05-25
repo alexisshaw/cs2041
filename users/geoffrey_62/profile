@@ -1,0 +1,28 @@
+username:                geoffrey_62
+password:                CarnesNaknek
+name:                    Geoffrey Chin
+DOB:                     25/01/1992
+email:                   Geoffrey.Chin@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 53, max: 84 }
+    me:                      71
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, linux, ios }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript }
+    me:                      { Perl, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

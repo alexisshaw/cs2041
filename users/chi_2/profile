@@ -1,0 +1,28 @@
+username:                chi_2
+password:                Castlerumbo
+name:                    Chi Cheng
+DOB:                     06/03/1979
+email:                   Chi.Cheng@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    me:                      81
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Perl, C++, C, JavaScript }
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      notepad++
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      III: Revenge of the Sith

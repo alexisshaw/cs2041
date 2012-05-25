@@ -1,0 +1,25 @@
+username:                robyn_1
+password:                beauttinge
+name:                    Robyn Lim
+DOB:                     09/07/1988
+email:                   Robyn.Lim@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.69, max: 2.1 }
+    me:                      1.91
+weight:
+    me:                      55
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Perl, PHP, C++ }
+editor:
+    me:                      TextMate

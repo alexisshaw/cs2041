@@ -1,0 +1,26 @@
+username:                thanh_17
+password:                kuzupitas
+name:                    Thanh Fernando
+DOB:                     27/11/1980
+email:                   Thanh.Fernando@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.68
+weight:
+    looking_for:             { min: 44, max: 73 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, C, Java }
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      IV: A New Hope

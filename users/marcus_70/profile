@@ -1,0 +1,24 @@
+username:                marcus_70
+password:                winoPound
+name:                    Marcus Kaur
+DOB:                     21/09/1984
+email:                   Marcus.Kaur@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             civil
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl, Python, JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit

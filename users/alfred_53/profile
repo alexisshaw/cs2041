@@ -1,0 +1,27 @@
+username:                alfred_53
+password:                jerksaal
+name:                    Alfred Lam
+DOB:                     13/04/1975
+email:                   Alfred.Lam@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 43, max: 62 }
+    me:                      67
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Java }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

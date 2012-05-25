@@ -1,0 +1,25 @@
+username:                vivian_78
+password:                pawkheth
+name:                    Vivian Wong
+DOB:                     17/02/1976
+email:                   Vivian.Wong@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.82 }
+    me:                      1.76
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             computer
+    me:                      biomedical
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    looking_for:             { Haskell, Perl, C++ }
+    me:                      { C }
+editor:
+    me:                      notepad++

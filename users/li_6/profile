@@ -1,0 +1,25 @@
+username:                li_6
+password:                Berkinpargos
+name:                    Li Kim
+DOB:                     10/06/1991
+email:                   Li.Kim@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.48, max: 1.63 }
+    me:                      1.74
+weight:
+    me:                      48
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

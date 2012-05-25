@@ -1,0 +1,24 @@
+username:                stanley_61
+password:                yodhTotz
+name:                    Stanley Duan
+DOB:                     17/05/1983
+email:                   Stanley.Duan@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    me:                      68
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, ios }
+programming_languages:
+    looking_for:             { Haskell, Perl, C++, C, JavaScript }
+    me:                      { Perl, Python, Java }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

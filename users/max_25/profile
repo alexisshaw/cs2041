@@ -1,0 +1,26 @@
+username:                max_25
+password:                floozydoe
+name:                    Max Ly
+DOB:                     16/01/1982
+email:                   Max.Ly@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 64, max: 122 }
+    me:                      74
+engineering_discipline:
+    looking_for:             computer
+    me:                      computer
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Ruby, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,26 @@
+username:                edward_97
+password:                ThornyErlond
+name:                    Edward Shao
+DOB:                     05/10/1978
+email:                   Edward.Shao@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    me:                      63
+engineering_discipline:
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { android, osx }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Haskell, Perl, C }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

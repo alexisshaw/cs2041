@@ -1,0 +1,26 @@
+username:                mohd_92
+password:                dorselshah
+name:                    Mohd Poon
+DOB:                     20/04/1987
+email:                   Mohd.Poon@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 38, max: 73 }
+    me:                      81
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { Python, C++, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

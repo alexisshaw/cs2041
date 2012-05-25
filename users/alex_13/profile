@@ -1,0 +1,24 @@
+username:                alex_13
+password:                topfulplotz
+name:                    Alex Duong
+DOB:                     12/10/1990
+email:                   Alex.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 39, max: 70 }
+    me:                      65
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      aerospace
+operating_systems:
+    me:                      { android }
+programming_languages:
+    me:                      { Python, C, Java }
+editor:
+    me:                      notepad++

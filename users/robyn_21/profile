@@ -1,0 +1,25 @@
+username:                robyn_21
+password:                Garatecadets
+name:                    Robyn Mao
+DOB:                     22/06/1985
+email:                   Robyn.Mao@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.9 }
+    me:                      1.73
+weight:
+    me:                      54
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      software
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    looking_for:             { Ruby }
+    me:                      { Perl, C++, Java }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

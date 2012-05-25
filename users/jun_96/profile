@@ -1,0 +1,23 @@
+username:                jun_96
+password:                Darthloke
+name:                    Jun Phan
+DOB:                     27/02/1971
+email:                   Jun.Phan@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    me:                      66
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      software
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Haskell, Python, C }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

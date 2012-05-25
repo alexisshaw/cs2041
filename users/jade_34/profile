@@ -1,0 +1,26 @@
+username:                jade_34
+password:                pooingmetics
+name:                    Jade Luo
+DOB:                     18/04/1971
+email:                   Jade.Luo@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.38, max: 1.84 }
+    me:                      1.78
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl }
+    me:                      { Perl, PHP }
+editor:
+    looking_for:             vi
+    me:                      emacs

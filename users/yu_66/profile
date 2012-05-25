@@ -1,0 +1,26 @@
+username:                yu_66
+password:                zooksmillet
+name:                    Yu Chow
+DOB:                     12/06/1980
+email:                   Yu.Chow@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.79 }
+    me:                      1.69
+weight:
+    me:                      56
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, linux }
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Perl, Python, JavaScript }
+    me:                      { Python, PHP, C, JavaScript }
+editor:
+    me:                      vi

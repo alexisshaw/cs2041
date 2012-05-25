@@ -1,0 +1,27 @@
+username:                thomas_65
+password:                Timkenface
+name:                    Thomas Chan
+DOB:                     13/03/1975
+email:                   Thomas.Chan@example.com
+age:
+    looking_for:             { min: 18, max: 35 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 46, max: 63 }
+    me:                      64
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

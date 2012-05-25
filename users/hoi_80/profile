@@ -1,0 +1,27 @@
+username:                hoi_80
+password:                souredars
+name:                    Hoi Kumar
+DOB:                     04/11/1977
+email:                   Hoi.Kumar@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 58, max: 87 }
+    me:                      64
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Haskell, C++, C, JavaScript }
+    me:                      { Haskell, Perl, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

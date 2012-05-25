@@ -1,0 +1,26 @@
+username:                natalie_15
+password:                shtuptitty
+name:                    Natalie Shi
+DOB:                     22/06/1977
+email:                   Natalie.Shi@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.59, max: 1.84 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 40, max: 84 }
+    me:                      56
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, Python, JavaScript }
+editor:
+    me:                      vi

@@ -1,0 +1,25 @@
+username:                adam_73
+password:                Pruittfennel
+name:                    Adam Ahmed
+DOB:                     09/11/1982
+email:                   Adam.Ahmed@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.62, max: 1.74 }
+    me:                      1.75
+weight:
+    me:                      73
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Python, C++ }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

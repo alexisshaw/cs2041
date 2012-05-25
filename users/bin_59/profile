@@ -1,0 +1,26 @@
+username:                bin_59
+password:                LauroAncel
+name:                    Bin Liao
+DOB:                     27/06/1984
+email:                   Bin.Liao@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    me:                      76
+engineering_discipline:
+    me:                      electrical
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

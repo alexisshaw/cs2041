@@ -1,0 +1,27 @@
+username:                vivian_44
+password:                jupatianlage
+name:                    Vivian Zhu
+DOB:                     25/12/1992
+email:                   Vivian.Zhu@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.83 }
+    me:                      1.75
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Perl, PHP }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,28 @@
+username:                darren_80
+password:                EasterTobias
+name:                    Darren Wright
+DOB:                     19/07/1974
+email:                   Darren.Wright@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.86, max: 1.94 }
+    me:                      2.00
+weight:
+    me:                      81
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mining
+operating_systems:
+    looking_for:             { windows }
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

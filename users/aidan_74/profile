@@ -1,0 +1,28 @@
+username:                aidan_74
+password:                snarlsBolte
+name:                    Aidan Li
+DOB:                     20/05/1970
+email:                   Aidan.Li@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    looking_for:             { min: 38, max: 64 }
+    me:                      65
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      civil
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

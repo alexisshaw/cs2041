@@ -1,0 +1,28 @@
+username:                muhammad_99
+password:                enosisHekker
+name:                    Muhammad Noh
+DOB:                     02/12/1981
+email:                   Muhammad.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 54, max: 87 }
+    me:                      69
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      electrical
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, JavaScript }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

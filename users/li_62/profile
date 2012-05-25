@@ -1,0 +1,28 @@
+username:                li_62
+password:                askeddisple
+name:                    Li Min
+DOB:                     27/12/1989
+email:                   Li.Min@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    looking_for:             { min: 56, max: 72 }
+    me:                      75
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    looking_for:             { C, Java }
+    me:                      { Python, C }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      V: The Empire Strikes Back

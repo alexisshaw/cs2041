@@ -1,0 +1,28 @@
+username:                emma_69
+password:                sailedjangly
+name:                    Emma Islam
+DOB:                     20/11/1973
+email:                   Emma.Islam@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.43, max: 1.7 }
+    me:                      1.80
+weight:
+    me:                      64
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    looking_for:             { windows, android, linux, ios, osx }
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Python, C }
+    me:                      { C, Java }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

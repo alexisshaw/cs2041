@@ -1,0 +1,27 @@
+username:                teresa_20
+password:                ridgedEnos
+name:                    Teresa Kong
+DOB:                     08/01/1978
+email:                   Teresa.Kong@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 59, max: 88 }
+    me:                      59
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { osx }
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

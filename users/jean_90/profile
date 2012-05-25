@@ -1,0 +1,28 @@
+username:                jean_90
+password:                kickedtruing
+name:                    Jean Luk
+DOB:                     28/12/1978
+email:                   Jean.Luk@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 41, max: 52 }
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios, osx }
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             notepad++
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

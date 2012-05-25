@@ -1,0 +1,23 @@
+username:                phillip_89
+password:                Peersdilli
+name:                    Phillip Yan
+DOB:                     28/12/1983
+email:                   Phillip.Yan@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 50, max: 72 }
+    me:                      76
+engineering_discipline:
+    looking_for:             computer
+    me:                      biomedical
+operating_systems:
+    me:                      { android, osx }
+editor:
+    looking_for:             vi
+    me:                      vi

@@ -1,0 +1,23 @@
+username:                mohd_85
+password:                Libusepate
+name:                    Mohd You
+DOB:                     14/02/1979
+email:                   Mohd.You@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             emacs
+    me:                      jEdit

@@ -1,0 +1,26 @@
+username:                benjamin_4
+password:                fraemas
+name:                    Benjamin Russell
+DOB:                     10/06/1979
+email:                   Benjamin.Russell@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 53, max: 74 }
+    me:                      64
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { android }
+    me:                      { ios }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

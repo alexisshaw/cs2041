@@ -1,0 +1,25 @@
+username:                ahmed_31
+password:                gebelsarar
+name:                    Ahmed Yau
+DOB:                     25/05/1992
+email:                   Ahmed.Yau@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 53, max: 75 }
+    me:                      64
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, Python, C++, C }
+    me:                      { Perl, C++, C }
+editor:
+    looking_for:             vi
+    me:                      notepad++

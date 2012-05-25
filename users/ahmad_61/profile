@@ -1,0 +1,24 @@
+username:                ahmad_61
+password:                trassBer
+name:                    Ahmad Min
+DOB:                     04/03/1980
+email:                   Ahmad.Min@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 55, max: 73 }
+    me:                      66
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, linux, ios }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

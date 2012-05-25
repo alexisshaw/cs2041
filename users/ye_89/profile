@@ -1,0 +1,26 @@
+username:                ye_89
+password:                exceedpigpen
+name:                    Ye McGrath
+DOB:                     17/08/1977
+email:                   Ye.McGrath@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mechanical
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

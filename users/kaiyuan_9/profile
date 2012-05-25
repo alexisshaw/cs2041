@@ -1,0 +1,23 @@
+username:                kaiyuan_9
+password:                Uthammawn
+name:                    Kaiyuan Min
+DOB:                     04/06/1985
+email:                   Kaiyuan.Min@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.65
+weight:
+    me:                      72
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      telecommunications
+programming_languages:
+    looking_for:             { Perl, PHP, C++ }
+    me:                      { Python, C++, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs

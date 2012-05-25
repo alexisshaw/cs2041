@@ -1,0 +1,26 @@
+username:                irene_37
+password:                tuggedsepoys
+name:                    Irene Chu
+DOB:                     02/02/1977
+email:                   Irene.Chu@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.81, max: 1.91 }
+    me:                      1.96
+weight:
+    looking_for:             { min: 49, max: 76 }
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

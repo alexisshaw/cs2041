@@ -1,0 +1,30 @@
+username:                melanie_23
+password:                bulledsall
+name:                    Melanie McGrath
+DOB:                     06/12/1973
+email:                   mel@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.61, max: 1.69 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 51, max: 67 }
+    me:                      56
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios, osx }
+    me:                      { windows, android }
+programming_languages:
+    looking_for:             { Python, C++, C }
+    me:                      { Perl, PHP, C++, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

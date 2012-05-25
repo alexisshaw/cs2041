@@ -1,0 +1,27 @@
+username:                kun_96
+password:                Maxinns
+name:                    Kun Ward
+DOB:                     24/06/1985
+email:                   Kun.Ward@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    looking_for:             { min: 50, max: 83 }
+    me:                      80
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      mining
+operating_systems:
+    me:                      { windows, android, ios, osx }
+programming_languages:
+    me:                      { Perl, C, Java }
+editor:
+    looking_for:             jEdit
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

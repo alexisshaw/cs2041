@@ -1,0 +1,26 @@
+username:                harry_50
+password:                dautedkulak
+name:                    Harry Russell
+DOB:                     15/10/1992
+email:                   Harry.Russell@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 55, max: 88 }
+    me:                      69
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             emacs
+    me:                      emacs

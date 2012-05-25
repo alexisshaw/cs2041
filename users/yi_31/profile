@@ -1,0 +1,25 @@
+username:                yi_31
+password:                mityduett
+name:                    Yi Lu
+DOB:                     26/09/1983
+email:                   Yi.Lu@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      mechanical
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

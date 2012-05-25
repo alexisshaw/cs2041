@@ -1,0 +1,28 @@
+username:                emily_25
+password:                sateryper
+name:                    Emily Nam
+DOB:                     09/11/1976
+email:                   Emily.Nam@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.62 }
+    me:                      1.69
+weight:
+    looking_for:             { min: 58, max: 71 }
+    me:                      58
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

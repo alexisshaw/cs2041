@@ -1,0 +1,26 @@
+username:                kai_49
+password:                evokephiz
+name:                    Kai Kang
+DOB:                     06/06/1977
+email:                   Kai.Kang@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.73
+weight:
+    me:                      60
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, PHP, C++, C }
+editor:
+    looking_for:             TextMate
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

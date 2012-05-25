@@ -1,0 +1,27 @@
+username:                jessica_7
+password:                EveFrans
+name:                    Jessica Feng
+DOB:                     25/06/1970
+email:                   Jessica.Feng@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 67, max: 80 }
+    me:                      59
+engineering_discipline:
+    looking_for:             electrical
+    me:                      software
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Perl, PHP, JavaScript }
+    me:                      { Perl, C, JavaScript }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

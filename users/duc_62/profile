@@ -1,0 +1,24 @@
+username:                duc_62
+password:                cajunTrevor
+name:                    Duc Gao
+DOB:                     11/11/1970
+email:                   Duc.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.61, max: 1.9 }
+    me:                      1.81
+weight:
+    looking_for:             { min: 64, max: 82 }
+    me:                      79
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, Perl, Python }

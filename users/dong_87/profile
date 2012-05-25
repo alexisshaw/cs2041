@@ -1,0 +1,28 @@
+username:                dong_87
+password:                Glantikitten
+name:                    Dong Ong
+DOB:                     12/08/1970
+email:                   Dong.Ong@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 46, max: 73 }
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, osx }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

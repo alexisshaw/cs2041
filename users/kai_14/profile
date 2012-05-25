@@ -1,0 +1,24 @@
+username:                kai_14
+password:                statedpunchy
+name:                    Kai Dixon
+DOB:                     03/01/1979
+email:                   Kai.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 55, max: 81 }
+    me:                      78
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { windows, ios }
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

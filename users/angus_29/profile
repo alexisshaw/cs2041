@@ -1,0 +1,27 @@
+username:                angus_29
+password:                linksawa
+name:                    Angus Kwok
+DOB:                     02/11/1972
+email:                   Angus.Kwok@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    looking_for:             { min: 50, max: 64 }
+    me:                      64
+engineering_discipline:
+    me:                      mining
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    looking_for:             { Python, C, Java }
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

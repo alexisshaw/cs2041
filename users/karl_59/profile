@@ -1,0 +1,28 @@
+username:                karl_59
+password:                chokraBarden
+name:                    Karl Hong
+DOB:                     01/10/1977
+email:                   Karl.Hong@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 73, max: 91 }
+    me:                      86
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, linux }
+programming_languages:
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             notepad++
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      VI: Return of the Jedi

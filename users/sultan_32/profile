@@ -1,0 +1,25 @@
+username:                sultan_32
+password:                streaksifaka
+name:                    Sultan Kim
+DOB:                     07/08/1977
+email:                   Sultan.Kim@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 63, max: 85 }
+    me:                      80
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      electrical
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Python }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

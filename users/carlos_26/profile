@@ -1,0 +1,25 @@
+username:                carlos_26
+password:                tonnagevejar
+name:                    Carlos Ho
+DOB:                     02/05/1984
+email:                   Carlos.Ho@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.72, max: 1.81 }
+    me:                      1.89
+weight:
+    looking_for:             { min: 61, max: 82 }
+    me:                      78
+engineering_discipline:
+    me:                      non_engineer
+programming_languages:
+    me:                      { Python, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

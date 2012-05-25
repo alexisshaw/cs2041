@@ -1,0 +1,27 @@
+username:                david_80
+password:                DuthieDardic
+name:                    David Johnson
+DOB:                     01/01/1982
+email:                   David.Johnson@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.62, max: 1.77 }
+    me:                      1.78
+weight:
+    looking_for:             { min: 57, max: 75 }
+    me:                      75
+engineering_discipline:
+    looking_for:             computer
+    me:                      aerospace
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C++ }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

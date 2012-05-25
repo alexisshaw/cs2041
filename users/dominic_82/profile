@@ -1,0 +1,30 @@
+username:                dominic_82
+password:                anydunner
+name:                    Dominic Duong
+DOB:                     21/12/1987
+email:                   Dominic.Duong@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.74, max: 1.88 }
+    me:                      1.89
+weight:
+    looking_for:             { min: 43, max: 65 }
+    me:                      69
+engineering_discipline:
+    looking_for:             electrical
+    me:                      aerospace
+operating_systems:
+    looking_for:             { android, ios }
+    me:                      { android, linux }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Haskell, Python, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,27 @@
+username:                ngoc_77
+password:                musterJordon
+name:                    Ngoc Ho
+DOB:                     10/06/1970
+email:                   Ngoc.Ho@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 58, max: 75 }
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    looking_for:             { Python, C, JavaScript }
+    me:                      { C++ }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

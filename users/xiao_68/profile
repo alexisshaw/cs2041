@@ -1,0 +1,29 @@
+username:                xiao_68
+password:                ipponkabar
+name:                    Xiao Yau
+DOB:                     25/07/1983
+email:                   Xiao.Yau@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 39, max: 68 }
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { android, osx }
+programming_languages:
+    looking_for:             { Perl, PHP, JavaScript }
+    me:                      { Perl }
+editor:
+    looking_for:             vi
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

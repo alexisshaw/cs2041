@@ -1,0 +1,23 @@
+username:                jialong_74
+password:                Hadeanwig
+name:                    Jialong Shen
+DOB:                     16/10/1987
+email:                   Jialong.Shen@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    looking_for:             { min: 54, max: 76 }
+    me:                      73
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      petroleum
+operating_systems:
+    me:                      { android, ios, osx }
+editor:
+    looking_for:             vi
+    me:                      vi

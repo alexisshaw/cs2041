@@ -1,0 +1,29 @@
+username:                michelle_85
+password:                crooklutzes
+name:                    Michelle Noh
+DOB:                     26/07/1988
+email:                   Michelle.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.8 }
+    me:                      1.71
+weight:
+    looking_for:             { min: 61, max: 71 }
+    me:                      57
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Python, C }
+    me:                      { Perl, Python, PHP, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

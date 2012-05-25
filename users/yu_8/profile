@@ -1,0 +1,30 @@
+username:                yu_8
+password:                earingCaaba
+name:                    Yu Ding
+DOB:                     14/07/1975
+email:                   Yu.Ding@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.6 }
+    me:                      1.72
+weight:
+    looking_for:             { min: 68, max: 80 }
+    me:                      61
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      VI: Return of the Jedi

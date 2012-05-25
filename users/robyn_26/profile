@@ -1,0 +1,21 @@
+username:                robyn_26
+password:                Crankodsobo
+name:                    Robyn Jin
+DOB:                     10/06/1991
+email:                   Robyn.Jin@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.43, max: 1.63 }
+    me:                      1.70
+weight:
+    looking_for:             { min: 57, max: 81 }
+    me:                      60
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+programming_languages:
+    me:                      { Ruby, Perl, JavaScript, Java }

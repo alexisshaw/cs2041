@@ -1,0 +1,23 @@
+username:                kun_26
+password:                avitalSad
+name:                    Kun Johnson
+DOB:                     28/12/1992
+email:                   Kun.Johnson@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.61, max: 1.8 }
+    me:                      1.81
+weight:
+    looking_for:             { min: 38, max: 64 }
+    me:                      67
+engineering_discipline:
+    looking_for:             computer
+    me:                      biomedical
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C }

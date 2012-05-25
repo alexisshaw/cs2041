@@ -1,0 +1,26 @@
+username:                esther_28
+password:                winnaelsin
+name:                    Esther Kang
+DOB:                     02/06/1990
+email:                   Esther.Kang@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.67, max: 1.71 }
+    me:                      1.80
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Perl, C++ }
+editor:
+    looking_for:             jEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

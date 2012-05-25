@@ -1,0 +1,27 @@
+username:                chloe_23
+password:                huzzahrasing
+name:                    Chloe Singh
+DOB:                     03/05/1982
+email:                   Chloe.Singh@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.78
+weight:
+    me:                      56
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl }
+editor:
+    looking_for:             NEdit
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

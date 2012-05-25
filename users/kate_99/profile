@@ -1,0 +1,28 @@
+username:                kate_99
+password:                ShoaUwton
+name:                    Kate Gong
+DOB:                     19/06/1983
+email:                   Kate.Gong@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.67
+weight:
+    looking_for:             { min: 71, max: 94 }
+    me:                      72
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Python, Java }
+    me:                      { JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

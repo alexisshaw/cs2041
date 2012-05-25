@@ -1,0 +1,25 @@
+username:                jiajun_91
+password:                Odermikra
+name:                    Jiajun Dixon
+DOB:                     14/04/1984
+email:                   Jiajun.Dixon@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    me:                      75
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, ios }
+    me:                      { windows, linux, osx }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

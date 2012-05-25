@@ -1,0 +1,26 @@
+username:                robyn_28
+password:                Jamesyderig
+name:                    Robyn Mok
+DOB:                     13/03/1984
+email:                   Robyn.Mok@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.39, max: 1.72 }
+    me:                      1.66
+weight:
+    me:                      61
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Perl, PHP }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      IV: A New Hope

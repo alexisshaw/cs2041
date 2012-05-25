@@ -1,0 +1,23 @@
+username:                liang_75
+password:                Kariastance
+name:                    Liang Jiang
+DOB:                     06/06/1979
+email:                   Liang.Jiang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    me:                      68
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, Python, C, Java }
+editor:
+    me:                      emacs

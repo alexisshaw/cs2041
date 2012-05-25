@@ -1,0 +1,28 @@
+username:                aditya_42
+password:                Torieshugged
+name:                    Aditya So
+DOB:                     04/03/1972
+email:                   Aditya.So@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.66
+weight:
+    me:                      66
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { windows, android, ios }
+programming_languages:
+    looking_for:             { Perl, Python, PHP }
+    me:                      { Python, PHP, C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

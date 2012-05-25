@@ -1,0 +1,26 @@
+username:                emily_1
+password:                OdeMacao
+name:                    Emily Wang
+DOB:                     03/04/1991
+email:                   Emily.Wang@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.68
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

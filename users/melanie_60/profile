@@ -1,0 +1,29 @@
+username:                melanie_60
+password:                Bkmezcal
+name:                    Melanie Wong
+DOB:                     15/08/1987
+email:                   Melanie.Wong@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.89 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 67, max: 80 }
+    me:                      59
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Haskell, Perl, Python, C++, C, JavaScript }
+    me:                      { Ruby, Python, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

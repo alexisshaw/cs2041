@@ -1,0 +1,25 @@
+username:                dennis_35
+password:                Ripponcent
+name:                    Dennis Jia
+DOB:                     02/01/1990
+email:                   Dennis.Jia@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.47, max: 1.78 }
+    me:                      1.80
+weight:
+    looking_for:             { min: 50, max: 76 }
+    me:                      68
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios }
+programming_languages:
+    me:                      { Perl, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

@@ -1,0 +1,24 @@
+username:                justin_84
+password:                ErlondDecima
+name:                    Justin Lam
+DOB:                     21/05/1982
+email:                   Justin.Lam@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    looking_for:             { min: 34, max: 53 }
+    me:                      59
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      software
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Haskell }
+editor:
+    me:                      vi

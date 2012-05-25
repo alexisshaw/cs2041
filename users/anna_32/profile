@@ -1,0 +1,27 @@
+username:                anna_32
+password:                PuCobain
+name:                    Anna You
+DOB:                     24/11/1970
+email:                   Anna.You@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.93 }
+    me:                      1.77
+weight:
+    me:                      65
+engineering_discipline:
+    looking_for:             civil
+    me:                      software
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { C, Java }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

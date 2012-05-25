@@ -1,0 +1,26 @@
+username:                ricky_0
+password:                kipestuck
+name:                    Ricky Diep
+DOB:                     12/01/1990
+email:                   Ricky.Diep@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.54, max: 1.84 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 53, max: 86 }
+    me:                      73
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, android, linux, ios, osx }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             vi
+    me:                      vi

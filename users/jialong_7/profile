@@ -1,0 +1,30 @@
+username:                jialong_7
+password:                bowersLais
+name:                    Jialong Dong
+DOB:                     03/08/1990
+email:                   Jialong.Dong@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    looking_for:             { min: 64, max: 72 }
+    me:                      79
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    looking_for:             { Perl, C }
+    me:                      { PHP, C, Java }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             VI: Return of the Jedi
+    me:                      IV: A New Hope

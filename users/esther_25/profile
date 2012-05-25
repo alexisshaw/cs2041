@@ -1,0 +1,24 @@
+username:                esther_25
+password:                manredshops
+name:                    Esther Woo
+DOB:                     13/07/1975
+email:                   Esther.Woo@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.55, max: 1.62 }
+    me:                      1.70
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { C }
+editor:
+    me:                      notepad++

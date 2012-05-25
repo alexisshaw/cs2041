@@ -1,0 +1,24 @@
+username:                ye_67
+password:                absitoust
+name:                    Ye Feng
+DOB:                     24/11/1974
+email:                   fengy@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.67
+weight:
+    me:                      62
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows, android }
+programming_languages:
+    me:                      { JavaScript }
+favourite_star_wars_movie:
+    looking_for:             I: The Phantom Menace
+    me:                      VI: Return of the Jedi

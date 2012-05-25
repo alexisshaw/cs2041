@@ -1,0 +1,28 @@
+username:                yu_76
+password:                scentLorado
+name:                    Yu Yang
+DOB:                     10/04/1972
+email:                   Yu.Yang@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.7 }
+    me:                      1.77
+weight:
+    looking_for:             { min: 60, max: 80 }
+    me:                      52
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      chemical
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    looking_for:             { PHP, C++, C }
+    me:                      { Perl, JavaScript }
+editor:
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

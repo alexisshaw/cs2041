@@ -1,0 +1,27 @@
+username:                jessica_67
+password:                dairyRomain
+name:                    Jessica Morris
+DOB:                     16/07/1972
+email:                   Jessica.Morris@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.72 }
+    me:                      1.71
+weight:
+    looking_for:             { min: 74, max: 85 }
+    me:                      65
+engineering_discipline:
+    me:                      mining
+operating_systems:
+    me:                      { android }
+programming_languages:
+    me:                      { Python }
+editor:
+    looking_for:             NEdit
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

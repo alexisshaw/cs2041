@@ -1,0 +1,20 @@
+username:                anna_94
+password:                AuGrawn
+name:                    Anna Murray
+DOB:                     23/07/1981
+email:                   Murray@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+programming_languages:
+    me:                      { Perl, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate

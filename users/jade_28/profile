@@ -1,0 +1,27 @@
+username:                jade_28
+password:                flaredreeve
+name:                    Jade Jiang
+DOB:                     21/10/1976
+email:                   Jade.Jiang@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.36, max: 1.71 }
+    me:                      1.68
+weight:
+    me:                      54
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android, osx }
+    me:                      { windows, ios, osx }
+programming_languages:
+    looking_for:             { Haskell, Python }
+    me:                      { Perl, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      vi

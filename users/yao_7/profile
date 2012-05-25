@@ -1,0 +1,23 @@
+username:                yao_7
+password:                dickswedels
+name:                    Yao Vo
+DOB:                     22/03/1973
+email:                   Yao.Vo@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.69
+weight:
+    looking_for:             { min: 60, max: 78 }
+    me:                      75
+engineering_discipline:
+    me:                      electrical
+operating_systems:
+    me:                      { windows, android }
+programming_languages:
+    me:                      { Haskell, Perl, Python }
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

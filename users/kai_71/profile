@@ -1,0 +1,24 @@
+username:                kai_71
+password:                wedsbless
+name:                    Kai Lim
+DOB:                     11/02/1989
+email:                   Kai.Lim@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.85
+weight:
+    looking_for:             { min: 35, max: 64 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Perl, C }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

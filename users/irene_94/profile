@@ -1,0 +1,24 @@
+username:                irene_94
+password:                Barrietoazed
+name:                    Irene Guan
+DOB:                     02/05/1983
+email:                   Irene.Guan@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.51, max: 1.94 }
+    me:                      1.74
+weight:
+    looking_for:             { min: 62, max: 80 }
+    me:                      64
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    looking_for:             { android }
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }

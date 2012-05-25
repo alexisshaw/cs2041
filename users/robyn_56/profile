@@ -1,0 +1,28 @@
+username:                robyn_56
+password:                spiremHolton
+name:                    Robyn Gao
+DOB:                     04/03/1982
+email:                   Robyn.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.71, max: 1.83 }
+    me:                      1.85
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      biomedical
+operating_systems:
+    looking_for:             { linux }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Python, PHP, C++, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

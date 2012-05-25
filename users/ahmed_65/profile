@@ -1,0 +1,28 @@
+username:                ahmed_65
+password:                TownesOlette
+name:                    Ahmed Le
+DOB:                     27/03/1983
+email:                   Ahmed.Le@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 48, max: 82 }
+    me:                      75
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, ios }
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Ruby, Perl, Python, C }
+editor:
+    looking_for:             vi
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

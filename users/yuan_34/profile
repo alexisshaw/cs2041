@@ -1,0 +1,26 @@
+username:                yuan_34
+password:                amperepsions
+name:                    Yuan Jiang
+DOB:                     05/12/1987
+email:                   Yuan.Jiang@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.6, max: 1.81 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 67, max: 87 }
+    me:                      78
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

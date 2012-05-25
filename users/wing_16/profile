@@ -1,0 +1,22 @@
+username:                wing_16
+password:                Haakontwire
+name:                    Wing Brown
+DOB:                     08/01/1987
+email:                   Wing.Brown@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    me:                      54
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, linux, ios, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Python, PHP, C++, C, Java }

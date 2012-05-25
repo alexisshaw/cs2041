@@ -1,0 +1,26 @@
+username:                lukas_17
+password:                parlaylimans
+name:                    Lukas Williams
+DOB:                     04/05/1976
+email:                   Lukas.Williams@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    me:                      79
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { Haskell, Perl, C++, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

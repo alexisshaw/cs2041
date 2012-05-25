@@ -1,0 +1,28 @@
+username:                stefan_81
+password:                blawBowra
+name:                    Stefan Hughes
+DOB:                     06/07/1990
+email:                   Stefan.Hughes@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.6, max: 1.94 }
+    me:                      1.82
+weight:
+    looking_for:             { min: 52, max: 64 }
+    me:                      71
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { android, linux, ios }
+programming_languages:
+    me:                      { Perl }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

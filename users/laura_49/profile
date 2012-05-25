@@ -1,0 +1,23 @@
+username:                laura_49
+password:                accedewiltja
+name:                    Laura Kapoor
+DOB:                     17/04/1987
+email:                   Laura.Kapoor@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.81
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Ruby, Perl, JavaScript }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

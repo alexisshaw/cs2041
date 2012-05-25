@@ -1,0 +1,25 @@
+username:                lukas_71
+password:                Embdenalbe
+name:                    Lukas Yi
+DOB:                     19/09/1976
+email:                   Lukas.Yi@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.36, max: 1.59 }
+    me:                      1.65
+weight:
+    looking_for:             { min: 59, max: 89 }
+    me:                      82
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    me:                      { JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

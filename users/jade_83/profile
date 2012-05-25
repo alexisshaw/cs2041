@@ -1,0 +1,26 @@
+username:                jade_83
+password:                citalsRoane
+name:                    Jade Lu
+DOB:                     20/03/1977
+email:                   Jade.Lu@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.65, max: 1.71 }
+    me:                      1.81
+weight:
+    me:                      66
+engineering_discipline:
+    me:                      biomedical
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    me:                      { Haskell, Perl, Python, C }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      II: Attack of the Clones

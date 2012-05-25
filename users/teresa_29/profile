@@ -1,0 +1,27 @@
+username:                teresa_29
+password:                bungedmerl
+name:                    Teresa Wan
+DOB:                     02/02/1989
+email:                   Teresa.Wan@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.79
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    looking_for:             { windows }
+    me:                      { linux }
+programming_languages:
+    me:                      { Haskell, Perl, C, Java }
+editor:
+    looking_for:             vi
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

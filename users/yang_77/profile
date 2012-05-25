@@ -1,0 +1,26 @@
+username:                yang_77
+password:                datesgrand
+name:                    Yang Guo
+DOB:                     11/03/1986
+email:                   Yang.Guo@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 48, max: 75 }
+    me:                      66
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    me:                      { android }
+programming_languages:
+    me:                      { Ruby, Perl, Python, C, Java }
+editor:
+    looking_for:             jEdit
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

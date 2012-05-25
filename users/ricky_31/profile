@@ -1,0 +1,25 @@
+username:                ricky_31
+password:                panzercoons
+name:                    Ricky Chia
+DOB:                     01/05/1974
+email:                   Ricky.Chia@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    looking_for:             { min: 58, max: 79 }
+    me:                      74
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             notepad++
+    me:                      TextMate

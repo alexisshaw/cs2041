@@ -1,0 +1,25 @@
+username:                esther_10
+password:                oratespsi
+name:                    Esther Chia
+DOB:                     17/09/1982
+email:                   Esther.Chia@example.com
+age:
+    looking_for:             { min: 18, max: 32 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.68
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, android, linux, ios, osx }
+    me:                      { android, ios, osx }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

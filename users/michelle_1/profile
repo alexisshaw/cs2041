@@ -1,0 +1,25 @@
+username:                michelle_1
+password:                lingotPaolo
+name:                    Michelle Du
+DOB:                     13/01/1985
+email:                   Michelle.Du@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.58, max: 1.72 }
+    me:                      1.79
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    looking_for:             { windows, ios, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

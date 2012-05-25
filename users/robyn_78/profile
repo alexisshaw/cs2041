@@ -1,0 +1,26 @@
+username:                robyn_78
+password:                creditsorter
+name:                    Robyn Brown
+DOB:                     01/03/1991
+email:                   Robyn.Brown@example.com
+age:
+    looking_for:             { min: 18, max: 30 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.41, max: 1.65 }
+    me:                      1.76
+weight:
+    looking_for:             { min: 64, max: 71 }
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { android, linux }
+programming_languages:
+    me:                      { Perl, JavaScript }
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

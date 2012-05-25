@@ -1,0 +1,25 @@
+username:                steven_57
+password:                shorerTasha
+name:                    Steven Bell
+DOB:                     26/05/1990
+email:                   Steven.Bell@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.93
+weight:
+    looking_for:             { min: 49, max: 73 }
+    me:                      60
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    looking_for:             { Ruby, JavaScript }
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

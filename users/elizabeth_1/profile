@@ -1,0 +1,27 @@
+username:                elizabeth_1
+password:                Coltontag
+name:                    Elizabeth Ye
+DOB:                     25/09/1987
+email:                   Elizabeth.Ye@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.66, max: 1.81 }
+    me:                      1.79
+weight:
+    looking_for:             { min: 47, max: 86 }
+    me:                      62
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      I: The Phantom Menace

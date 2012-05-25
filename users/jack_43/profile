@@ -1,0 +1,30 @@
+username:                jack_43
+password:                clitjukes
+name:                    Jack Stewart
+DOB:                     05/08/1980
+email:                   Jack.Stewart@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.45, max: 1.76 }
+    me:                      1.67
+weight:
+    looking_for:             { min: 52, max: 71 }
+    me:                      72
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Ruby, Perl, JavaScript }
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

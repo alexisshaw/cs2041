@@ -1,0 +1,27 @@
+username:                ye_45
+password:                Korrieknurls
+name:                    Ye Bui
+DOB:                     23/08/1986
+email:                   Ye.Bui@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.56, max: 1.91 }
+    me:                      1.75
+weight:
+    looking_for:             { min: 63, max: 80 }
+    me:                      62
+engineering_discipline:
+    looking_for:             civil
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Python, C++, C }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

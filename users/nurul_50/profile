@@ -1,0 +1,25 @@
+username:                nurul_50
+password:                metooswees
+name:                    Nurul Bell
+DOB:                     16/06/1989
+email:                   Nurul.Bell@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.64
+weight:
+    looking_for:             { min: 61, max: 92 }
+    me:                      68
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, linux, ios }
+programming_languages:
+    me:                      { Perl, Java }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

@@ -1,0 +1,28 @@
+username:                felicia_65
+password:                forefluted
+name:                    Felicia Fang
+DOB:                     19/08/1972
+email:                   Felicia.Fang@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.6, max: 1.71 }
+    me:                      1.77
+weight:
+    me:                      61
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Ruby, Perl, C, JavaScript }
+editor:
+    looking_for:             NEdit
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

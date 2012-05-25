@@ -1,0 +1,25 @@
+username:                bo_74
+password:                tehrsclepe
+name:                    Bo Kim
+DOB:                     21/12/1987
+email:                   Bo.Kim@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.81
+weight:
+    me:                      62
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      mechanical
+operating_systems:
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { Perl, C++, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

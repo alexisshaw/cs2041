@@ -1,0 +1,23 @@
+username:                ying_62
+password:                ozonesnan
+name:                    Ying Zeng
+DOB:                     12/08/1981
+email:                   Ying.Zeng@example.com
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.76 }
+    me:                      1.69
+weight:
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Java }
+editor:
+    me:                      TextMate

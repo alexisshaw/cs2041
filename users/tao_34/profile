@@ -1,0 +1,28 @@
+username:                tao_34
+password:                abjectEnovid
+name:                    Tao Gao
+DOB:                     09/02/1989
+email:                   Tao.Gao@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.78
+weight:
+    me:                      76
+engineering_discipline:
+    looking_for:             electrical
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows }
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      V: The Empire Strikes Back

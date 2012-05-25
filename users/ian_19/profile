@@ -1,0 +1,28 @@
+username:                ian_19
+password:                tombedFurr
+name:                    Ian Zheng
+DOB:                     12/10/1976
+email:                   Ian.Zheng@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.83
+weight:
+    looking_for:             { min: 44, max: 77 }
+    me:                      60
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, C++ }
+editor:
+    looking_for:             emacs
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

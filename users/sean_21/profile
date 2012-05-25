@@ -1,0 +1,26 @@
+username:                sean_21
+password:                issuessouper
+name:                    Sean Yip
+DOB:                     22/06/1989
+email:                   Sean.Yip@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.89
+weight:
+    looking_for:             { min: 65, max: 81 }
+    me:                      78
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { linux }
+programming_languages:
+    looking_for:             { Perl, C, JavaScript }
+    me:                      { Perl, JavaScript }
+editor:
+    me:                      NEdit

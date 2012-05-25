@@ -1,0 +1,25 @@
+username:                rong_33
+password:                agendaOhio
+name:                    Rong Hong
+DOB:                     22/02/1972
+email:                   Rong.Hong@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.60
+weight:
+    looking_for:             { min: 45, max: 63 }
+    me:                      63
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { ios }
+    me:                      { ios }
+programming_languages:
+    me:                      { Haskell, C }
+editor:
+    looking_for:             emacs
+    me:                      NEdit
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

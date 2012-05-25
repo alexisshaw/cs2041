@@ -1,0 +1,28 @@
+username:                irene_87
+password:                clotConte
+name:                    Irene Qi
+DOB:                     23/02/1974
+email:                   Irene.Qi@example.com
+age:
+    looking_for:             { min: 18, max: 29 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.46, max: 1.81 }
+    me:                      1.79
+weight:
+    me:                      57
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { Perl, Python, JavaScript }
+    me:                      { Perl, Python, PHP, C, JavaScript }
+editor:
+    looking_for:             notepad++
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      III: Revenge of the Sith

@@ -1,0 +1,27 @@
+username:                zi_53
+password:                Boasregrew
+name:                    Zi Zeng
+DOB:                     15/09/1970
+email:                   Zi.Zeng@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.85
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    me:                      { linux, osx }
+programming_languages:
+    looking_for:             { Perl, C++, C }
+    me:                      { C, JavaScript, Java }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

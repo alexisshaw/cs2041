@@ -1,0 +1,27 @@
+username:                chloe_27
+password:                meritsmarked
+name:                    Chloe Qin
+DOB:                     06/02/1975
+email:                   Chloe.Qin@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.75
+weight:
+    me:                      68
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

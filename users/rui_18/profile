@@ -1,0 +1,26 @@
+username:                rui_18
+password:                LaoKeelin
+name:                    Rui Kaur
+DOB:                     20/05/1971
+email:                   Rui.Kaur@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.74
+weight:
+    looking_for:             { min: 45, max: 58 }
+    me:                      66
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      TextMate

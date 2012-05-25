@@ -1,0 +1,25 @@
+username:                rowan_53
+password:                FrentzRento
+name:                    Rowan Liao
+DOB:                     09/10/1985
+email:                   Rowan.Liao@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.82
+weight:
+    looking_for:             { min: 41, max: 54 }
+    me:                      55
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { linux }
+    me:                      { linux }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             emacs
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

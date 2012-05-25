@@ -1,0 +1,25 @@
+username:                emma_61
+password:                centosOrit
+name:                    Emma Leung
+DOB:                     14/08/1981
+email:                   Emma.Leung@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    me:                      53
+engineering_discipline:
+    me:                      software
+operating_systems:
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl, C }
+editor:
+    looking_for:             TextMate
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

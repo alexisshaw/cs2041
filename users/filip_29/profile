@@ -1,0 +1,26 @@
+username:                filip_29
+password:                dsoboracy
+name:                    Filip Le
+DOB:                     28/11/1977
+email:                   Filip.Le@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 32, max: 64 }
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { linux }
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Perl, Python, C }
+    me:                      { Python, C, Java }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

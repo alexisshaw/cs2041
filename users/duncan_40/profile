@@ -1,0 +1,23 @@
+username:                duncan_40
+password:                vulvarDoner
+name:                    Duncan Kwon
+DOB:                     23/05/1990
+email:                   Duncan.Kwon@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.79
+weight:
+    me:                      67
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      electrical
+operating_systems:
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Ruby, Perl, Python }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

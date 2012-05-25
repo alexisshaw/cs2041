@@ -1,0 +1,28 @@
+username:                wen_32
+password:                upendculm
+name:                    Wen Low
+DOB:                     10/05/1973
+email:                   Wen.Low@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.45, max: 1.71 }
+    me:                      1.62
+weight:
+    me:                      53
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { windows, linux, ios, osx }
+programming_languages:
+    me:                      { Ruby, Perl, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

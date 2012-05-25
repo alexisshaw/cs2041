@@ -1,0 +1,28 @@
+username:                wai_10
+password:                bothercheapo
+name:                    Wai Zheng
+DOB:                     03/08/1992
+email:                   Wai.Zheng@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.69, max: 2.04 }
+    me:                      1.83
+weight:
+    me:                      64
+engineering_discipline:
+    looking_for:             electrical
+    me:                      software
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    looking_for:             V: The Empire Strikes Back
+    me:                      V: The Empire Strikes Back

@@ -1,0 +1,29 @@
+username:                min_72
+password:                uropodAntony
+name:                    Min Kelly
+DOB:                     07/03/1980
+email:                   Min.Kelly@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.91
+weight:
+    looking_for:             { min: 52, max: 71 }
+    me:                      73
+engineering_discipline:
+    looking_for:             software
+    me:                      aerospace
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { windows, android, osx }
+programming_languages:
+    looking_for:             { C, JavaScript }
+    me:                      { Perl, Python, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

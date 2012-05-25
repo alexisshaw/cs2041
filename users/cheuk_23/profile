@@ -1,0 +1,28 @@
+username:                cheuk_23
+password:                diebgame
+name:                    Cheuk Yuan
+DOB:                     20/05/1990
+email:                   Cheuk.Yuan@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.71
+weight:
+    looking_for:             { min: 44, max: 69 }
+    me:                      65
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { ios }
+    me:                      { linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C, JavaScript }
+editor:
+    looking_for:             TextMate
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

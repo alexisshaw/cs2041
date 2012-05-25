@@ -1,0 +1,25 @@
+username:                wai_9
+password:                earsensoul
+name:                    Wai Wong
+DOB:                     07/10/1979
+email:                   Wai.Wong@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.80
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { android, ios, osx }
+    me:                      { windows, linux, osx }
+programming_languages:
+    me:                      { Python, C, JavaScript }
+editor:
+    looking_for:             vi
+    me:                      TextMate

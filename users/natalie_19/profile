@@ -1,0 +1,27 @@
+username:                natalie_19
+password:                Nolliequinin
+name:                    Natalie Scott
+DOB:                     06/08/1979
+email:                   Natalie.Scott@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.62, max: 1.76 }
+    me:                      1.86
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      non_engineer
+operating_systems:
+    me:                      { android, osx }
+programming_languages:
+    me:                      { Perl, Python, C++ }
+editor:
+    looking_for:             vi
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

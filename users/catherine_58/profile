@@ -1,0 +1,27 @@
+username:                catherine_58
+password:                Tarbeshames
+name:                    Catherine Chu
+DOB:                     12/01/1980
+email:                   Catherine.Chu@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    me:                      1.86
+weight:
+    me:                      71
+engineering_discipline:
+    me:                      software
+operating_systems:
+    looking_for:             { windows, linux, osx }
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { PHP }
+editor:
+    looking_for:             emacs
+    me:                      NEdit
+favourite_star_wars_movie:
+    looking_for:             IV: A New Hope
+    me:                      VI: Return of the Jedi

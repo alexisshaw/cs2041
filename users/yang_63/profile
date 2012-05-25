@@ -1,0 +1,26 @@
+username:                yang_63
+password:                Melvathoued
+name:                    Yang Hu
+DOB:                     09/03/1978
+email:                   Yang.Hu@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.75
+weight:
+    looking_for:             { min: 28, max: 56 }
+    me:                      64
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { ios, osx }
+    me:                      { windows }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

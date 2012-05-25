@@ -1,0 +1,27 @@
+username:                liang_47
+password:                zoccosagreed
+name:                    Liang Chong
+DOB:                     23/12/1983
+email:                   Liang.Chong@example.com
+age:
+    looking_for:             { min: 18, max: 21 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.76
+weight:
+    me:                      77
+engineering_discipline:
+    looking_for:             biomedical
+    me:                      software
+operating_systems:
+    looking_for:             { windows, android, linux, osx }
+    me:                      { linux, ios, osx }
+programming_languages:
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

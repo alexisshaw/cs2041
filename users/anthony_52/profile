@@ -1,0 +1,26 @@
+username:                anthony_52
+password:                larkovered
+name:                    Anthony Chong
+DOB:                     24/05/1979
+email:                   Anthony.Chong@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 36, max: 69 }
+    me:                      66
+engineering_discipline:
+    looking_for:             telecommunications
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows }
+programming_languages:
+    me:                      { C++ }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

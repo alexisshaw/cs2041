@@ -1,0 +1,27 @@
+username:                tao_45
+password:                abuliaaurar
+name:                    Tao Stewart
+DOB:                     22/08/1979
+email:                   Tao.Stewart@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 46, max: 65 }
+    me:                      66
+engineering_discipline:
+    looking_for:             computer
+    me:                      electrical
+operating_systems:
+    me:                      { linux }
+programming_languages:
+    looking_for:             { C++, C, JavaScript }
+    me:                      { Python }
+editor:
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

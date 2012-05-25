@@ -1,0 +1,26 @@
+username:                darren_24
+password:                quartskhedas
+name:                    Darren Yau
+DOB:                     18/02/1974
+email:                   Darren.Yau@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.84
+weight:
+    looking_for:             { min: 59, max: 71 }
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      computer
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { Perl, C++, C, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

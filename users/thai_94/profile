@@ -1,0 +1,28 @@
+username:                thai_94
+password:                bemoilzendik
+name:                    Thai Yi
+DOB:                     18/07/1982
+email:                   Thai.Yi@example.com
+age:
+    looking_for:             { min: 18, max: 23 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.95 }
+    me:                      1.73
+weight:
+    looking_for:             { min: 67, max: 82 }
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      non_engineer
+operating_systems:
+    me:                      { ios, osx }
+programming_languages:
+    me:                      { Python, C }
+editor:
+    looking_for:             TextMate
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

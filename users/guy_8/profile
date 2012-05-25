@@ -1,0 +1,27 @@
+username:                guy_8
+password:                chockoLittle
+name:                    Guy Ma
+DOB:                     05/11/1987
+email:                   Guy.Ma@example.com
+age:
+    looking_for:             { min: 18, max: 26 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.53, max: 1.79 }
+    me:                      1.70
+weight:
+    looking_for:             { min: 48, max: 62 }
+    me:                      59
+engineering_discipline:
+    looking_for:             software
+    me:                      software
+operating_systems:
+    me:                      { windows, android, linux, osx }
+programming_languages:
+    me:                      { Perl, Python, C++, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

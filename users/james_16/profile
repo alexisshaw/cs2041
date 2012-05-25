@@ -1,0 +1,28 @@
+username:                james_16
+password:                criticwitans
+name:                    James Noh
+DOB:                     13/12/1981
+email:                   James.Noh@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.77
+weight:
+    looking_for:             { min: 51, max: 83 }
+    me:                      72
+engineering_discipline:
+    looking_for:             petroleum
+    me:                      biomedical
+operating_systems:
+    me:                      { osx }
+programming_languages:
+    looking_for:             { Python, PHP }
+    me:                      { Perl, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

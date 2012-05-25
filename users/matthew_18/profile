@@ -1,0 +1,20 @@
+username:                matthew_18
+password:                Riedeldongs
+name:                    Matthew Robinson
+DOB:                     23/07/1983
+email:                   Matthew.Robinson@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.55, max: 1.75 }
+    me:                      1.75
+weight:
+    me:                      74
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      electrical
+operating_systems:
+    me:                      { android, linux, osx }

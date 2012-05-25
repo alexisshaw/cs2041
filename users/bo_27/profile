@@ -1,0 +1,23 @@
+username:                bo_27
+password:                sedgynirlit
+name:                    Bo Tan
+DOB:                     21/05/1975
+email:                   Bo.Tan@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.58, max: 1.77 }
+    me:                      1.79
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             mining
+    me:                      telecommunications
+operating_systems:
+    looking_for:             { windows }
+    me:                      { linux, ios }
+programming_languages:
+    me:                      { C++, C, JavaScript }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

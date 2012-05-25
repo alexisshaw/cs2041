@@ -1,0 +1,25 @@
+username:                oliver_1
+password:                limplyflisk
+name:                    Oliver Han
+DOB:                     27/12/1984
+email:                   Oliver.Han@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.80
+weight:
+    looking_for:             { min: 69, max: 75 }
+    me:                      82
+engineering_discipline:
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, linux }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Perl, C }
+editor:
+    looking_for:             vi
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

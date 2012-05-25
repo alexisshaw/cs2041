@@ -1,0 +1,28 @@
+username:                maxwell_66
+password:                Bowdensquall
+name:                    Maxwell Jia
+DOB:                     17/08/1978
+email:                   Maxwell.Jia@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.52, max: 1.92 }
+    me:                      1.73
+weight:
+    looking_for:             { min: 53, max: 79 }
+    me:                      69
+engineering_discipline:
+    looking_for:             software
+    me:                      civil
+operating_systems:
+    looking_for:             { android, linux }
+    me:                      { windows }
+programming_languages:
+    looking_for:             { C }
+    me:                      { PHP, C }
+editor:
+    looking_for:             emacs
+    me:                      emacs

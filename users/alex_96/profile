@@ -1,0 +1,26 @@
+username:                alex_96
+password:                shamebagged
+name:                    Alex Jin
+DOB:                     16/12/1981
+email:                   Alex.Jin@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.67
+weight:
+    me:                      69
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux, ios }
+    me:                      { windows }
+programming_languages:
+    looking_for:             { Python, C++, C, JavaScript }
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      TextMate

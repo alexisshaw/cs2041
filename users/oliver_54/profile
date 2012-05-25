@@ -1,0 +1,25 @@
+username:                oliver_54
+password:                iambiGoliad
+name:                    Oliver Kwan
+DOB:                     26/08/1979
+email:                   Oliver.Kwan@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.72
+weight:
+    looking_for:             { min: 53, max: 69 }
+    me:                      71
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      non_engineer
+operating_systems:
+    looking_for:             { windows, osx }
+    me:                      { android }
+programming_languages:
+    me:                      { Python, C++, JavaScript }
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

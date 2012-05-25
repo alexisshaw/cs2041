@@ -1,0 +1,27 @@
+username:                ronald_30
+password:                entershassar
+name:                    Ronald Ng
+DOB:                     09/10/1979
+email:                   Ronald.Ng@example.com
+age:
+    looking_for:             { min: 18, max: 24 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 48, max: 70 }
+    me:                      65
+engineering_discipline:
+    looking_for:             aerospace
+    me:                      software
+operating_systems:
+    me:                      { android, linux, osx }
+programming_languages:
+    me:                      { Perl, Python }
+editor:
+    looking_for:             vi
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

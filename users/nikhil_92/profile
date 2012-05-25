@@ -1,0 +1,28 @@
+username:                nikhil_92
+password:                acornsvakeel
+name:                    Nikhil Chan
+DOB:                     15/08/1990
+email:                   Nikhil.Chan@example.com
+age:
+    looking_for:             { min: 18, max: 25 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.87
+weight:
+    looking_for:             { min: 53, max: 84 }
+    me:                      74
+engineering_discipline:
+    looking_for:             non_engineer
+    me:                      software
+operating_systems:
+    looking_for:             { linux, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Python, C++, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      TextMate
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

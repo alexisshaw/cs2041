@@ -1,0 +1,24 @@
+username:                anna_22
+password:                iodidepreen
+name:                    Anna Halim
+DOB:                     28/07/1980
+email:                   Anna.Halim@example.com
+age:
+    looking_for:             { min: 18, max: 28 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.57, max: 1.9 }
+    me:                      1.76
+weight:
+    me:                      52
+engineering_discipline:
+    looking_for:             mechanical
+    me:                      software
+operating_systems:
+    me:                      { ios }
+programming_languages:
+    me:                      { Python, C, JavaScript, Java }
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

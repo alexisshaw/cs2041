@@ -1,0 +1,26 @@
+username:                po_96
+password:                usanceglib
+name:                    Po Chang
+DOB:                     12/08/1990
+email:                   Po.Chang@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.86
+weight:
+    looking_for:             { min: 46, max: 72 }
+    me:                      75
+engineering_discipline:
+    looking_for:             software
+    me:                      civil
+operating_systems:
+    me:                      { windows, android, linux, ios }
+programming_languages:
+    me:                      { PHP, JavaScript }
+editor:
+    me:                      emacs
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

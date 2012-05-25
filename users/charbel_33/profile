@@ -1,0 +1,27 @@
+username:                charbel_33
+password:                howletlemed
+name:                    Charbel Hu
+DOB:                     13/12/1984
+email:                   Charbel.Hu@example.com
+age:
+    looking_for:             { min: 18, max: 27 }
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    me:                      1.98
+weight:
+    looking_for:             { min: 32, max: 87 }
+    me:                      74
+engineering_discipline:
+    me:                      computer
+operating_systems:
+    looking_for:             { android, linux, ios, osx }
+    me:                      { osx }
+programming_languages:
+    me:                      { Ruby, Perl, Python, C, JavaScript, Java }
+editor:
+    looking_for:             vi
+    me:                      jEdit
+favourite_star_wars_movie:
+    me:                      VI: Return of the Jedi

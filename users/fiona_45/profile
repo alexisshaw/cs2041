@@ -1,0 +1,28 @@
+username:                fiona_45
+password:                sulusCherye
+name:                    Fiona Ho
+DOB:                     17/03/1974
+email:                   Fiona.Ho@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.53, max: 1.62 }
+    me:                      1.70
+weight:
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      electrical
+operating_systems:
+    looking_for:             { ios }
+    me:                      { windows, linux }
+programming_languages:
+    me:                      { Ruby, C }
+editor:
+    looking_for:             notepad++
+    me:                      notepad++
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back

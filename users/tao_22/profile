@@ -1,0 +1,27 @@
+username:                tao_22
+password:                Minndural
+name:                    Tao Dixon
+DOB:                     05/07/1972
+email:                   Tao.Dixon@example.com
+gender:
+    looking_for:             Female
+    me:                      Male
+height:
+    looking_for:             { min: 1.61, max: 1.84 }
+    me:                      1.80
+weight:
+    looking_for:             { min: 43, max: 58 }
+    me:                      65
+engineering_discipline:
+    looking_for:             computer
+    me:                      non_engineer
+operating_systems:
+    me:                      { windows, osx }
+programming_languages:
+    looking_for:             { Python }
+    me:                      { C }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      IV: A New Hope

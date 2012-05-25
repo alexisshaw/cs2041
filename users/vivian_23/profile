@@ -1,0 +1,29 @@
+username:                vivian_23
+password:                gottenagreed
+name:                    Vivian Lee
+DOB:                     26/09/1976
+email:                   Vivian.Lee@example.com
+age:
+    looking_for:             { min: 18, max: 22 }
+gender:
+    looking_for:             Male
+    me:                      Female
+height:
+    looking_for:             { min: 1.54, max: 1.96 }
+    me:                      1.80
+weight:
+    looking_for:             { min: 66, max: 83 }
+    me:                      63
+engineering_discipline:
+    looking_for:             software
+    me:                      computer
+operating_systems:
+    looking_for:             { android, linux, osx }
+    me:                      { windows, ios, osx }
+programming_languages:
+    me:                      { Haskell, Perl, C, JavaScript }
+editor:
+    looking_for:             emacs
+    me:                      vi
+favourite_star_wars_movie:
+    me:                      V: The Empire Strikes Back
