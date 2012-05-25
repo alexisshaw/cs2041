@@ -46,6 +46,7 @@ def genMenuBar(title, links):
       </div>
     </div>
 """
+    return menuString;
 
 
 
