@@ -4,7 +4,9 @@ __author__ = 'WS02admin'
 
 import genHTML
 
-print genHTML.getHTTPHeader()
+print genHTML.geNHTTPHeader()
 
-print genHTML.getPageHeader("EngCupid")
-print genHTML.getPageFooter()
+print genHTML.genPageHeader("EngCupid")
+
+print genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', active=True)])
+print genHTML.genPageFooter()
