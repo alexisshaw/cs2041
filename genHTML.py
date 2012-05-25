@@ -5,4 +5,21 @@ def getHTTPHeader():
 Content-Type: text/html
 
 """
-    return header;
+    return header
+
+def getPageHeader(title):
+    return """\
+<!DOCTYPE html>
+<html>
+<head>
+<title>{title}</title>
+</head>
+
+<body>
+"""
+
+def getPageFooter():
+    return """\
+</body>
+</html>
+"""
