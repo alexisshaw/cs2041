@@ -33,7 +33,6 @@ def parseUser(connection, dir):
     image = None
     if os.path.isfile(dir + os.sep + 'profile'):
         userProfile = open(dir + os.sep + 'profile', 'r', )
-        toPrint = True
         switch = None
         for line in userProfile.readlines():
             if re.match("^username", line):
