@@ -1,7 +1,7 @@
 __author__ = 'WS02admin'
 
 def getHTTPHeader():
-    header ="""
+    header ="""\
 Content-Type: text/html
 
 """
