@@ -12,11 +12,11 @@ def getPageHeader(title):
 <!DOCTYPE html>
 <html>
 <head>
-<title>{title}</title>
+<title> %(title)s</title>
 </head>
 
 <body>
-"""
+""" % {'title': title}
 
 def getPageFooter():
     return """\
