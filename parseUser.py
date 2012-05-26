@@ -1,6 +1,10 @@
 import os
 import re
-import sqlite3
+import sys
+
+sys.path.append(os.getcwd()+os.sep+'pg'+os.sep+'lib'+os.sep+'python'+os.sep)
+
+import psycopg2
 
 __author__ = 'WS02admin'
 
@@ -74,11 +78,11 @@ def parseUser(connection, dir):
             elif re.match("^height", line):
                 switch = 'height'
             elif re.match("^    looking_for", line) and switch == 'height':
-                m = re.search("min: ((?:\d|.)+), max: ((?:\d|.)+)", line)
+                m = re.search("min: ([0-9.]+), max: ([0-9.]+)", line)
                 height_wanted_low = m.group(1)
                 height_wanted_high = m.group(2)
             elif re.match("^    me", line) and switch == 'height':
-                m = re.match('((?:\d|.)+)', line)
+                m = re.search('([0-9.]+)', line)
                 height = m.group(1)
 
             elif re.match("^weight", line):
@@ -147,45 +151,54 @@ def parseUser(connection, dir):
     if operating_systems is not None:
         for operatingSystem in operating_systems:
             osTemp = operatingSystem.strip()
-            c.execute("SELECT operating_system FROM operating_systems WHERE operating_system = ?", [osTemp])
+            c.execute("SELECT operating_system FROM operating_systems WHERE operating_system = %s", [osTemp])
             if c.fetchone() is None:
-                c.execute("INSERT INTO operating_systems values (?)", [osTemp])
+                c.execute("INSERT INTO operating_systems values (%s)", [osTemp])
     if operating_systems_wanted is not None:
         for operatingSystem in operating_systems_wanted:
             osTemp = operatingSystem.strip()
-            c.execute("SELECT operating_system FROM operating_systems WHERE operating_system = ?",[osTemp])
+            c.execute("SELECT operating_system FROM operating_systems WHERE operating_system = %s",[osTemp])
             if c.fetchone() is None:
-                c.execute("INSERT INTO operating_systems values (?)", [osTemp])
+                c.execute("INSERT INTO operating_systems values (%s)", [osTemp])
     if programming_languages is not None:
         for pl in programming_languages:
             plTemp = pl.strip()
-            c.execute("SELECT programming_language FROM programming_languages WHERE programming_language = ?",[plTemp])
+            c.execute("SELECT programming_language FROM programming_languages WHERE programming_language = %s",[plTemp])
             if c.fetchone() is None:
-                c.execute("INSERT INTO programming_languages values (?)", [plTemp])
+                c.execute("INSERT INTO programming_languages values (%s)", [plTemp])
     if programming_languages_wanted is not None:
         for pl in programming_languages_wanted:
             plTemp = pl.strip()
-            c.execute("SELECT programming_language FROM programming_languages WHERE programming_language = ?", [plTemp])
+            c.execute("SELECT programming_language FROM programming_languages WHERE programming_language = %s", [plTemp])
             if c.fetchone() is None:
-                c.execute("INSERT INTO programming_languages values (?)", [plTemp])
+                c.execute("INSERT INTO programming_languages values (%s)", [plTemp])
     if favorite_star_wars_movie is not None:
-        c.execute("SELECT movie_name FROM star_wars_movies WHERE movie_name = ?", [favorite_star_wars_movie])
+        c.execute("SELECT movie_name FROM star_wars_movies WHERE movie_name = %s", [favorite_star_wars_movie.strip()])
         if c.fetchone() is None:
-            c.execute("INSERT INTO star_wars_movies values(?)", [favorite_star_wars_movie])
+            c.execute("INSERT INTO star_wars_movies values(%s)", [favorite_star_wars_movie.strip()])
     if favorite_star_wars_movie_wanted is not None:
-        c.execute("SELECT movie_name FROM star_wars_movies WHERE movie_name = ?", [favorite_star_wars_movie_wanted])
+        c.execute("SELECT movie_name FROM star_wars_movies WHERE movie_name = %s", [favorite_star_wars_movie_wanted.strip()])
         if c.fetchone() is None:
-            c.execute("INSERT INTO star_wars_movies values(?)", [favorite_star_wars_movie_wanted])
+            c.execute("INSERT INTO star_wars_movies values(%s)", [favorite_star_wars_movie_wanted.strip()])
     if editor is not None:
-        c.execute("SELECT editor FROM editors WHERE editor = ?", [editor])
+        c.execute("SELECT editor FROM editors WHERE editor = %s", [editor.strip()])
         if c.fetchone() is None:
-            c.execute("INSERT INTO editors values(?)", [editor])
+            c.execute("INSERT INTO editors values(%s)", [editor.strip()])
     if editor_wanted is not None:
-        c.execute("SELECT editor FROM editors WHERE editor = ?", [editor_wanted])
+        c.execute("SELECT editor FROM editors WHERE editor = %s", [editor_wanted.strip()])
         if c.fetchone() is None:
-            c.execute("INSERT INTO editors values(?)", [editor_wanted])
-
-    c.execute("INSERT INTO users values (?,?,?,julianday(?),?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            c.execute("INSERT INTO editors values(%s)", [editor_wanted.strip()])
+    if engineering_discipline is not None:
+         c.execute("SELECT engineering_discipline FROM engineering_disciplines WHERE engineering_discipline = %s",
+                    [engineering_discipline.strip()])
+         if c.fetchone() is None:
+            c.execute("INSERT INTO engineering_disciplines values(%s)", [engineering_discipline.strip()])
+    if engineering_discipline_wanted is not None:
+         c.execute("SELECT engineering_discipline FROM engineering_disciplines WHERE engineering_discipline = %s",
+                    [engineering_discipline_wanted.strip()])
+         if c.fetchone() is None:
+            c.execute("INSERT INTO engineering_disciplines values(%s)", [engineering_discipline_wanted.strip()]) 
+    c.execute("INSERT INTO users values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
         [username,
          password.decode("utf-8"),
          name,
@@ -207,21 +220,22 @@ def parseUser(connection, dir):
          editor_wanted,
          favorite_star_wars_movie,
          favorite_star_wars_movie_wanted,
-         sqlite3.Binary(image.read()) if image is not None else None ])
+         psycopg2.Binary(image.read()) if image is not None else None ])
     if operating_systems is not None:
         for operatingSystem in operating_systems:
-            c.execute("INSERT INTO user_operating_systems values (?,?,?)", [None,username,operatingSystem.strip()])
+            c.execute("INSERT INTO user_operating_systems values (DEFAULT,%s,%s)", [username,operatingSystem.strip()])
     if operating_systems_wanted is not None:
         for operatingSystem in operating_systems_wanted:
-            c.execute("INSERT INTO user_operating_system_wanted values (?,?,?)", [None,username,operatingSystem.strip()])
+            c.execute("INSERT INTO user_operating_system_wanted values (DEFAULT,%s,%s)", [username,operatingSystem.strip()])
     if programming_languages is not None:
         for pl in programming_languages:
-            c.execute("INSERT INTO user_programming_languages  values (?,?,?)", [None,username,pl.strip()])
+            c.execute("INSERT INTO user_programming_languages  values (DEFAULT,%s,%s)", [username,pl.strip()])
     if programming_languages_wanted is not None:
         for pl in programming_languages_wanted:
-            c.execute("INSERT INTO user_programming_languages_wanted values (?,?,?)", [None,username,pl.strip()])
+            c.execute("INSERT INTO user_programming_languages_wanted values (DEFAULT,%s,%s)", [username,pl.strip()])
     connection.commit()
+    print username
 
 def convertDOB(dob):
     m = re.search(r"(?P<day>\d{2})/(?P<month>\d{2})/(?P<year>\d{4})", dob)
-    return '' + m.group('year') + '-' + m.group('month') + '-' + m.group('day')
+    return psycopg2.Date(int(m.group('year')), int(m.group('month')), int(m.group('day')))
