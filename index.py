@@ -14,6 +14,8 @@ print genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', acti
 print genHTML.beginContainer()
 
 print sys.version
+print
+print sys.path
 
 print genHTML.endContainer()
 
