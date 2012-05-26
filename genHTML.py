@@ -1,6 +1,6 @@
 __author__ = 'WS02admin'
 
-def geNHTTPHeader():
+def genHTTPHeader():
     header ="""\
 Content-Type: text/html
 
@@ -11,16 +11,21 @@ def genPageHeader(title):
     return """\
 <!DOCTYPE html>
 <html>
-    <head>
-        <title> %(title)s</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
-        <meta name="author" content="">
+  <head>
+    <title> %(title)s</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="author" content="">
 
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
-    </head>
-    <body>
+      <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <style>
+        body{
+          padding-top:60px;
+        }
+      </style>
+      <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+  </head>
+  <body>
 """ % {'title': title}
 
 def genMenuBar(title, links):
@@ -28,20 +33,19 @@ def genMenuBar(title, links):
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
           <a class="brand" href="EngCupid.py">%(title)s</a>
           <div class="nav-collapse">
             <ul class="nav">
 """ % {'title':title}
     for l in links:
-        menuString += ("""<li %(activeClass)s><a href=\"%(link)s\">%(name)s</a></li>""") \
+        menuString += ("""\
+              <li %(activeClass)s><a href=\"%(link)s\">%(name)s</a></li>""") \
             % {'link': l['link'],'name':l['name'], 'activeClass':'class="active"' if l['active'] else ''}
     menuString += """\
             </ul>
+            <form action="" class="navbar-search pull-right">
+              <input type="text" placeholder="Search" class="search-query span2">
+            </form>
           </div><!--/.nav-collapse -->
         </div>
       </div>
@@ -49,11 +53,16 @@ def genMenuBar(title, links):
 """
     return menuString;
 
+def beginContainer():
+    return '    <div class="container">\n'
 
+def endContainer():
+    return '    </div>\n'
 
 def genPageFooter():
     return """\
-        <script src="bootstrap/js/bootstrap.min.js"></script>
-    </body>
+    <script src="js/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+  </body>
 </html>
 """
