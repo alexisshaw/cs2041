@@ -235,6 +235,7 @@ def parseUser(connection, dir):
             c.execute("INSERT INTO user_programming_languages_wanted values (DEFAULT,%s,%s)", [username,pl.strip()])
     connection.commit()
     print username
+    c.close();
 
 def convertDOB(dob):
     m = re.search(r"(?P<day>\d{2})/(?P<month>\d{2})/(?P<year>\d{4})", dob)
