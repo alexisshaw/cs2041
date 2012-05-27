@@ -22,19 +22,19 @@ l = c.fetchone()
 internalCursor = conn.cursor()
 internalCursor.execute("SELECT operating_system FROM user_operating_systems " +
                        "WHERE user_operating_systems.userid = ? "+
-                       "ORDER BY user_operating_systems_wanted.operating_system ASC", [l['userid']])
+                       "ORDER BY operating_system ASC", [l['userid']])
 l['user_operating_systems'] = internalCursor.fetchall()
 internalCursor.execute("SELECT operating_system FROM user_operating_systems_wanted " +
                        "WHERE user_operating_systems_wanted.userid = ? " +
-                       "ORDER BY ser_operating_systems_wanted.operating_system ASC", [l['userid']])
+                       "ORDER BY operating_system ASC", [l['userid']])
 l['user_operating_systems_wanted'] = internalCursor.fetchall()
-internalCursor.execute("SELECT operating_system FROM user_programming_languages " +
+internalCursor.execute("SELECT programming_language FROM user_programming_languages " +
                        "WHERE user_programming_languages.userid = ? " +
-                       "ORDER BY user_programming_languages.programming_language ASC", [l['userid']])
+                       "ORDER BY programming_language ASC", [l['userid']])
 l['programming_language'] = internalCursor.fetchall()
-internalCursor.execute("SELECT operating_system FROM user_programming_languages_wanted " +
+internalCursor.execute("SELECT programming_language FROM user_programming_languages_wanted " +
                        "WHERE user_programming_languages_wanted.userid = ? " +
-                       "ORDER BY user_programming_languages_wanted.programming_language ASC", [l['userid']])
+                       "ORDER BY programming_language ASC", [l['userid']])
 l['user_programming_languages_wanted'] = internalCursor.fetchall()
 internalCursor.close()
 c.close()
