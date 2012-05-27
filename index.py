@@ -30,7 +30,7 @@ print """
       </div>
    </div>
    <div class="span9">
-      <h2>%(userid)s</h2>
+      <h1>%(userid)s</h1>
       <hr>
    </div>
    <div class="row">
