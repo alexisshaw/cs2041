@@ -205,7 +205,7 @@ def getOperatingSystemRowString(l):
                 os_wanted += langKey['operating_system']
         string += """\
                <tr>
-                  <td class="muted">Programming Languages</td>
+                  <td class="muted">Operating Systems</td>
                   <td>%(os)s</td>
                   <td>%(os_wanted)s</td>
                </tr>
