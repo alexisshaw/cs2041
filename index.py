@@ -30,9 +30,8 @@ print """
       </div>
    </div>
    <div class="span9">
-      <div class="page-header">
-          <h1>%(userid)s</h1>
-      </div>
+      <h2>%(userid)s</h2>
+      <hr>
    </div>
    <div class="row">
       <div class="span3">
