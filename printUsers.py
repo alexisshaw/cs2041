@@ -23,7 +23,33 @@ def fetchAdditionalProfileInfo(l, internalCursor):
     return l
 
 
-def printUserProfiles(query, values):
+def printUserProfilesInternal(query, values):
+    string = ''
+    conn = connectToDatabase.connect(dictCon=True)
+    users = conn.cursor()
+    internalCursor = conn.cursor()
+    users.execute(query, values)
+    for user in users:
+        l = user
+        l = fetchAdditionalProfileInfo(l, internalCursor)
+        string += getUserBioSummaryString(l)
+    internalCursor.close()
+    users.close()
+    conn.close()
+    return string
+
+def escape(search):
+    return search.replace('`','``').replace('_','`_').replace('%','`%')
+
+def getUserProfiles(search, prefix,postfix):
+    return printUserProfilesInternal("SELECT * FROM USERS WHERE userid ILIKE %s ESCAPE '`' ORDER BY userid ASC ", [prefix + escape(search) + postfix])
+
+def countUserProfiles(search, prefix,postfix):
+    conn  = connectToDatabase.connect()
+    count = con.cursor()
+    count.execute("SELECT count(*) FROM USERS WHERE userid ILIKE %s ESCAPE '`' ORDER BY userid ASC ", [prefix + escape(search) + postfix])
+    return count.fetchone()[0]
+def getCount(query,values):
     string = ''
     conn = connectToDatabase.connect(dictCon=True)
     users = conn.cursor()
