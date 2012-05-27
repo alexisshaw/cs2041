@@ -94,10 +94,10 @@ def parseUser(connection, dir):
                 switch = 'eng'
             elif re.match("^    looking_for", line) and switch == 'eng':
                 m = re.search(r': *(\w+)', line)
-                engineering_discipline = m.group(1)
+                engineering_discipline_wanted = m.group(1)
             elif re.match("^    me", line) and switch == 'eng':
                 m = re.search(r': *(\w+)', line)
-                engineering_discipline_wanted = m.group(1)
+                engineering_discipline = m.group(1)
 
             elif re.match("^favourite_star_wars_movie", line):
                 switch = 'star_wars'

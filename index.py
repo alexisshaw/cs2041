@@ -88,7 +88,7 @@ def getProgrammingLanguageRowString(l):
                 lang_wanted += langKey['programming_language'] + ', '
         string += """\
                <tr>
-                  <td class="muted">Programming Language</td>
+                  <td class="muted">Programming Languages</td>
                   <td>%(lang)s</td>
                   <td>%(lang_wanted)s</td>
                </tr>
