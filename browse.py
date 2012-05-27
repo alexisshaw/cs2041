@@ -21,7 +21,7 @@ def printPage(environ, start_response):
         if 'pagenum' in qs:
             pagenum = int(qs['pagenum'][0])
         else:
-            pagenum = 0 
+            pagenum = 0
     except:
         pagenum = 0
         excepted = True 

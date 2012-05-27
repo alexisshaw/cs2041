@@ -43,8 +43,8 @@ def genMenuBar(title, links):
             % {'link': l['link'],'name':l['name'], 'activeClass':'class="active"' if l['active'] else ''}
     menuString += """\
             </ul>
-            <form action="" class="navbar-search pull-right">
-              <input type="text" placeholder="Search" class="search-query span2">
+            <form action="search.py" method="GET" name='search' class="navbar-search pull-right">
+              <input type="text" name="search" placeholder="Search" class="search-query span2">
             </form>
           </div><!--/.nav-collapse -->
         </div>
