@@ -81,11 +81,15 @@ def getProgrammingLanguageRowString(l):
         lang = ''
         lang_wanted = ''
         if(l['user_programming_languages'] != None):
-            for langKey in  l['user_programming_languages']:
-                lang += langKey['programming_language'] + ', '
+            for i, langKey in enumerate(l['user_programming_languages']):
+                if i != 0:
+                    lang += ", "
+                lang += langKey['programming_language']
         if(l['user_programming_languages_wanted'] != None):
-            for langKey in  l['user_programming_languages_wanted']:
-                lang_wanted += langKey['programming_language'] + ', '
+            for i, langKey in  enumerate(l['user_programming_languages_wanted']):
+                if i != 0:
+                    lang += ", "
+                lang_wanted += langKey['programming_language']
         string += """\
                <tr>
                   <td class="muted">Programming Languages</td>
