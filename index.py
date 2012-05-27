@@ -75,6 +75,28 @@ print """\
 
 print getEngineeringDisciplineRowString(l)
 print getFavoriteStarWarsMovieRowString(l)
+def getProgrammingLanguageRowString(l):
+    string = ''
+    if not(l['programming_language'] == None and l['user_programming_languages_wanted'] == None):
+        lang = ''
+        lang_wanted = ''
+        if(l['programming_language'] != None):
+            for langKey in  l['programming_language']:
+                lang += langKey['programming_language'] + ', '
+        if(l['programming_language_wanted'] != None):
+            for langKey in  l['programming_language_wanted']:
+                lang_wanted += langKey['programming_language'] + ', '
+        string += """\
+               <tr>
+                  <td class="muted">Programming Language</td>
+                  <td>%s</td>
+                  <td>%s</td>
+               </tr>
+""" % lang, lang_wanted
+    return string
+
+print getProgrammingLanguageRowString(l)
+
 print """
             </tbody>
          </table>
