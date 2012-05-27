@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from printUser import getGenderRowString, getFavoriteStarWarsMovieRowString, getAgeRowString, getHeightRowString, getWeightRowString, getEditorRowString, getEngineeringDisciplineRowString
+from printUser import getGenderRowString, getFavoriteStarWarsMovieRowString, getAgeRowString, getHeightRowString, getWeightRowString, getEditorRowString, getEngineeringDisciplineRowString, getProgrammingLanguageRowString, getOperatingSystemRowString
 
 __author__ = 'WS02admin'
 
@@ -75,31 +75,8 @@ print """\
 
 print getEngineeringDisciplineRowString(l)
 print getFavoriteStarWarsMovieRowString(l)
-def getProgrammingLanguageRowString(l):
-    string = ''
-    if not(l['user_programming_languages'] == None and l['user_programming_languages_wanted'] == None):
-        lang = ''
-        lang_wanted = ''
-        if(l['user_programming_languages'] != None):
-            for i, langKey in enumerate(l['user_programming_languages']):
-                if i != 0:
-                    lang += ", "
-                lang += langKey['programming_language']
-        if(l['user_programming_languages_wanted'] != None):
-            for i, langKey in  enumerate(l['user_programming_languages_wanted']):
-                if i != 0:
-                    lang += ", "
-                lang_wanted += langKey['programming_language']
-        string += """\
-               <tr>
-                  <td class="muted">Programming Languages</td>
-                  <td>%(lang)s</td>
-                  <td>%(lang_wanted)s</td>
-               </tr>
-""" % {'lang':lang, 'lang_wanted':lang_wanted}
-    return string
-
 print getProgrammingLanguageRowString(l)
+print getOperatingSystemRowString(l)
 
 print """
             </tbody>

@@ -140,7 +140,7 @@ def getFavoriteStarWarsMovieRowString(l):
             l['favorite_star_wars_movie_wanted'] = ''
         string += """
                <tr>
-                  <td class="muted">Engineering Discipline</td>
+                  <td class="muted">Favorite Star Wars Film</td>
                   <td>%(favorite_star_wars_movie)s</td>
                   <td>%(favorite_star_wars_movie_wanted)s</td>
                </tr>
@@ -163,3 +163,51 @@ def getGenderRowString(l):
 """ % l
     else:
         return ''
+
+
+def getProgrammingLanguageRowString(l):
+    string = ''
+    if not(l['user_programming_languages'] == None and l['user_programming_languages_wanted'] == None):
+        lang = ''
+        lang_wanted = ''
+        if(l['user_programming_languages'] != None):
+            for i, langKey in enumerate(l['user_programming_languages']):
+                if i != 0:
+                    lang += ", "
+                lang += langKey['programming_language']
+        if(l['user_programming_languages_wanted'] != None):
+            for i, langKey in  enumerate(l['user_programming_languages_wanted']):
+                if i != 0:
+                    lang += ", "
+                lang_wanted += langKey['programming_language']
+        string += """\
+               <tr>
+                  <td class="muted">Programming Languages</td>
+                  <td>%(lang)s</td>
+                  <td>%(lang_wanted)s</td>
+               </tr>
+""" % {'lang':lang, 'lang_wanted':lang_wanted}
+    return string
+def getOperatingSystemRowString(l):
+    string = ''
+    if not(l['user_operating_systems'] == None and l['user_operating_systems_wanted'] == None):
+        os = ''
+        os_wanted = ''
+        if(l['user_operating_systems'] != None):
+            for i, langKey in enumerate(l['user_operating_systems']):
+                if i != 0:
+                    os += ", "
+                os += langKey['operating_system']
+        if(l['user_operating_systems_wanted'] != None):
+            for i, langKey in  enumerate(l['user_operating_systems_wanted']):
+                if i != 0:
+                    os_wanted += ", "
+                os_wanted += langKey['operating_system']
+        string += """\
+               <tr>
+                  <td class="muted">Programming Languages</td>
+                  <td>%(os)s</td>
+                  <td>%(os_wanted)s</td>
+               </tr>
+""" % {'os':os, 'os_wanted':os_wanted}
+    return string
