@@ -45,7 +45,7 @@ print """
 <div class="row">
    <div class="span3">
       <div class="thumbnail">
-         <img src= "getUserImage.py?userid=%(userid)s" height=270 \>
+         <img src= "getUserImage.py?userid=%(userid)s" \>
       </div>
    </div>
    <div class="span9">
