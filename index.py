@@ -46,6 +46,15 @@ print getHeightRowString(l)
 print getWeightRowString(l)
 print getEditorRowString(l)
 
+print """\
+             </tbody>
+         </table>
+      </div>
+      <div class="span6">
+         <table class="table table-condensed table-striped">
+            <tbody>
+"""
+
 print getEngineeringDisciplineRowString(l)
 print getFavoriteStarWarsMovieRowString(l)
 print """
