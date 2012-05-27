@@ -18,7 +18,7 @@ def printPage(environ, start_response):
     string += genHTML.genPageHeader("EngCupid")
     string += genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', active=True)])
     string += genHTML.beginContainer()
-    string += countUserProfiles('a', '', '%')
+    string += str(countUserProfiles('a', '', '%'))
     string += getUserProfiles('a', '', '%', 10, 0)
     string += genHTML.endContainer()
     string += genHTML.genPageFooter()
