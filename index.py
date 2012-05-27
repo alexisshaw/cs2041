@@ -17,7 +17,7 @@ def printAlphabetChooser():
     return 'a'
 
 print countUserProfiles('a','','%')
-print getUserProfiles('a', '','%')
+print getUserProfiles('a', '','%', 10 , 0)
 
 print genHTML.endContainer()
 

@@ -41,8 +41,8 @@ def printUserProfilesInternal(query, values):
 def escape(search):
     return search.replace('`','``').replace('_','`_').replace('%','`%')
 
-def getUserProfiles(search, prefix,postfix):
-    return printUserProfilesInternal("SELECT * FROM USERS WHERE userid ILIKE %s ESCAPE '`' ORDER BY userid ASC ", [prefix + escape(search) + postfix])
+def getUserProfiles(search, prefix,postfix, limit,page):
+    return printUserProfilesInternal("SELECT * FROM USERS WHERE userid ILIKE %s ESCAPE '`' ORDER BY userid ASC LIMIT %s OFFSET %s", [prefix + escape(search) + postfix, limit, page*limit ])
 
 def countUserProfiles(search, prefix,postfix):
     conn  = connectToDatabase.connect()
