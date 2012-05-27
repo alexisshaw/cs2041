@@ -19,7 +19,7 @@ print genHTML.beginContainer()
 conn = connectToDatabase.connect(dictCon = True)
 users    = conn.cursor()
 internalCursor = conn.cursor()
-users.execute("SELECT * FROM USERS ORDER BY userid ASC LIMIT 5")
+users.execute("SELECT * FROM USERS ORDER BY userid ASC")
 
 for user in users:
     l = user
