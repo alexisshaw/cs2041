@@ -46,9 +46,12 @@ def getUserProfiles(search, prefix,postfix):
 
 def countUserProfiles(search, prefix,postfix):
     conn  = connectToDatabase.connect()
-    count = con.cursor()
+    count = conn.cursor()
     count.execute("SELECT count(*) FROM USERS WHERE userid ILIKE %s ESCAPE '`' ORDER BY userid ASC ", [prefix + escape(search) + postfix])
+    count.close()
+    conn.close()
     return count.fetchone()[0]
+
 def getCount(query,values):
     string = ''
     conn = connectToDatabase.connect(dictCon=True)
