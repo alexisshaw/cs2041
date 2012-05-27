@@ -19,6 +19,7 @@ conn = connectToDatabase.connect(dictCon = True)
 c    = conn.cursor()
 c.execute("SELECT * FROM USERS ORDER BY userid ASC LIMIT 1")
 l = c.fetchone()
+l = c.fetchone()
 internalCursor = conn.cursor()
 internalCursor.execute("SELECT operating_system FROM user_operating_systems " +
                        "WHERE user_operating_systems.userid = %s "+
@@ -44,7 +45,7 @@ print """
 <div class="row">
    <div class="span3">
       <div class="thumbnail">
-         <img src = "getUserImage.py?userid=%(userid)s" \>
+         <img src= "getUserImage.py?userid=%(userid)s" height=270 \>
       </div>
    </div>
    <div class="span9">
