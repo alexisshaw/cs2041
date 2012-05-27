@@ -27,7 +27,7 @@ for user in users:
     print  getUserBioSummaryString(l)
 
 internalCursor.close()
-c.close()
+users.close()
 conn.close()
 
 print genHTML.endContainer()
