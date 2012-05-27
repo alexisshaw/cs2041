@@ -89,10 +89,10 @@ def getProgrammingLanguageRowString(l):
         string += """\
                <tr>
                   <td class="muted">Programming Language</td>
-                  <td>%s</td>
-                  <td>%s</td>
+                  <td>%(lang)s</td>
+                  <td>%(lang_wanted)s</td>
                </tr>
-""" % lang, lang_wanted
+""" % {'lang':lang, 'lang_wanted':lang_wanted}
     return string
 
 print getProgrammingLanguageRowString(l)
