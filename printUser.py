@@ -94,7 +94,7 @@ def getWeightRowString(l):
                 l['weight_wanted_high'] = str(l['weight_wanted_high']) + ' <span class="muted">kg</span>'
             string += """\
                   <td>%(weight_wanted_low)s - %(weight_wanted_high)s</td>
-"""
+""" % l
         string += """\
                </tr>
 """
