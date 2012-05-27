@@ -55,7 +55,7 @@ def getHeightRowString(l):
                 l['height_wanted_high'] = ''
             else:
                 l['height_wanted_high'] = str(l['height_wanted_high']) + ' <span class="muted">m</span>'
-            print """\
+            string += """\
                   <td>%(height_wanted_low)s - %(height_wanted_high)s</td>
 """
         string += """\
