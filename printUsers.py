@@ -23,12 +23,12 @@ def fetchAdditionalProfileInfo(l, internalCursor):
     return l
 
 
-def printUserProfiles(query):
+def printUserProfiles(query, values):
     string = ''
     conn = connectToDatabase.connect(dictCon=True)
     users = conn.cursor()
     internalCursor = conn.cursor()
-    users.execute(query)
+    users.execute(query, values)
     for user in users:
         l = user
         l = fetchAdditionalProfileInfo(l, internalCursor)

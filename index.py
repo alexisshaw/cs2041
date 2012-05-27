@@ -14,9 +14,13 @@ print genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', acti
 print genHTML.beginContainer()
 
 def printAlphabetChooser():
+    return 'a'
 
+def escape(search):
+    return search.replace('`','``').replace('_','`_').replace('%','`%')
 
-print printUserProfiles("SELECT * FROM USERS ORDER BY userid ASC WHERE userid ILIKE 'a%'")
+searchstring = 'a'
+print printUserProfiles("SELECT * FROM USERS ORDER BY userid ASC WHERE userid ILIKE %s ESCAPE '`'", [escape(searchstring)])
 
 print genHTML.endContainer()
 
