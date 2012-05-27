@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/python
 
 import connectToDatabase
@@ -28,7 +27,7 @@ def getUserImage(environ, start_response):
             mime,contentEncoding = mimetypes.guess_type(i[0])
 
             headers = [('Content-type', str(mime))]
-            if not contentEncoding == None: header.append(('Content-encoding', str(contentEncoding)))
+            if not contentEncoding == None: headers.append(('Content-encoding', str(contentEncoding)))
 
             message = i[0]
             status  = ok.code()
