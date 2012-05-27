@@ -25,7 +25,7 @@ def printPage(environ, start_response):
     string += genHTML.genPageHeader('EngCupid')
     string += genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', active=True)])
     string += genHTML.beginContainer()
-    if pagenum > (countUserProfiles('a', '', '%')-1)/10:
+    if pagenum > (countUserProfiles('a', '', '%')-1)/10 or not m.group(1).isdigit:
         responseCode = notFound.code()
         string += "<div class='span12'><div class=\"hero-unit\"><H1>404 :(</H1><p>Sorry but that page seems not to exist</p></div></div>"
     else:
