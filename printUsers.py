@@ -1,3 +1,6 @@
+import connectToDatabase
+from printUser import getUserBioSummaryString
+
 __author__ = 'ashaw'
 
 def fetchAdditionalProfileInfo(l, internalCursor):
@@ -18,3 +21,19 @@ def fetchAdditionalProfileInfo(l, internalCursor):
                            "ORDER BY programming_language ASC", [l['userid']])
     l['user_programming_languages_wanted'] = internalCursor.fetchall()
     return l
+
+
+def printUserProfiles(query):
+    string = ''
+    conn = connectToDatabase.connect(dictCon=True)
+    users = conn.cursor()
+    internalCursor = conn.cursor()
+    users.execute(query)
+    for user in users:
+        l = user
+        l = fetchAdditionalProfileInfo(l, internalCursor)
+        string += getUserBioSummaryString(l)
+    internalCursor.close()
+    users.close()
+    conn.close()
+    return string

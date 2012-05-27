@@ -1,11 +1,9 @@
 #!/usr/bin/python
-from printUser import  getUserBioSummaryString
-from printUsers import fetchAdditionalProfileInfo
+from printUsers import  printUserProfiles
 
 __author__ = 'WS02admin'
 
 import genHTML
-import connectToDatabase
 
 print genHTML.genHTTPHeader()
 
@@ -15,20 +13,7 @@ print genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', acti
 
 print genHTML.beginContainer()
 
-
-conn = connectToDatabase.connect(dictCon = True)
-users    = conn.cursor()
-internalCursor = conn.cursor()
-users.execute("SELECT * FROM USERS ORDER BY userid ASC")
-
-for user in users:
-    l = user
-    l = fetchAdditionalProfileInfo(l, internalCursor)
-    print  getUserBioSummaryString(l)
-
-internalCursor.close()
-users.close()
-conn.close()
+print printUserProfiles("SELECT * FROM USERS ORDER BY userid ASC LIMIT 10")
 
 print genHTML.endContainer()
 
