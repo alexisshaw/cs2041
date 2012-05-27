@@ -211,3 +211,49 @@ def getOperatingSystemRowString(l):
                </tr>
 """ % {'os':os, 'os_wanted':os_wanted}
     return string
+
+
+def getUserBioSummaryString(l):
+    string = ''
+    string += """
+<div class="row">
+   <div class="span3">
+      <div class="thumbnail">
+         <img src= "getUserImage.py?userid=%(userid)s" \>
+      </div>
+   </div>
+   <div class="span9">
+      <h1>%(userid)s</h1>
+      <hr>
+   </div>
+   <div class="row">
+      <div class="span3">
+         <table class="table table-condensed table-striped">
+            <tbody>
+""" % l
+    string += getAgeRowString(l)
+    string += getGenderRowString(l)
+    string += getHeightRowString(l)
+    string += getWeightRowString(l)
+    string += getEditorRowString(l)
+    string += """\
+             </tbody>
+         </table>
+      </div>
+      <div class="span6">
+         <table class="table table-condensed table-striped">
+            <tbody>
+"""
+    string += getEngineeringDisciplineRowString(l)
+    string += getFavoriteStarWarsMovieRowString(l)
+    string += getProgrammingLanguageRowString(l)
+    string += getOperatingSystemRowString(l)
+    string += """
+            </tbody>
+         </table>
+      </div>
+   </div>
+</div>
+<hr>
+"""
+    return string
