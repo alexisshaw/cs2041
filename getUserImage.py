@@ -44,3 +44,4 @@ def getUserImage(environ, start_response):
     return message
 
 wsgiref.handlers.CGIHandler().run(getUserImage)
+ 
