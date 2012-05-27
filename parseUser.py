@@ -65,15 +65,11 @@ def parseUser(connection, dir):
             elif re.match("^gender", line):
                 switch = 'gender'
             elif re.match("^    looking_for:", line) and switch == 'gender':
-                if re.match(r"Male", line):
-                    gender_wanted = "M"
-                else:
-                    gender_wanted = "F"
+                m = re.search(r": *([MmFf])", line)
+                gender_wanted = m.group(1).upper() if m != None else None
             elif re.match("^    me:", line) and switch == 'gender':
-                if re.search(r"Male", line):
-                    gender = "M"
-                else:
-                    gender = "F"
+                m = re.search(r": *([MmFf])", line)
+                gender = m.group(1).upper() if m != None else None
 
             elif re.match("^height", line):
                 switch = 'height'
