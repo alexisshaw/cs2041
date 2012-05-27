@@ -23,7 +23,6 @@ for dir in sorted(glob.glob(os.path.join(path,'*'))):
     if os.path.isdir(dir):
         parseUser(connection, dir)
 
-c = connection.cursor()
 c.execute("SELECT * FROM operating_systems")
 print c.fetchall()
 c.execute("SELECT * FROM star_wars_movies")
@@ -35,4 +34,5 @@ print c.fetchall()
 c.execute("SELECT * FROM engineering_disciplines")
 print c.fetchall()
 c.close()
+connection.commit()
 connection.close()
