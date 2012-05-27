@@ -17,7 +17,7 @@ def printAlphabetChooser():
 
 def printPage(environ, start_response):
     m = re.search('pagenum=([^&]*)', environ['QUERY_STRING'])
-    pagenum = int(m.group(1) if m != None else 0)
+    pagenum = m.group(1) if m != None and m.group(1).isdigit else 0
 
     responseCode = ok.code()
 
