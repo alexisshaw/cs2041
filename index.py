@@ -24,8 +24,8 @@ internalCursor.execute("SELECT operating_system FROM user_operating_systems " +
                        "WHERE user_operating_systems.userid = %s "+
                        "ORDER BY operating_system ASC", [l['userid']])
 l['user_operating_systems'] = internalCursor.fetchall()
-internalCursor.execute("SELECT operating_system FROM user_operating_systems_wanted " +
-                       "WHERE user_operating_systems_wanted.userid = %s " +
+internalCursor.execute("SELECT operating_system FROM user_operating_system_wanted " +
+                       "WHERE user_operating_system_wanted.userid = %s " +
                        "ORDER BY operating_system ASC", [l['userid']])
 l['user_operating_systems_wanted'] = internalCursor.fetchall()
 internalCursor.execute("SELECT programming_language FROM user_programming_languages " +
