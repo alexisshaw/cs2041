@@ -13,7 +13,10 @@ print genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', acti
 
 print genHTML.beginContainer()
 
-print printUserProfiles("SELECT * FROM USERS ORDER BY userid ASC LIMIT 10")
+def printAlphabetChooser():
+
+
+print printUserProfiles("SELECT * FROM USERS ORDER BY userid ASC WHERE userid ILIKE 'a%'")
 
 print genHTML.endContainer()
 
