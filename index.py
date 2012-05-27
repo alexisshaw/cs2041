@@ -32,7 +32,7 @@ l['user_operating_systems_wanted'] = internalCursor.fetchall()
 internalCursor.execute("SELECT programming_language FROM user_programming_languages " +
                        "WHERE user_programming_languages.userid = %s " +
                        "ORDER BY programming_language ASC", [l['userid']])
-l['programming_language'] = internalCursor.fetchall()
+l['user_programming_languages'] = internalCursor.fetchall()
 internalCursor.execute("SELECT programming_language FROM user_programming_languages_wanted " +
                        "WHERE user_programming_languages_wanted.userid = %s " +
                        "ORDER BY programming_language ASC", [l['userid']])
@@ -77,14 +77,14 @@ print getEngineeringDisciplineRowString(l)
 print getFavoriteStarWarsMovieRowString(l)
 def getProgrammingLanguageRowString(l):
     string = ''
-    if not(l['programming_language'] == None and l['user_programming_languages_wanted'] == None):
+    if not(l['user_programming_languages'] == None and l['user_programming_languages_wanted'] == None):
         lang = ''
         lang_wanted = ''
-        if(l['programming_language'] != None):
-            for langKey in  l['programming_language']:
+        if(l['user_programming_languages'] != None):
+            for langKey in  l['user_programming_languages']:
                 lang += langKey['programming_language'] + ', '
-        if(l['programming_language_wanted'] != None):
-            for langKey in  l['programming_language_wanted']:
+        if(l['user_programming_languages_wanted'] != None):
+            for langKey in  l['user_programming_languages_wanted']:
                 lang_wanted += langKey['programming_language'] + ', '
         string += """\
                <tr>
