@@ -25,17 +25,23 @@ def getUserImage(environ, start_response):
         connection.close()
 
         if not i == None:
+            imageData = ''
             if i[0] == None:
                 if i[1] == None or i[1] == 'M':
-                    i[0] = open('anonymouse_image' + os.sep + 'wikipedia_annonymouse_male.png')
+                    imageData = open (os.getcwd() + os.sep + 'anonymouse_images' 
+                                    + os.sep + 'wikipedia_annonymous_male.png').read()
                 else:
-                    i[0] = open('anonymouse_image' + os.sep + 'wikipedia_annonymouse_female.png')
-            mime,contentEncoding = mimetypes.guess_type(i[0])
+                    imageData = open(os.getcwd() + os.sep + 'anonymouse_images' 
+                                   + os.sep + 'wikipedia_annonymous_female.png').read()
+            else:
+                imageData = i[0]
+ 
+            mime,contentEncoding = mimetypes.guess_type(imageData)
 
             headers = [('Content-type', str(mime))]
             if not contentEncoding == None: headers.append(('Content-encoding', str(contentEncoding)))
 
-            message = i[0]
+            message = imageData
             status  = ok.code()
         else: 
             status  = notFound.code()
