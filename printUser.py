@@ -176,9 +176,9 @@ def getProgrammingLanguageRowString(l):
                     lang += ", "
                 lang += langKey['programming_language']
         if(l['user_programming_languages_wanted'] != None):
-            for i, langKey in  enumerate(l['user_programming_languages_wanted']):
+            for i, langKey in enumerate(l['user_programming_languages_wanted']):
                 if i != 0:
-                    lang += ", "
+                    lang_wanted += ", "
                 lang_wanted += langKey['programming_language']
         string += """\
                <tr>
