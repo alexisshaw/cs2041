@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import os
 
 import connectToDatabase
 import mimetypes
@@ -16,14 +17,19 @@ def getUserImage(environ, start_response):
     if not m == None:
         userid = m.group(1)
     
-        connection = connectToDatabase.connect();
+        connection = connectToDatabase.connect()
         c = connection.cursor()
-        c.execute("SELECT image FROM users WHERE userid = %s", [userid])
+        c.execute("SELECT image,gender FROM users WHERE userid = %s", [userid])
         i = c.fetchone()
         c.close()
         connection.close()
 
-        if not i == None and not i[0] == None:
+        if not i == None:
+            if i[0] == None:
+                if i[1] == None or i[1] == 'M':
+                    i[0] = open('anonymouse_image' + os.sep + 'wikipedia_annonymouse_male.png')
+                else:
+                    i[0] = open('anonymouse_image' + os.sep + 'wikipedia_annonymouse_female.png')
             mime,contentEncoding = mimetypes.guess_type(i[0])
 
             headers = [('Content-type', str(mime))]
