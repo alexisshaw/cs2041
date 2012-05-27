@@ -32,7 +32,7 @@ def printPage(environ, start_response):
     responseCode = ok.code()
 
     string += genHTML.genPageHeader('EngCupid')
-    string += genHTML.genMenuBar("EngCupid", [dict(link='EngCupid.py', name='Home', active=True)])
+    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=False)])
     string += genHTML.beginContainer()
     if excepted or pagenum > (countUserProfiles(search, '%', '%')-1)/10 and countUserProfiles(search, '%', '%')!= 0:
         responseCode = notFound.code()
@@ -40,7 +40,9 @@ def printPage(environ, start_response):
     else:
         if countUserProfiles(search, '%', '%') == 0:
             string +=  "<div class='span12'><div class=\"hero-unit\"><H1>No Results Found</H1><p>We're sorry but there are no users that meet your search criteria</p></div></div>"
-        string += getUserProfiles(search, '%', '%', 10, pagenum)
+        else:
+            string += genHTML.genPagination((countUserProfiles(search, '%', '%') - 1)/10, environ['SCRIPT_NAME']+'?search='+search, pagenum)
+            string += getUserProfiles(search, '%', '%', 10, pagenum)
     string += genHTML.endContainer()
     string += genHTML.genPageFooter()
     start_response(responseCode, [('Content-type', 'text/html')])
