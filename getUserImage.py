@@ -14,43 +14,39 @@ def getUserImage(environ, start_response):
     headers = []
     status  = ''
     message = ''
-    if not m == None:
-        userid = m.group(1)
-    
-        connection = connectToDatabase.connect()
-        c = connection.cursor()
-        c.execute("SELECT image,gender FROM users WHERE userid = %s", [userid])
-        i = c.fetchone()
-        c.close()
-        connection.close()
+    if m==None:
+        return notFound.notFound(environ,start_response)
 
-        if not i == None:
-            imageData = ''
-            if i[0] == None:
-                if i[1] == None or i[1] == 'M':
-                    imageData = open (os.getcwd() + os.sep + 'anonymouse_images' 
-                                    + os.sep + 'wikipedia_annonymous_male.png').read()
-                else:
-                    imageData = open(os.getcwd() + os.sep + 'anonymouse_images' 
-                                   + os.sep + 'wikipedia_annonymous_female.png').read()
-            else:
-                imageData = i[0]
- 
-            mime,contentEncoding = mimetypes.guess_type(imageData)
+    userid = m.group(1)
 
-            headers = [('Content-type', str(mime))]
-            if not contentEncoding == None: headers.append(('Content-encoding', str(contentEncoding)))
+    connection = connectToDatabase.connect()
+    c = connection.cursor()
+    c.execute("SELECT image,gender FROM users WHERE userid = %s", [userid])
+    i = c.fetchone()
+    c.close()
+    connection.close()
 
-            message = imageData
-            status  = ok.code()
-        else: 
-            status  = notFound.code()
-            headers = notFound.header()
-            message = notFound.body()
+    if i==None:
+        return notFound.notFound(environ,start_response)
+    imageData = ''
+
+    if i[0] == None:
+        if i[1] == None or i[1] == 'M':
+            imageData = open (os.getcwd() + os.sep + 'anonymouse_images'
+                            + os.sep + 'wikipedia_annonymous_male.png').read()
+        else:
+            imageData = open(os.getcwd() + os.sep + 'anonymouse_images'
+                           + os.sep + 'wikipedia_annonymous_female.png').read()
     else:
-        status  = notFound.code()
-        headers = notFound.header()
-        message = notFound.body()
+        imageData = i[0]
+
+    mime,contentEncoding = mimetypes.guess_type(imageData)
+
+    headers = [('Content-type', str(mime))]
+    if not contentEncoding == None: headers.append(('Content-encoding', str(contentEncoding)))
+
+    message = imageData
+    status  = ok.code()
     headers.append(('Content-Length', str(len(message))))
     start_response(status, headers)
     return message

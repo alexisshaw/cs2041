@@ -54,10 +54,10 @@ def genMenuBar(title, links):
     return menuString
 
 def beginContainer():
-    return '    <div class="container">\n'
+    return '      <div class="container">\n'
 
 def endContainer():
-    return '    </div>\n'
+    return '      </div>\n'
 
 def genPageFooter():
     return """\
