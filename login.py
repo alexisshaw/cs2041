@@ -9,6 +9,7 @@ import genHTML
 import ok
 import Cookie
 
+
 __author__ = 'Alexis Shaw'
 def login(username, password, autoLogout):
     conn = connectToDatabase.connect(dictCon=True)
@@ -31,7 +32,8 @@ def login(username, password, autoLogout):
 def isLoggedIn(token):
     conn = connectToDatabase.connect(dictCon=True)
     c = conn.cursor()
-    q = c.execute("SELECT * FROM logindata WHERE login_token = %s", [token])
+    c.execute("SELECT * FROM logindata where login_token = %s", [token])
+    q = c.fetchone()
     conn.commit()
     c.close()
     conn.close()
@@ -49,10 +51,11 @@ def updateLogin(token):
 def getName(token):
     conn = connectToDatabase.connect(dictCon=True)
     c = conn.cursor()
-    q = c.execute("SELECT * FROM logindata WHERE login_token = %s", [token])
+    c.execute("SELECT * FROM logindata WHERE login_token = %s", [token])
+    q = c.fetchone()
     name = ''
     if q is not None:
-        userid = c.fetchone()['userid']
+        userid = q['userid']
         c.execute("SELECT name FROM users WHERE userid = %s", [userid])
         name = c.fetchone()['name']
     conn.commit()
@@ -78,7 +81,6 @@ def getLoginToken(environ):
         return ''
 
 def loginPage(environ, start_response):
-    environ['QUERY_STRING']='username=aaron_34&password=osculaloads'
     qs =  parse_qs(environ['QUERY_STRING'], keep_blank_values=True)
     loginFailure = False
     if ('username' in qs) and ('password' in qs):

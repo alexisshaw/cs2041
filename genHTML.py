@@ -47,10 +47,20 @@ def genMenuBar(title, links, token):
     if login.isLoggedIn(token):
         menuString += """\
             </ul>
-            <form action="search.py" method="GET" name='search' class="navbar-search pull-right">
-              <input type="text" name="search" placeholder="Search" class="search-query span2">
-            </form>
-            Welcome %(name)s
+            <ul class="nav pull-right">
+              <li>
+                <form action="search.py" method="GET" name='search' class="navbar-search">
+                  <input type="text" name="search" placeholder="Search" class="search-query span2">
+                </form>
+              </li>
+              <li class="divider-vertical"></li>
+              <li class="dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">%(name)s<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="logout.py">Log Out</a></li>
+                </ul>
+              </li>
+            </ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
@@ -59,10 +69,9 @@ def genMenuBar(title, links, token):
     else:
         menuString += """\
                 </ul>
-                <form action="search.py" method="GET" name='search' class="navbar-search pull-right">
-                  <input type="text" name="search" placeholder="Search" class="search-query span2">
-                </form>
-                login
+            <ul class="nav pull-right">
+              <li><a href="login.py">Log In</a></li>
+            </ul>
               </div><!--/.nav-collapse -->
             </div>
           </div>
