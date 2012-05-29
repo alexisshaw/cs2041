@@ -21,7 +21,7 @@ def deleteAccount(environ, start_response):
     else:
         return forbidden.forbidden(environ,start_response)
 
-    conn = connectToDatabase.connectToDatabase()
+    conn = connectToDatabase.connect()
     c = conn.cursor()
     c.execute("UPDATE FROM users SET account_status = 'Active' WHERE userid = %s", [userid])
     conn.commit()

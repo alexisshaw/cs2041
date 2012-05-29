@@ -12,7 +12,7 @@ __author__ = 'ashaw'
 def deleteAccount(environ, start_response):
     wasloggedin = login.isLoggedIn(login.getLoginToken(environ))
 
-    conn = connectToDatabase.connectToDatabase()
+    conn = connectToDatabase.connect()
     c = conn.cursor()
     c.execute("DELETE FROM users WHERE userid = %s", [login.getUserId(login.getLoginToken(environ))])
     conn.commit()

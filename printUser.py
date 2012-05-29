@@ -262,7 +262,6 @@ def getUserProfile(l):
    <div class="span4">
       <div class="thumbnail">
          <img src= "getUserImage.py?userid=%(userid)s" \>
-      </div>
          <table class="table table-condensed table-striped">
             <tbody>
 """ % l
