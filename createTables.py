@@ -7,21 +7,14 @@ def dropTables(connection):
     connection.execute("DROP TABLE IF EXISTS user_programming_languages")
     connection.execute("DROP TABLE IF EXISTS user_programming_languages_wanted")
     connection.execute("DROP TABLE IF EXISTS programming_languages")
+    connection.execute("DROP TABLE IF EXISTS loginData")
     connection.execute("DROP TABLE IF EXISTS users")
     connection.execute("DROP TABLE IF EXISTS editors")
     connection.execute("DROP TABLE IF EXISTS star_wars_movies")
     connection.execute("DROP TABLE IF EXISTS engineering_disciplines")
     connection.execute("DROP TYPE IF EXISTS gender_type")
-    connection.excecte("DROP TABLE IF EXISTS loginData")
 
 def createTables(connection):
-    connection.execute("""\
-CREATE TABLE logindata(
-    login_token  CHAR(32) PRIMARY KEY NOT NULL UNIQUE
-    userid       VARCHAR(255) NOT NULL REFERENCES users(userid) ON DELETE CASCADE
-    lastUsed     timestamp with time zone NOT NULL
-    autoLogout   boolean   NOT NULL
-)""")
     connection.execute("""\
 CREATE TABLE star_wars_movies (
     movie_name    VARCHAR(60) PRIMARY KEY NOT NULL UNIQUE
@@ -68,6 +61,14 @@ CREATE TABLE users (
    CHECK (weight_wanted_low = NULL or weight_wanted_low > 0),
    CHECK (weight_wanted_low = NULL or weight_wanted_low  < height_wanted_high)
    );""")
+    connection.execute("""\
+CREATE TABLE logindata(
+    login_token  CHAR(32) PRIMARY KEY NOT NULL UNIQUE,
+    userid       VARCHAR(255) NOT NULL REFERENCES users(userid) ON DELETE CASCADE,
+    lastUsed     timestamp with time zone NOT NULL,
+    autoLogout   boolean   NOT NULL
+)""")
+
     connection.execute("""\
 CREATE TABLE operating_systems (
    operating_system         VARCHAR(255) PRIMARY KEY NOT NULL UNIQUE
