@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import wsgiref.handlers
+import login
 import notFound
 import ok
 from printUsers import getUserProfiles, countUserProfiles
@@ -32,7 +33,7 @@ def printPage(environ, start_response):
     responseCode = ok.code()
 
     string += genHTML.genPageHeader('EngCupid')
-    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=False)])
+    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=False)], login.getLoginToken(environ))
     string += genHTML.beginContainer()
     if excepted or pagenum > (countUserProfiles(search, '%', '%')-1)/10 and countUserProfiles(search, '%', '%')!= 0:
         return notFound.notFound(environ, start_response)

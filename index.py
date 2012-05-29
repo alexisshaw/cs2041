@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import wsgiref.handlers
+import login
 import ok
 __author__ = 'WS02admin'
 
@@ -12,7 +13,7 @@ def printPage(environ, start_response):
     responseCode = ok.code()
     string = ''
     string += genHTML.genPageHeader('EngCupid')
-    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=False)])
+    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=False)], login.getLoginToken(environ))
     string += genHTML.beginContainer()
     string += """\
         <div class='span12'>

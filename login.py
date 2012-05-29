@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
 import base64
-import datetime
-import re
 import wsgiref.handlers
 import connectToDatabase
 import os
@@ -48,6 +46,20 @@ def updateLogin(token):
     c.close()
     conn.close()
 
+def getName(token):
+    conn = connectToDatabase.connect(dictCon=True)
+    c = conn.cursor()
+    q = c.execute("SELECT * FROM logindata WHERE login_token = %s", [token])
+    name = ''
+    if q is not None:
+        userid = c.fetchone()['userid']
+        c.execute("SELECT name FROM users WHERE userid = %s", [userid])
+        name = c.fetchone()['name']
+    conn.commit()
+    c.close()
+    conn.close()
+    return name
+
 
 def logout(token):
     conn = connectToDatabase.connect(dictCon=True)
@@ -79,7 +91,7 @@ def loginPage(environ, start_response):
             loginFailure = True
     string = ''
     string += genHTML.genPageHeader('EngCupid')
-    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=True)])
+    string += genHTML.genMenuBar("EngCupid", [dict(link='browse.py', name='Browse', active=True)], getLoginToken(environ))
     string += genHTML.beginContainer()
     string += """
 <div class="span12">

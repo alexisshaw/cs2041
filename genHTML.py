@@ -1,4 +1,5 @@
 import connectToDatabase
+import login
 
 __author__ = 'WS02admin'
 
@@ -30,7 +31,7 @@ def genPageHeader(title):
   <body>
 """ % {'title': title}
 
-def genMenuBar(title, links):
+def genMenuBar(title, links, token):
     menuString = """\
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
@@ -43,16 +44,30 @@ def genMenuBar(title, links):
         menuString += ("""\
               <li %(activeClass)s><a href=\"%(link)s\">%(name)s</a></li>""") \
             % {'link': l['link'],'name':l['name'], 'activeClass':'class="active"' if l['active'] else ''}
-    menuString += """\
+    if login.isLoggedIn(token):
+        menuString += """\
             </ul>
             <form action="search.py" method="GET" name='search' class="navbar-search pull-right">
               <input type="text" name="search" placeholder="Search" class="search-query span2">
             </form>
+            Welcome %(name)s
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
-"""
+""" % {'name':login.getName(token)}
+    else:
+        menuString += """\
+                </ul>
+                <form action="search.py" method="GET" name='search' class="navbar-search pull-right">
+                  <input type="text" name="search" placeholder="Search" class="search-query span2">
+                </form>
+                login
+              </div><!--/.nav-collapse -->
+            </div>
+          </div>
+        </div>
+    """
     return menuString
 
 def beginContainer():
