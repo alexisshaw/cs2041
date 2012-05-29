@@ -1,3 +1,4 @@
+from cgi import parse_qs
 import connectToDatabase
 import genHTML
 from login import getLoginToken, login
