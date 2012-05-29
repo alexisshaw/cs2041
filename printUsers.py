@@ -42,12 +42,12 @@ def escape(search):
     return search.replace('`','``').replace('_','`_').replace('%','`%')
 
 def getUserProfiles(search, prefix,postfix, limit,page):
-    return printUserProfilesInternal("SELECT * FROM USERS WHERE userid ILIKE %s ESCAPE '`' ORDER BY userid ASC LIMIT %s OFFSET %s", [prefix + escape(search) + postfix, limit, page*limit ])
+    return printUserProfilesInternal("SELECT * FROM USERS WHERE userid ILIKE and account_status = 'Active' %s ESCAPE '`' ORDER BY userid ASC LIMIT %s OFFSET %s", [prefix + escape(search) + postfix, limit, page*limit ])
 
 def countUserProfiles(search, prefix,postfix):
     conn  = connectToDatabase.connect()
     count = conn.cursor()
-    count.execute("SELECT count(*) FROM USERS WHERE userid ILIKE %s ESCAPE '`'", [prefix + escape(search) + postfix])
+    count.execute("SELECT count(*) FROM USERS WHERE userid and account_status = 'Active' ILIKE %s ESCAPE '`'", [prefix + escape(search) + postfix])
     countValue = count.fetchone()[0]
     count.close()
     conn.close()

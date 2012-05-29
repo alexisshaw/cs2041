@@ -27,6 +27,7 @@ CREATE TABLE engineering_disciplines (
 CREATE TABLE editors (
     editor    VARCHAR(255) PRIMARY KEY NOT NULL UNIQUE
 );""")
+    connection.execute("CREATE TYPE account_status_type AS ENUM ('Active','Pending', 'Suspended')")
     connection.execute("CREATE TYPE gender_type AS ENUM ('M','F')")
     connection.execute("""\
 CREATE TABLE users (
@@ -52,6 +53,9 @@ CREATE TABLE users (
    favorite_star_wars_movie        VARCHAR(60) REFERENCES star_wars_movies(movie_name),
    favorite_star_wars_movie_wanted VARCHAR(60) REFERENCES star_wars_movies(movie_name),
    image                           bytea,
+   account_status                  account_status_type NOT NULL,
+   account_created                 timestamp with time zone NOT NULL,
+   profile                         text NOT NULL,
    --Checks
    CHECK (dob < current_date),
    CHECK (age_wanted_low = NULL or age_wanted_low > 0),

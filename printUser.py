@@ -217,7 +217,7 @@ def getUserBioSummaryString(l):
     string = ''
     string += """
 <div class="row">
-   <div class="span3">
+   <div class="span2">
       <div class="thumbnail">
          <img src= "getUserImage.py?userid=%(userid)s" \>
       </div>
@@ -227,7 +227,42 @@ def getUserBioSummaryString(l):
       <hr>
    </div>
    <div class="row">
-      <div class="span3">
+      <div class="span5">
+         <table class="table table-condensed table-striped">
+            <tbody>
+""" % l
+    string += getAgeRowString(l)
+    string += getGenderRowString(l)
+    string += getHeightRowString(l)
+
+    string += """\
+             </tbody>
+         </table>
+      </div>
+      <div class="span5">
+         <table class="table table-condensed table-striped">
+            <tbody>
+"""
+    string += getWeightRowString(l)
+    string += getEditorRowString(l)
+    string += """
+            </tbody>
+         </table>
+      </div>
+   </div>
+</div>
+<hr>
+"""
+    return string
+
+def getUserProfile(l):
+    string = ''
+    string += """
+<div class="row">
+   <div class="span4">
+      <div class="thumbnail">
+         <img src= "getUserImage.py?userid=%(userid)s" \>
+      </div>
          <table class="table table-condensed table-striped">
             <tbody>
 """ % l
@@ -236,14 +271,6 @@ def getUserBioSummaryString(l):
     string += getHeightRowString(l)
     string += getWeightRowString(l)
     string += getEditorRowString(l)
-    string += """\
-             </tbody>
-         </table>
-      </div>
-      <div class="span6">
-         <table class="table table-condensed table-striped">
-            <tbody>
-"""
     string += getEngineeringDisciplineRowString(l)
     string += getFavoriteStarWarsMovieRowString(l)
     string += getProgrammingLanguageRowString(l)
@@ -253,7 +280,12 @@ def getUserBioSummaryString(l):
          </table>
       </div>
    </div>
+   <div class="span8">
+    <div class="page-header">
+        <h1>%(userid)s</h1>
+    </div>
+       %(profile)s
+   </div>
 </div>
-<hr>
-"""
+""" % l
     return string

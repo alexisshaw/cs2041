@@ -194,7 +194,7 @@ def parseUser(connection, dir):
                     [engineering_discipline_wanted.strip()])
          if c.fetchone() is None:
             c.execute("INSERT INTO engineering_disciplines values(%s)", [engineering_discipline_wanted.strip()]) 
-    c.execute("INSERT INTO users values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
+    c.execute("INSERT INTO users values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,, 'Active' CURRENT_TIMESTAMP - INTERVAL 1 DAY , "")",
         [username,
          password.decode("utf-8"),
          name,

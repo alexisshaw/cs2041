@@ -36,7 +36,7 @@ def genMenuBar(title, links, token):
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="%(base)s/index.py">%(title)s</a>
+          <a class="brand" href="%(base)sindex.py">%(title)s</a>
           <div class="nav-collapse">
             <ul class="nav">
 """ % {'title':title, 'base':connectToDatabase.getDirBase()}

@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import wsgiref.handlers
+import forbidden
 import login
 import notFound
 import ok
@@ -15,6 +16,8 @@ def printAlphabetChooser():
 
 
 def printPage(environ, start_response):
+    if not login.isLoggedIn(login.getLoginToken(environ)):
+        return forbidden.forbidden(environ,start_response)
     string = ''
     qs =  parse_qs(environ['QUERY_STRING'], keep_blank_values=True)
     excepted = False

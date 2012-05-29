@@ -3,6 +3,8 @@ import os
 
 import connectToDatabase
 import mimetypes
+import forbidden
+import login
 import notFound
 import ok
 import wsgiref
@@ -14,6 +16,8 @@ def getUserImage(environ, start_response):
     headers = []
     status  = ''
     message = ''
+    if not login.isLoggedIn(login.getLoginToken(environ)):
+        return forbidden.forbidden(environ,start_response)
     if m==None:
         return notFound.notFound(environ,start_response)
 

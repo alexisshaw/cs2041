@@ -14,7 +14,7 @@ __author__ = 'Alexis Shaw'
 def login(username, password, autoLogout):
     conn = connectToDatabase.connect(dictCon=True)
     c = conn.cursor()
-    c.execute("SELECT userid ,pass FROM users where userid = %s", [username])
+    c.execute("SELECT userid ,pass FROM users where userid = %s and not account_status = 'Pending'", [username])
     if c is None:
         raise Exception('User Does Not Exist')
     result = c.fetchone()
@@ -30,6 +30,7 @@ def login(username, password, autoLogout):
     return random
 
 def isLoggedIn(token):
+    updateLogin(token)
     conn = connectToDatabase.connect(dictCon=True)
     c = conn.cursor()
     c.execute("SELECT * FROM logindata where login_token = %s", [token])
@@ -43,6 +44,7 @@ def updateLogin(token):
     conn = connectToDatabase.connect(dictCon=True)
     c = conn.cursor()
     c.execute("DELETE FROM logindata WHERE (lastUsed  < CURRENT_TIMESTAMP - INTERVAL 20 MINUTE) and autoLogout")
+    c.execute("DELETE FROM users WHERE (account_created < CURRENT_TIMESTAMP - INTERVAL 20 MINUTE) and account_status = 'Pending'")
     c.execute("UPDATE FROM logindata SET lastUsed = CURRENT_TIMESTAMP WHERE login_token = %s", [token])
     conn.commit()
     c.close()
@@ -57,6 +59,21 @@ def getName(token):
     if q is not None:
         userid = q['userid']
         c.execute("SELECT name FROM users WHERE userid = %s", [userid])
+        name = c.fetchone()['name']
+    conn.commit()
+    c.close()
+    conn.close()
+    return name
+
+def getUserId(token):
+    conn = connectToDatabase.connect(dictCon=True)
+    c = conn.cursor()
+    c.execute("SELECT * FROM logindata WHERE login_token = %s", [token])
+    q = c.fetchone()
+    name = ''
+    if q is not None:
+        userid = q['userid']
+        c.execute("SELECT userid FROM users WHERE userid = %s", [userid])
         name = c.fetchone()['name']
     conn.commit()
     c.close()
@@ -108,7 +125,7 @@ def loginPage(environ, start_response):
 """
     string+= """\
   <h1>Login</h1>
-  <form class="form-horizontal">
+  <form class="form-horizontal" method="GET" name='search' action="login.py" >
     <fieldset>
       <div class="control-group">
         <label class="control-label" for="username">Username</label>
@@ -117,9 +134,9 @@ def loginPage(environ, start_response):
         </div>
       </div>
       <div class="control-group">
-        <label class="control-label" for="username" value="%(username)s">Password</label>
+        <label class="control-label" for="password" value="%(username)s">Password</label>
         <div class="controls">
-           <input id="username" class="input-xlarge" type="password">
+           <input id="password" class="input-xlarge" type="password">
         </div>
       </div>
       <div class="form-actions">
