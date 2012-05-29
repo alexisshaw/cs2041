@@ -15,3 +15,6 @@ def connect(dictCon = False):
             host = 'ates466.srvr',
             port = 5432,
             connection_factory = psycopg2.extras.RealDictConnection if dictCon else psycopg2.extensions.connection )
+def getDirBase ():
+    return '/~ates466/cs2041/engcupid/'
+

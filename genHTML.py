@@ -1,3 +1,5 @@
+import connectToDatabase
+
 __author__ = 'WS02admin'
 
 def genHTTPHeader():
@@ -33,10 +35,10 @@ def genMenuBar(title, links):
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="index.py">%(title)s</a>
+          <a class="brand" href="%(base)s/index.py">%(title)s</a>
           <div class="nav-collapse">
             <ul class="nav">
-""" % {'title':title}
+""" % {'title':title, 'base':connectToDatabase.getDirBase()}
     for l in links:
         menuString += ("""\
               <li %(activeClass)s><a href=\"%(link)s\">%(name)s</a></li>""") \

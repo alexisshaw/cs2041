@@ -12,8 +12,16 @@ def dropTables(connection):
     connection.execute("DROP TABLE IF EXISTS star_wars_movies")
     connection.execute("DROP TABLE IF EXISTS engineering_disciplines")
     connection.execute("DROP TYPE IF EXISTS gender_type")
+    connection.excecte("DROP TABLE IF EXISTS loginData")
 
 def createTables(connection):
+    connection.execute("""\
+CREATE TABLE logindata(
+    login_token  CHAR(32) PRIMARY KEY NOT NULL UNIQUE
+    userid       VARCHAR(255) NOT NULL REFERENCES users(userid) ON DELETE CASCADE
+    lastUsed     timestamp with time zone NOT NULL
+    autoLogout   boolean   NOT NULL
+)""")
     connection.execute("""\
 CREATE TABLE star_wars_movies (
     movie_name    VARCHAR(60) PRIMARY KEY NOT NULL UNIQUE
