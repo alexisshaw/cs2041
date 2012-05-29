@@ -1,6 +1,7 @@
 import base64
 import datetime
 import re
+import wsgiref
 import connectToDatabase
 import os
 from cgi import parse_qs
@@ -109,3 +110,6 @@ def loginPage(environ, start_response):
     string += genHTML.genPageFooter()
     start_response(ok.code(), [('Content-type', 'text/html')])
     return string
+
+if __name__ == "__main__":
+    wsgiref.handlers.CGIHandler().run(loginPage)
