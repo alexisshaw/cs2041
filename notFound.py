@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import wsgiref.handlers
 import genHTML
 
